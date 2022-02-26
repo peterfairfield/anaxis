@@ -3,6 +3,7 @@ console.log(msg);
 const e = require('express');
 var express = require('express');
 var md = require('markdown-it')();
+var decode = require('decode-html')
 var markdownItAttrs = require('@gerhobbelt\\markdown-it-attrs');
 var app = express();
 
@@ -29,20 +30,19 @@ app.use(express.static('public'));
 
 app.post('/create', (req, resp) => {
   const ref = req.get('Referrer');
-  console.log('ref', ref);
-  console.log('req.body', req.body);
   var url = new URL(ref);
-  console.log(url.pathname)
 
   const relPath = '.' + url.pathname + '.md';
   const body = "";
-  if (!fs.existsSync(relPath)) {
-    console.log('writing markdown,', req.body.markdown);
-    fs.writeFileSync(relPath, req.body.markdown);
-    // resp.send(wrapper.replace('BODY', req.body.markdown));
+  if (req.body.markdown) {
+    const dir = url.pathname.split('/')[1];
+    fs.mkdirSync(dir, { recursive: true })
+    console.log('req.body.markdown',req.body.markdown);
+    fs.writeFileSync(relPath, decode(req.body.markdown));
   }
+
   if (ref.match(/create/)) {
-    resp.send('OK')
+    resp.send('OK, dude')
   } else {
     resp.redirect(ref);
   }
@@ -50,21 +50,22 @@ app.post('/create', (req, resp) => {
 
 app.get('*', (req, resp) => {
 
-    console.log(req.path);
     let data = "";
+    let file = ""
     try {
         const relPath = '.' + req.path + '.md';
         if (fs.existsSync(relPath)) {
-          data = md.render(fs.readFileSync(relPath, 'utf8'));
+          file = fs.readFileSync(relPath, 'utf8')
+          data = md.render(file);
         } else {
           // new page
-          data = wrapper.replace('BODY', form); 
+          data = "No page found, create a new one?"
         }
       } catch (err) {
         data = err.stack;
       }
-    const wrapped = wrapper.replace('BODY', data);
-    resp.send(wrapped);
+    const wrapped = wrapper.replace(/BODY/g, data);
+    resp.send(wrapped + form.replace(/REPLACEME/g, file));
 });
 
-app.listen(3000);
+app.listen(80);

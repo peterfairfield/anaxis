@@ -82,6 +82,9 @@ If they go to the meeting, no-one but the old-bloods will try to murder them. Si
 ### The Shrine of the Moon
 
 They meet these groups in a wild concert of violence, they might be dancing? Posturing?
+
+---
+
 **Jat and his gang of Silverbloods.**
 These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.
 

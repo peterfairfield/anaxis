@@ -1,4 +1,79 @@
-<form action="/create" id="newfile" method="post">
-  <textarea id="body" name="markdown" rows="20" cols="50">REPLACEME</textarea>
-  <input type="submit">
-</form>
+<script>
+
+$(document).ready(function() {
+  $(document).on("submit", "form#new_expandable", function(e) {
+    e.preventDefault();
+    var contents = $(".expandable-input").html();
+    $('input#expandable').val(contents);
+    this.submit();
+  });
+});
+
+ function insertHtmlAfterSelection(html, isBefore) {
+    var sel, range, expandedSelRange, node;
+    if (window.getSelection) {
+        sel = window.getSelection();
+        if (sel.getRangeAt && sel.rangeCount) {
+            range = window.getSelection().getRangeAt(0);
+            expandedSelRange = range.cloneRange();
+            range.collapse(isBefore);
+
+            // Range.createContextualFragment() would be useful here but is
+            // non-standard and not supported in all browsers (IE9, for one)
+            var el = document.createElement("div");
+            el.innerHTML = html;
+            var frag = document.createDocumentFragment(), node, lastNode;
+            while ( (node = el.firstChild) ) {
+                lastNode = frag.appendChild(node);
+            }
+            range.insertNode(frag);
+
+            // Preserve the selection
+            if (lastNode) {
+                expandedSelRange.setEndAfter(lastNode);
+                sel.removeAllRanges();
+                sel.addRange(expandedSelRange);
+            }
+        }
+    } else if (document.selection && document.selection.createRange) {
+        range = document.selection.createRange();
+        expandedSelRange = range.duplicate();
+        range.collapse(isBefore);
+        range.pasteHTML(html);
+        expandedSelRange.setEndPoint("EndToEnd", range);
+        expandedSelRange.select();
+    }
+}
+
+    var margleDargle = (a, b) => {
+      insertHtmlAfterSelection(b, false)
+      insertHtmlAfterSelection(a, true);
+    }
+
+    function keydown(e) {
+        if (!e) e = event;
+        console.log('doc key', e);
+        if (e.key == 's' && e.altKey) {
+          setTimeout(function () {
+            var contents = $("#textarea").html();
+            $('#expandable').val(contents);
+            document.getElementById("new_expandable").submit();
+          }, 0);
+        }
+        if (e.key == 'l' && e.altKey) {
+            e.preventDefault();
+            margleDargle('[', '](/)');
+        }
+
+      }
+    
+
+
+    document.onkeydown = keydown;
+</script>
+
+<form id="new_expandable" action="/create" method="post">
+    <div contenteditable="true" id="textarea" class="expandable-input">REPLACEME</div>
+    <input type="hidden" id="expandable" name="markdown"></input>
+    <input type="submit"></input>
+  </form>
