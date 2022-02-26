@@ -17,6 +17,8 @@ const fs = require('fs');
 
 const wrapper = fs.readFileSync('index.html', 'utf8');
 
+app.use(express.static('public'));
+
 app.get('*', (req, resp) => {
     console.log(req.path);
     let data = "";

@@ -58,7 +58,7 @@ Showdown between DeVerre and Philos, The Clerk. Bols is trying to prove he has t
 *   Bols will swat him down, he will mutter something to the tune of “and by the way, we have a probable suspicion that there is heroin in transit, by some ancient code or other, so they do have the right to examine the bowels of the islanders.
 *   DeVerre will point out that they are no longer, but if they could all get on with it, they could search the island together. In good faith, he will invite Bols to come with him.
 
-### [During Riot/Invasion](/t/riot)
+### [During Riot/Invasion](/r/riot)
 
 1.  During crisis: there is a big fight here, it would be nice to have a map. Perhaps the cards are map tiles, with sigils on them. The fight should threaten the life or end the life of a close ally (Bols, for instance). Here are some examples
     1.  Transporting Prisoners – a cart of prisoners, perhaps the town council, maybe some enemies of the city?
@@ -69,7 +69,7 @@ Showdown between DeVerre and Philos, The Clerk. Bols is trying to prove he has t
 
 An Acceptance ceremony, where a poor kid gets their acceptance from Natural College. When the Cursors and sent though, Bols will clear the streets, and if the players succeed in helping him prevent a stampede will get Tearer-points.
 
-### The Flint House](/l/flint_house)
+### [The Flint House](/l/flint_house)
 
 They will run into Bors, and after ceding neutral territory. He will tell them that he’s worried about his superiors in the Host, and he is at a loss whom to trust.
 
