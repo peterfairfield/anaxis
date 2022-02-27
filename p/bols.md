@@ -1,6 +1,6 @@
-An unstoppable force with a happy leap in his step. He has a lot on his plate, and he needs that plate cleaned and put back on the shelf.
+## Option Harold Bols
 
-[Events](#events){#events}
+An unstoppable force with a happy leap in his step. He has a lot on his plate, and he needs that plate cleaned and put back on the shelf.
 
 ### [The Iron Gate](/l/the_iron_gate)
 

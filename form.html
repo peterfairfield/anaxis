@@ -3,7 +3,7 @@
 $(document).ready(function() {
   $(document).on("submit", "form#new_expandable", function(e) {
     e.preventDefault();
-    var contents = $(".expandable-input").html().replace(/(<([^>]+)>)/gi, "");;
+    var contents = $(".expandable-input").html().replace(/(<([^>]+)>)/gi, "\n");;
     $('input#expandable').val(contents);
     this.submit();
   });
