@@ -1,4 +1,10 @@
-  The Tower of Aunt Agnus
+## Aunt Agnus
+ + Agnatha
+
+She of fresh waters and hard scales. She brings many mighty gifts, and will not be deterred.
+
+### The Tower of Aunt Agnus
+
 Big Tentacles, oh my. The island has a lake, and the lake is deep. There are tentacles in the lake. A huge monster tree. It tries to eat them, in a friendly way. It smells so sweet and it sings so gently. The island seems really pleasant, suddenly there are motes of light and everything sounds like it is far away. You can somehow see better, see clearer. The aboleth enters your mind for the first time. Agnus asks you what you most desire. You know you must tell the truth.
 
 This is when Edo Nain springs into action, if he’s still alive. He will mindblank them all with scrolls and then tells them to proceed as they wish. He will have the Spirit with him, if they let him have it, and maybe Option Bols, if he survived so far. Bols will meet Fred soon. That is going to be the tightest of bonds in the City, as it Changes. 

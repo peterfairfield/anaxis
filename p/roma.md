@@ -59,20 +59,29 @@ The first time the party needs to clean up something pronto, they bring in a pro
  * She has been studying bones, she has been noticing bones of a people who have lived here before.
 
 
+#### Handlers
+> **Moska**: Mal the Tongue, he looks like the witcher, only a lot worse.
+
+> **Navy**: Lady Horne, of course.
+
+> **Ymil**: Professor Shawn Fallstaff
+
+
 ### [Ram's Shelf](/l/rams_shelf)
 
 Roma is there, and can purr them into talking to some of the townsfolk who saw what actually happened. This appears to be:
 
-"Have you ever wondered why all house mistresses have the same demeanor? It's because it's easier to sub them out, you see."
+> "Have you ever wondered why all house mistresses have the same demeanor? It's because it's easier to sub them out, you see."
 
-"I do actually work here, occasionally. And the clientle are very, very talkative. But usually I just come here for the vacation and mountain air."
+> "I do actually work here, occasionally. And the clientle are very, very talkative. But usually I just come here for the vacation and mountain air."
 
-There are some people who might be willing to talk.
+> There are some people who might be willing to talk, in particular one of the younger clans: The Prince's Wolves. She is actually going to paint them in rose colors, as she blames them for her loss of position.
 
 Niama can tell them: 
  * Hysterics, “The Shrine of the Moon” and “The Bishop's Hide”
  * There is a really hot-headed Prince on the premises.
  * And he might start murdering people.
+ * His name is [Silar Gloryshield](/p/silar) 
  * Edo Rian has been destroying evidence. Burning a lot of paper.
 Eventually, Rian will have to go with the desires of his heart: the transference to werewolf without danger to his life, and loyalty to his mistress in the upcoming battle with Aunt Agnus, who is coming with her sahagin army to put the Kraken down, before it destroys the world.
 
