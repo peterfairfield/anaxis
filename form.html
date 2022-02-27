@@ -3,7 +3,7 @@
 $(document).ready(function() {
   $(document).on("submit", "form#new_expandable", function(e) {
     e.preventDefault();
-    var contents = $(".expandable-input").html();
+    var contents = $(".expandable-input").html().replace(/(<([^>]+)>)/gi, "");;
     $('input#expandable').val(contents);
     this.submit();
   });
@@ -73,7 +73,7 @@ $(document).ready(function() {
 </script>
 
 <form id="new_expandable" action="/create" method="post">
-    <div contenteditable="true" id="textarea" class="expandable-input">REPLACEME</div>
+    <div contenteditable="true" id="textarea" class="expandable-input">TEXT</div>
     <input type="hidden" id="expandable" name="markdown"></input>
-    <input type="submit"></input>
+    <input type="submit">
   </form>

@@ -1,10 +1,16 @@
 html, body {
     margin: 0;
     padding: 0;
-    position: absolute;
     top: 0;
     left: 0;
    }
+table td, table td * {
+  vertical-align: top;
+}
+
+.text {
+  min-width: 1000px;
+}
 
 #textarea {
     -moz-appearance: textfield-multiline;
@@ -12,11 +18,9 @@ html, body {
     border: 1px solid gray;
     font: medium -moz-fixed;
     font: -webkit-small-control;
-    height: 228px;
     overflow: auto;
     padding: 2px;
     resize: both;
-    width: 800px;
     white-space: pre-wrap;
     -webkit-writing-mode: horizontal-tb !important;
     font-style: ;
@@ -40,4 +44,6 @@ html, body {
     cursor: text;
     white-space: pre-wrap;
     overflow-wrap: break-word;
+    width: 650px;
+    height: 400px
   }

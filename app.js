@@ -37,7 +37,6 @@ app.post('/create', (req, resp) => {
   if (req.body.markdown) {
     const dir = url.pathname.split('/')[1];
     fs.mkdirSync(dir, { recursive: true })
-    console.log('req.body.markdown',req.body.markdown);
     fs.writeFileSync(relPath, decode(req.body.markdown));
   }
 
@@ -64,8 +63,10 @@ app.get('*', (req, resp) => {
       } catch (err) {
         data = err.stack;
       }
-    const wrapped = wrapper.replace(/BODY/g, data);
-    resp.send(wrapped + form.replace(/REPLACEME/g, file));
+    
+    const wf = form.replace(/TEXT/g, file)
+    const wrapped = wrapper.replace(/BODY/g, data).replace(/FORM/g, wf);
+    resp.send(wrapped);
 });
 
 app.listen(80);
