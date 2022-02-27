@@ -13,6 +13,10 @@ app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
   extended: true
 })); 
 
+var TurndownService = require('turndown')
+
+var turndownService = new TurndownService();
+
 md.use(markdownItAttrs, {
   // optional, these are default options
   leftDelimiter: '{',
@@ -36,8 +40,12 @@ app.post('/create', (req, resp) => {
   const body = "";
   if (req.body.markdown) {
     const dir = url.pathname.split('/')[1];
+    let payload = req.body.markdown;
     fs.mkdirSync(dir, { recursive: true })
-    fs.writeFileSync(relPath, decode(req.body.markdown));
+    if (payload.match(/(<([^>]+)>)/gi)) {
+      payload = turndownService.turndown(payload);
+    }
+    fs.writeFileSync(relPath, decode(payload));
   }
 
   if (ref.match(/create/)) {

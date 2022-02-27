@@ -3,7 +3,7 @@
 ### [Names](#hidden){#names}
 Oly Bae, Natasha, 
 
-### [Kars Island](/p/kars)
+### [Kars Island](/l/kars_island)
 
 Asha has a deal with the Inner Circle of the [Green](/f/green). 
 Bore’s experiment and Roma’s to clean up, a nice [Fellowship] ceremony might clear things up.
@@ -14,7 +14,7 @@ Bore’s experiment and Roma’s to clean up, a nice [Fellowship] ceremony might
 
 If the players want to go back to Bard’s Library and use this information to narrow the list down, they can talk to Meatus. 
 
-Meatus tells them that Porter (or and Edo impersonating him) is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.
+Meatus tells them that [Porter](/p/porter) (or and Edo impersonating him) is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.
 
 **Why did Roma want to have someone follow Kessler? How did she find out? What does she think of Meatus?**
 
@@ -47,6 +47,17 @@ The major texts are taken out by the bulldozers. They only came to smash, not to
 “Call me Queen, I like it!”
 
 The choice in the city is whether to unite the reactive elements (the Ymil vs the Witches, and yes she is working for both), Bore has just been promoted to President of the War College, and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.
+
+
+### Hello, I'm Natasha Roma
+
+The first time the party needs to clean up something pronto, they bring in a pro: She knows a few things, but they are very dangerous. She wields them for maximum carnage. For you:
+ * The phases of the Moon corresponds to the ship attacks. The Keepers of the Moon have not been helpful, she could use someone higher up in the Upper Halls, which they might have made contact through their work with Kirkhalls.
+ * She will not work directly with the Host, as most of her contacts/contracts are directly under Host persecution. 
+ * She appears to be in love with Allan.
+ * She is terrified of Bees.
+ * She has been studying bones, she has been noticing bones of a people who have lived here before.
+
 
 ### [Ram's Shelf](/l/rams_shelf)
 

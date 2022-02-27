@@ -20,3 +20,6 @@ Showdown between [DeVerre](/p/deverre) and Philos, The Clerk. [Bols](/p/bols) is
 > In good faith, Deverre will invite Bols to come with him. Bols shouldn't probably deserve it at this point, but DeVerre is easy to work with.
 
 > DeVerre will vouch that his people are honest, but not the 6 marines that guard the Lighthouse.
+
+The Glassworks
+They enter a world of light and stars. They drift, but find they are walking on solid, sandy, ground. They are next to a wagon, and DDD gets in.
