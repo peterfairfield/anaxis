@@ -1,0 +1,1 @@
+Duchess Vaunne of Beowulf. She is the Duke’s mother.

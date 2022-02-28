@@ -8,3 +8,5 @@ Music history, musical instruction, also has a lot of books on all other subject
 [Beek Rake Hats](/f/beef_rake_hats)
 
 Scibere Meatus, who also works as a chef at the Beef Rake Hats. He is also a martial trainer for St. Andreas. He can become large, he has two modes IN and OUT. He knows that the Observatory College is under the protection of [St. Andreas](/f/st_andreas) and they will be looking into it, if Bore wants someone to knock heads with, he’ll find good company. They might be able to find out from him that several newcomers have been coming to the library, but no one of any particular note.
+
+

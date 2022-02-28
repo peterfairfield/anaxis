@@ -1,3 +1,9 @@
+
+
+Sea Cave
+
+Hiram Naxas
+Is intense. If he hears that Hatchaxel is on the run, he will run them down with his seawolves. He will overtake the yacht, take her or sink her. His mania and cannon cojoin in such beauty, you realize he a thing of the sea itself, a spirit of thunder and lightening, waves and wind.
   
 
 Cutter Hiram Naxas

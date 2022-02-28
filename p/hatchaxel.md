@@ -1,4 +1,8 @@
-  
+## Hatchaxel
+
+-- Head first
+
+He’ll try to use the confusion of their arrival to snatch the gold and run it. He’ll have paid the Ymil for a boat and supplies. He will deliver the books/and or gold into the boat and meet up with them on Crow Island. He can get the gold to the harbor via a the old canal. Anyone noticing this detail will have to be jumped on by “Porter” and convinced that he had nothing to do with it, he was just following old protocols. He will try to slip in and snatch the books if Hatchaxel can’t get them out, if he can do without blowing cover.
   
 
 ### They Jump Off Their Ship

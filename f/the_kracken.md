@@ -1,6 +1,8 @@
-  
+## Baraganzer 
+ - king of the Underworld
+ - the Kraken  
 
-The Kracken
+#### The Kracken
 
 “My time is ending, the sea no longer rises, I will become but a legend in the dusty old books of men and boys that play at imagination games, if all goes well, sigh.”
 

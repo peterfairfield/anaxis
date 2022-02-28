@@ -1,0 +1,2 @@
+The Archives
+Once down in the archives, there in some loot, in the form of smashed open chests and old wizards’ artifacts. They are able to track the route Kessler took by following him or Magnus Freeman (disguised as Porter). 

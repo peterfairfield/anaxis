@@ -29,3 +29,11 @@ This is a bit of how it went down: [Roma](/p/roma) had inherited a huge amount o
 Most people know that it's "big shot", but there aren't a lot of famous ones. Seems like a new title. Some project between the naval colleges and Host.
 
 He's very young for the position, but it came up with a wave of retirements. For many in this rocky political terrian, Bore is their shelter from the storm, holding the city together. He will not hesitate to detain them if he needs them, or to search their stuff, with his agents or just himself.
+
+Executor Bore
+
+Who is innocent of stealing the books, so knows for sure it wasn’t him. Iis going to come down on everyone like a ton of bricks. He is going to make the most of this bookhunt, grabbing books he wants, executing political rivals, cleaning house upstairs and downstairs, with a pile of burning books in the middle.
+
+
+The Pattern
+Bore (as always) think these thefts have a pattern, once he hears of the book the Finders claim to be missing: The Seawurm’s Ship’s Logs.
