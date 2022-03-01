@@ -148,8 +148,3 @@ At the confrontation, if they can introduce to Agnus a solid connection within t
 
 Aftermath: someone was bound to slip up. Either they know more about Roma, Bore, Agnus, or Nain after this, or Silar will notice something and give them a mission to check up on, because he’s a smart guy. There is the mystery of the ship and of the disappearance of Saxon and Gladhand’s fleet.
 
-
-
-
-
-

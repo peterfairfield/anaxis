@@ -11,3 +11,8 @@ This or tree branches covered in spelt. The Manders especially love spelt.
 
 The Sea rises
 For the last 3000 years, the sea has been rising about a foot a year, but that has begun to slow and is about to start reversing as silt is carried down the river to reestablish a new delta. The fields will be covering the old city and the old forest.
+
+
+The Firest has been gathering trunks in upon themselves, and twinned with spiders and nests of frogs, but the overwhelming desire is to go, to be on the move. The heart has been held too long, the worst of the groves planted by the old king to only use to build real ships. If they can find the plans to build the ships, then they will be able to get access to the old trees themselves. Depending on how the negotiations and results of the First Fleet is, if things are going poorly for the Navy, then some miracle woods might start to appear. Stuff made like wood, stained, but it breaks strangely. It also usually attracts spiders
+
+After the outcome of the events between the Kraken and the Natural College, either this will be chitinous resin work or this comes from some independent spiders. Either way; it makes great boats. There are now spiders and ants crawling about, building things. They seem quite sociable and wholesome, if a bit strange.

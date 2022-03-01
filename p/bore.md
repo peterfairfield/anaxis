@@ -37,3 +37,15 @@ Who is innocent of stealing the books, so knows for sure it wasn’t him. Iis go
 
 The Pattern
 Bore (as always) think these thefts have a pattern, once he hears of the book the Finders claim to be missing: The Seawurm’s Ship’s Logs.
+
+
+Bore 
+Anytime they touch him, they will be recruited by Anax Shoe – a High Tearer who works for Bore.
+
+and the Firest Forest. He will feed them some information, and only if they make an effort.
+The givers of green are healers, with the Finders, somehow
+The Standing Stones are all over the Necropolis, and parts of the Chippies are built on the Standing Stones.
+The criminals in the city are retrained into the legions. 
+People have been disappearing. There appears to be a pattern, and the Givers of Green seem to be really implicated, if he can lead them to their own conclusions, the better.
+He wants to know what the Kracken is looking for.
+He wants to know anything about the Natural College he can find.

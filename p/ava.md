@@ -16,7 +16,7 @@ She isn’t as keyed into the who and what of the [Ymil](/f/ymil), Society and B
 
 Ava is an old family [Finder](/f/the_finders), and has been told that she will find love among the first lords of the city.
 
-Is the triangle Bore Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for Fred. 
+Is the triangle Bore Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for [Fred](/p/fred). 
 
 About around time she decides to come looking, he wants to remain hidden. He will enter the city and it will Change, the three events that Change the City are: Queen, King, and Marriage. Fred will be opposed by the Finders, the Host and the Colleges.
 

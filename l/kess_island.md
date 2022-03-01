@@ -50,3 +50,10 @@ They can be invited to Fred’s adoption ceremony. They will recount the story o
 Kess Island
 
 Once they have reached the island, they are going to be preceded and followed by the usual: Magnus Freeman and … Who is representative of law & order on Kess, Hiram Naxas? If they are able to use Buckfest or even Reggie the Lame to get there, so much the better. Anyway, Sir Hatchaxel is on the island, guarding the Abbey keep. The 6 other members of the guard at the keep are hand-picked for their loyalty to the Host, and are more likely to kill Hatchaxel than any of the player, once they’ve found out what he has done.
+
+The Staged Attack
+
+They are carrying the Hierophant in a cart, he is waylaid by Hatchaxel (of the Brotherhood of the Wolf), who makes off with the satchel (which is glowing like a fucking beacon). While the ever watchful Porter makes off with the gold. Who do they pursue? Porter has the 6 bruiser who he tries to command into the fight, but who will soon back down in confusion after 1 round of battle. They are not of the brotherhood, but are Finders. First finders of resin and wood. Reed and wooden boats, anything that will float. They will use the lighthouse to signal Hiram if Porter and/or (hopefully? staged! ) Hatchaxel escape. Hatchaxel will use the double confusion to wolf the fuck out and head down to the secret Mariner’s dock. The bruisers will tell them this if everybody backs down. Otherwise, it’s time for Bols. It’s most certainly time for Bols later, if they give chase.
+Hill People: Baba Yaga, the Wolves, Duke Lucan, The Night Stalkers
+They have the Stalkers, Karesh, and Woodmen. There are two main sects up at the East Reservoir. 
+

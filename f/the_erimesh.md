@@ -28,3 +28,8 @@ Upon returning to [Eshar](/l/the_city) from Tell Kur, there will be some folks w
 #### Esme Thornshield 
 sees Lagash as the future of the Silvermen, and she has a plan to make that happen. The caravans must run, no matter what comes.
 
+
+The Wolves Under Attack
+Someone (probably the Host) tries to burn the town down. There are 5 different challenges, which Tzagim should know about. Esme Thornshield owns a small town that was destroyed, while the materials to destroy the East Reservoir (Tell Iona and Tell Kur are the two ruin-mounds skirting the reservoir).
+
+

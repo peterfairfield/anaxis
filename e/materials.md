@@ -5,6 +5,21 @@ The Dagger is made of iron
 The Eye is made of tar.
 The Staff is made of wood
 
+ 
+
+The Dagger, They Black and White, White and Black, The Stag, The Sun
+The Ten of Chinese
+If they follow up on the Dagger, they will fall afoul of the  
+
+ The Bowl, "myriad" (万) 
+The vessel of Enki, the drinking urn. The naphtha urn. When they see it, they realize it is what it is.
+
+The Staff
+These are the words written on the staves
+
+This is maybe a good time to reveal that Obel is an incubus. His masters may go up the chain a while.
+
+
 Mills. Wood vs flour
 
 Food Hasira. Flour from the west, grapes and exotic cultivars from the islands. Figs.
