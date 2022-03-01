@@ -27,3 +27,6 @@ If they are able to intercept any messages (maybe Bore could tell them who to vi
 4.  “The tides will rise” is smeared in poop in the city.
     
 5.  “Embrace the sea”
+
+### Kraken Hunt
+At some point, there should be a Kraken Hunt. Maybe something a little ridiculous like setting up the party to kill the Kraken on their own, with the right equipment. Maybe someone gives them the right equipment?

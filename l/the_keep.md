@@ -1,0 +1,2 @@
+The Keep Grounds
+This is where the guard runs practice rounds with each other, study and keep watch over the east side of the Island. They also tend to the beacon, and send signals to the Observatory. One of them Fred, is in love with an Elf Maiden he has never seen.

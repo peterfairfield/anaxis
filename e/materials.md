@@ -28,3 +28,16 @@ Like in the past, someone’s going to get buried in amber. Balm, the oil of Gil
 
 Far Away Peoples
 Lapus and other gemstones, spices and crafts. 
+
+
+Trade in Bitumen  - This is in competition with Lime
+
+Trade in Salt (the lower salt city is an excellent place to collect it.)
+
+Trade in Oyster Shells – do these end up in lime ricks (cement) or sent to the Nakers (to be rendered into mother of pearl for magical purposes) Oyster Cultch or sets are also made with perforated shells on string.
+
+Wood – This is going to be a major concern for the Inner Colleges and the Host. They will have already had contacts for for wood for ships and the city, but suddenly there is a huge desire for wood as the defenses are built up. This is combined with the feeling that all of the islands are sinking anyway, so why not harvest the wood now? This is countermanded when the players find ancient records indicating that the rate of ocean rise has been slowing considerably.
+
+The other problem is that the Elven written language is largely unreadable. There have been attempts at translation, but they haven’t taken widespread hold. The Elves have considered it sacrilegious to use use phonetic transcription of words. There is a symbolic understanding of the words which is lost. Meanwhile the people of the city don’t know how to make wine.
+
+Some things have been shared, the making of bread, wine, cheese and pottery? Let’s think about this one. The Finders brought brewing. The Society brought banking.
