@@ -1,19 +1,3 @@
-The Kush
-The mountain people from above the lake. They have always been there. The salamanders are counted among them, the wolves have long been their servants. The party will have to negotiate a power move to bring the animals in harmony. They will have to show them that they are not on the same side as the Masters.
-
-College of the Library
-A place obsessed with writing things down. Ugaric a city stricken by the Divorce, the heads of research, they are obsessed with the past and the “big shakers and movers” – the people who write the history. They sing the laudes of the kings of before. The greater and more bombastic, like the Assirians, the better. They will need to see the real people and consequences. Ava will present them a perspective from her high tower.
-
-Is the triangle Bore Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for Fred. 
-
-About around time she decides to come looking, he wants to remain hidden. He will enter the city and it will Change, the three events that Change the City are: Queen, King, and Marriage. Fred will be opposed by the Finders, the Host and the Colleges.
-
-As the cards come up, there is a lean you can pull from each card (maybe the front side) the backside is all of the other rules. He is going to pull up and wreck some house. Fred Halfelven will hit all of the major trade goods, all guilds and and artisans. The triumph of the Egyptians over the sea peoples, the barbarians. The great and venereal society of the Most Ancient City. They are the ones trying to stab Fred in the back. The Opera will start this message, and imprint it in the minds of those. Fred has enemies among his own faction, those who are trying to rewrite history, and erase the phonetic sylvan.
-
-Fred’ sacrifice is to die to the group of his own people who don’t want their written system eradicated. Fred begins to compose screeds that are wildly read throughout the Chippies and the Forest. He has some really good things to point out about what is going on. He is a Finder in name, and with the help of other Finders, the party might be able to bring the more radical elements to the table: perhaps a meeting between the Society and a Giver of Green?
-
-The major texts are taken out by the bulldozers. They only came to smash, not to grab. This rubble can be reconstructed to find the life blood of information. They might meet Roma. “You know, the advantage of my line of work is, people can never be sure that it might not be the case that…  are working for me or with me? or not?” What is written and recorded about her movements. She is new chaos leaking off her.
-
 “I’m a spy for the biggest, most nefarious organization you can imagine, by like 1 billion times, or some big big number. Sorry I’m babbling. You must understand, that is one damn good cover (wink).”
 
 “Do you know who you work for. Maybe: do you know who you work for?”

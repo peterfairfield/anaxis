@@ -15,3 +15,13 @@ She isn’t as keyed into the who and what of the [Ymil](/f/ymil), Society and B
   
 
 Ava is an old family [Finder](/f/the_finders), and has been told that she will find love among the first lords of the city.
+
+Is the triangle Bore Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for Fred. 
+
+About around time she decides to come looking, he wants to remain hidden. He will enter the city and it will Change, the three events that Change the City are: Queen, King, and Marriage. Fred will be opposed by the Finders, the Host and the Colleges.
+
+As the cards come up, there is a lean you can pull from each card (maybe the front side) the backside is all of the other rules. He is going to pull up and wreck some house. Fred Halfelven will hit all of the major trade goods, all guilds and and artisans. The triumph of the Egyptians over the sea peoples, the barbarians. The great and venereal society of the Most Ancient City. They are the ones trying to stab Fred in the back. The Opera will start this message, and imprint it in the minds of those. Fred has enemies among his own faction, those who are trying to rewrite history, and erase the phonetic sylvan.
+
+Fred’ sacrifice is to die to the group of his own people who don’t want their written system eradicated. Fred begins to compose screeds that are wildly read throughout the Chippies and the Forest. He has some really good things to point out about what is going on. He is a Finder in name, and with the help of other Finders, the party might be able to bring the more radical elements to the table: perhaps a meeting between the Society and a Giver of Green?
+
+The major texts are taken out by the bulldozers. They only came to smash, not to grab. This rubble can be reconstructed to find the life blood of information. They might meet Roma. “You know, the advantage of my line of work is, people can never be sure that it might not be the case that…  are working for me or with me? or not?” What is written and recorded about her movements. She is new chaos leaking off her.
