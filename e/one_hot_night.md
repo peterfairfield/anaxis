@@ -9,7 +9,7 @@ Dramatis Personae
 
 > Yung will send someone to tell them of a missing person – someone’s daughter that he needs to get back in a quick and diplomatic way.
 
->Bols is throwing a cop party and will shop it by Esme or Joanna, depending on how things are going with the Erimesh. If it is Esme, everyone is talking about her losses and the slave trade.
+> Bols is throwing a cop party and will shop it by Esme or Joanna, depending on how things are going with the Erimesh. If it is Esme, everyone is talking about her losses and the slave trade.
 
 > Event: A Esharite Noblewoman is being an ass to the Erimesh and the Danoi. “Wolves from the hills” and “Flea-bitten barbarians in-exile”
 Event: A man has clearly took too much Mull.

@@ -4,4 +4,4 @@ He is a cat. He has taken a position at the Natural College Library, and has bee
 
   
 
-If they search his desk: They find forgery kits and cartography tools. He has been taking his lunch at Ten Pins, which is a decent misdirection if they want to pursue the Givers of the Green, or the rest of the Leaf Game. The Leaf Game has a surprise for everyone: an ancient elemental who is about to level the Chippies.
+If they search his desk: They find forgery kits and cartography tools. He has been taking his lunch at Ten Pins, which is a decent misdirection if they want to pursue the Givers of the Green, or the rest of the [Leaf Game](/e/leaf_game). The Leaf Game has a surprise for everyone: an ancient elemental who is about to level the Chippies.

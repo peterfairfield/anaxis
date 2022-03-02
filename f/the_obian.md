@@ -1,5 +1,7 @@
+## The Obian
+
 Hill People: Baba Yaga, the Wolves, Duke Lucan, The Night Stalkers
-They have the Stalkers, Karesh, and Woodmen. There are two main sects up at the East Reservoir. 
+They have the Stalkers, Karesh, and [Woodmen](/f/the_woodmen). There are two main sects up at the East Reservoir. 
 
 The Esharites
 They are strangely attractive, but in a flawed way, they have webbed hands, strange arms or legs. The Broken Ones come from this group and many of the Moska. They are the Esharites, the people of the lake.
