@@ -13,6 +13,27 @@ They wish for battle, and a lot of death. Their first meeting will involve a max
 
 > The [BRH](/f/the_beef_rake_hats) want to smuge a prisoner on the nose.
 
+### The Hadrad
+When the swamps beneath the sea became flooded with salt the black dragons could no longer find a place to spawn, and so they remained in pupa form, until the day when they might find a way to reopen the swamps. Hence Lord Saxon's sea wall. 
+
+## Reds (Golds)
+
+## Blacks (Bronze)
+
+## Greens (Brass)
+
+## Whites (Silver)
+
+So this was Fillstorm's plan. Have all of the dragons hatch at the same time and go off to wreck the enemy. She's maybe misjudged the chaos that would ensue. The Dwarfs don't mind killing Dragons, and then there's all those tasty cows. She also knew about how pupa can effect each other. The most worthless elements won't be in a positions to get to the birthing grounds. How does she establish this largely nul-sec no-go-zone of his family's lands. This becomes a neutral ground zone, known as the Flint House. You can tell when you come into the place. No blow has been struck in anger in this room. The walls are made of stone. Three hexjoined pillars of basalt, 60 ft on a side, it has a wide open room and a long bar at the end.
+
+The barmaid will explain: "What's in a word, anyways. I'd imagine that at some point, they sold flint. Then after he left, they missed so bad they called it "Flint's House" and then.... Now we sell beer! Would you like some?"
+
+The Hunt: this should widen the mystery: Who are their adversaries? They should have a pretty clear, I mean really clear picture of that by the time the Moon arrives. Let's have visits to the other side, islands coming in and out. These descent-into-hell meat-grinder dungeons just lurking in the offing? Thar be monsters here.
+
+In this place, the deals that seal the fate of the King are agreed upon:
+ * The Mes and how they should be spread. Freedom is the core. Jid is the truth. The Kraken is allowed to come along, if it can keep it's pants on.
+ * 
+
 ### Eschar
 
 [Lord Saxon](/p/lord_saxon) is already planning for the launch, but for his own reasons. He wants to pull the legions together locally to deliver more provinces to the Sea Peoples, and in general more autonomy to the outer provinces. He is doing so for the longevity of the Fleet Launches. He is also spending a ton arming the army. He likes nothing better than a bunch of buttered hoplites sparing in a chalk arena.
@@ -24,6 +45,9 @@ Lord Saxon will be involved in the Mes papri debacle. The Edos will ask for a se
  * [Aunt Elisa](/p/aunt_elsela) goes for the presses
  * [Aunt Agnus](/p/aunt_agnus) goes for the papri. She will also waylay the first shipment out.
  * [Fallstaff](/p/fallstaff) will go nuts and start up a mad science project and infiltrates the presses. 
+
+> **Fallout on the Empire**: The Mes will spread through The Empire, transforming it into a cultural vassal state.
+> The Corrupted Mes will transform them into a beligerant enemy, to harry them or worse, they fall Thrall to Aunt Agatha, or whomever is modifying the Mes.
 
 Bolsingers College of the Mind will be elevated, and the texts of the Edo will be taken into the Mes, as primary texts. So, perhaps some of the books had been stolen, not modified? The Edos have no need to launch their attack on the presses.
 

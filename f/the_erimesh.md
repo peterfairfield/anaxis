@@ -12,6 +12,7 @@ If the party befriends him, he may ask them to send a message to his half brothe
 
 > Everyone from Eshar think that the disruption at Tell Kur is Gloryshield, who has protested them using the mines at Tell Kur.
 
+
 ### [Silar Gloryshield](/p/silar)
 
 He is willing to join up and will even begrudgingly follow orders if the Stone King arrives. He does have pressing concerns: the Empire. They’ve sent a envoy, Queen Rhesania, to visit his kingdom. She’s been buying pleasure slaves at prices that are sending the market skyrocketing. She has some bad news with her: some [assassins](/s/assassin).
