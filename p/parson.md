@@ -36,3 +36,5 @@ Coming Back for the intellect devourer
 He will telll them that under no circumstances will he give up the devourer. The Bulls demand that everyone leave the premises and report outside. The entire city is shut down and martial law has been declared by the council. This is partially true, but the Host is in arms. This might be when the secret garrisons come forth. THat would be super exciting.
 
 The Beowulf Bulls coming – they will be attacked. Parson goes on the offensive, but does not aim to kill until the Bulls escalate, which they do immediately. 
+
+This is how Parson delivers his plea for help to escape the City (hopefully during a riot or some other form of martial law). He insists that they head over the mountains to see the other side and rescue what culture and art they have before it is swept away by the Mes. This isn't an invasion, it's a cultural rescue mission. He'll want to head straight for the capital? He may start on a run for Silver Mountain, but once he figures out what is going on there, he will want to head for Altir

@@ -37,3 +37,33 @@ Make a Scene. Talk in iambic.
 Show me your true face. Clarissa shifts through a thousand forms and then comes back to her original.
 More and more people join in, beginning the ritual of ascension to godhood. Each player must outdo the last in a furious game of danger, keeping the words obsure will allow them to draw back from the flames, but as they speak of things like love and hate, sun and moon, the Crones may have made it through and are certainly living it up. They will start to deescalate before Tiamat comes through. The players have a moment of catarsis. 
 The BRH stop beating the daylights out of them.
+
+A Mock Battle
+This is a good oppurtunity for the players to get a good history of Eschar. 
+
+Greengold
+
+Reopening the Mine
+
+Pyre will make for the Silver Mountian, his aim: to cast himself into the fires and be reborn, the first Red Dragon since the age of humans.
+
+his body will be the river of lava and his sword his fangs. The reds bodies have become the nickle-iron of the hills, born from crystal of Widmanstätten pattern. These have long since become the blades, ship fittings, prized armor of Eschar. The greens bodies have been migrating down the rivers on boats. 
+
+Meanwhile, everyone else is evacuating the city. There will be moments where the Hadrad will have to force an entry, but the men of the mountian put up a fierce resistance. Only when the serpent bodies of lava come boiling up the hallways does it become clear that running was always a good idea -- only the mountain men go deeper into a side pocket. They might give the party a token and a password, for later reference. But for now:
+
+What do you do with the explosion of dragons? Well, the Empire, naturally. In specifics, the Greens, who are going to disobey orders and try to jump Pyre and the party, while Agnus digs deep into her ritual to hatch them with the Kraken's help. This involves a ship battle and an assault on the caudlera fortress. 
+
+he Hadrad Augurs (they often have long horns and glowing eyes). The ancient Pyre, slowly embers into ash-tipped hair. He wears it long and in locks behind his back. These were once very tight braids, but they are a litle chopped, worried or burnt.
+
+As they approach the lava flow, the greens and the ettercaps will have a conversation, and the players can join in or get killed. The greens will not back down from this one; they are far away from home and they have a mission to fulfill.
+
+"Oh, now that I'm dead, I'm not afraid of those guys anymore." He can be resurrected to serve as figurehead of their ship? It might be good to build this guy up. 
+
+Undeth Mythros is a Pricess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson's help.
+
+Her Captains: (Bastards raised from old blood)
+ - Stalker Oneharm -- Blue, but sent from their side, to keep an eye on Undeth.  His other arm as regrown, but something is wrong with it. He is a Wizard of Alam.
+ - Kilsier Frates --
+ - Gigantus Phriapus -- huge dude from Alam. Seven feet tall before the horns, and he uses the Bow, whatever form is the meanest. He uses all the nastinT
+
+Has Parson been saving so many people as to have an effect on the population? How does he do it? Is he behind the water globes, through the Moshka. 

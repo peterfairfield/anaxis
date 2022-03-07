@@ -11,7 +11,7 @@ Edo Rian– Danoi Archeologist, the Warden of Ram’s Shelf
 Iat Ulmalik – Assassin from Eshar, from the Silvermen’s nobles, but not a real item in the area yet. Bore is here to make sure he takes the throne.
 
 Scenes:
-Slave-taking and the Weavers – Ettercap stats
+Slave-taking and the Weavers – Ettercap stats -- the spider shouldn't show herself too much on this occasion.
 Gruesome mass graves, chewed by animals
 A man stuck on a pole, silver knife through his heart
 

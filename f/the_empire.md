@@ -13,14 +13,30 @@ They wish for battle, and a lot of death. Their first meeting will involve a max
 
 > The [BRH](/f/the_beef_rake_hats) want to smuge a prisoner on the nose.
 
+### Altir
+
+The capital of the Hadrad Empire. "The place of Scribes".
+
+Here they are recording the issues at hand: who is responsible for the plague? This only occurs in areas close to the rivers, whenever troops go down into those river basins, they get sick and die. The Empire have found out who the Aunts are and are targetting them one by one, starting with Aunt Agatha. In the likelyhood that she goes down, she will convey her final drop to them, and bids them good luck!
+
+While the Aunts are under attack, someone might figure out that the problem isn't the Aunts, but the Empire that is guiding the strikes. Maybe nobody gets hurt, but the Aunts? Not likely either.
+
+The House -- a house (sal) tree. 
+
 ### The Hadrad
 When the swamps beneath the sea became flooded with salt the black dragons could no longer find a place to spawn, and so they remained in pupa form, until the day when they might find a way to reopen the swamps. Hence Lord Saxon's sea wall. 
 
 ## Reds (Golds)
 
+The Reds have been ruling 
+
 ## Blacks (Bronze)
 
+The first to fall. 
+
 ## Greens (Brass)
+
+By far the most common Hadrad.
 
 ## Whites (Silver)
 
