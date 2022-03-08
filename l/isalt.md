@@ -1,6 +1,6 @@
 # Isalt Island
 
-In the centre of the long lake? Or out in the centre of Isalt Bay.
+Curved around the centre of Isalt Bay.
 
 #### Backhook [Green Obsidian](/i/green_obsidian)
 

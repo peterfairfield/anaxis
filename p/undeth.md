@@ -15,3 +15,4 @@ Her Captains: (Bastards raised from old blood)
  - Kilsier Frates -- Hexlock
  - Athanos Grim -- Grave cleric assassin.
  - Gigantus Phriapus -- huge dude from Alam. Seven feet tall before the horns, and he uses the Bow/Crossbow, whatever form is the meanest. He uses all the nastin Fighter, Rogue and Ranger ultimate Assassin.
+ 

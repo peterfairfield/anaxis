@@ -21,3 +21,9 @@ House of Mushushu – Land management banking, seed, land taxes, subletting 'bow
 The Copperdams – private bank, associated with Bolsingers
 Ubaiad Imperial Post – Large trade bank of the Empire, they have a presence in the city, but are illegal there.
 
+### Terms
+
+ - Sodesn -- term for "Muddies"
+ - Tarside (Duhbside) vs Simside (bitumen vs resin)
+ - [Timagur](/) -- the ships being made in the shipyards.
+ - The Horn -- [Isalt Island's](/l/isalt) closest edge.
