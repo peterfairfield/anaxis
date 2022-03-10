@@ -20,6 +20,7 @@ Event: A man has clearly took too much Mull.
 There are two artisans working on casting a massive bronze sculpture. They have been up for 32 hours and are clearly bonkers. They are big fans of Rian’s, but they have heard that Rian lives with his parents. They’ve also heard about the rumors about the boggers.
 
 ### One Hot Night: Rian’s Parents
+Edith and Jokim Sama
 They are wealthy, but have little knowledge of what their son actually does at the docks, but they assume he is a quartermaster, and are just disappointed he hasn’t joined the Host. They don’t know what an Edo is, but they do have just the right amount of classism to say the right things about the Savants. They will however let the players know that he frequents [Ten Pins](/l/ten_pins).
 
 ### One Hot Night: Ten Pins
@@ -27,3 +28,9 @@ Yes Skyre Gowan Roan sells Mull, but she won’t tell them that unless she knows
 
 ### One Hot Night: Dust mephits
 Rian has purchased an old Chapter House of the Tearers (perhaps one that needed some rebranding) The chapter house is decorated with twisted iron and lots of strange alcoves. There may be secret rooms with things like stuffed mermaids and lycantropes, maybe an owlbear or some forest creatures, anything that makes the players angry. Rian has hired some thugs and spy5es to provide cover for the front doors. Inside, there are several young members of the higher houses of Eshar. If they want to take these folks back, they will either have to get Rian to dismiss them, or bring them by force.
+
+Here is a map, and stats for the tearers and guardians of Askha'hle
+
+### One Hot Night: Askha'hle
+
+Askha'hle is kept prisoner by the Tearers at the old Chapter House (formerly the Brotherhood of Wolves). His phylactery is the Nagnag, a bronze spouted jar. If they save him from the Chapter House, he will become friends with them, and even try to take them out for a night on the town to rile whomever in the elite of the city they might currently be at odds with. He will otherwise be cold, although he might warm to them over an evening of Tuck Duck.

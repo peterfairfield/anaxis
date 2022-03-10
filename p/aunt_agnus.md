@@ -1,7 +1,7 @@
 ## Aunt Agnus
  + Agnatha
 
-She of fresh waters and hard scales. She brings many mighty gifts, and will not be deterred.
+She of fresh waters and hard scales. She brings many mighty gifts, and will not be deterred. Lamprey.
 
 ### The Tower of Aunt Agnus
 

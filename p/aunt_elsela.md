@@ -9,8 +9,7 @@ She can take you to your box, since she just found it. If they shot to the botto
 
 ## Professor Elisa
 
-Professor at Bolsigners, she follows the ships out and salvages the strongbox. She has a long slimeline with grouper on it.
-
+Professor at Bolsigners, she follows the ships out and salvages the strongbox. She has a long slimeline with grouper on it. Hagfish.
 
 
 #### The Madman: 

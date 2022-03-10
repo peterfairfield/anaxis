@@ -78,7 +78,6 @@ The Fringe Colleges
 
 The Pact ~20k
 Golem Academy ~3k
-Finder’s College ~1k
 College of Spirits ~10k
 Followers College
 

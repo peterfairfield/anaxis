@@ -10,6 +10,8 @@ As they approach the lava flow, the greens and the ettercaps will have a convers
 
 Undeth Mythros is a Pricess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson's help.
 
+If she isn't the caulker, she might be a good alternative.
+
 Her Captains: (Bastards raised from old blood)
  - Stalker Oneharm -- Blue, but sent from their side, to keep an eye on Undeth.  His other arm as regrown, but something is wrong with it. He is a Wizard of Alam. He is a zard, but probably a bladesinger.
  - Kilsier Frates -- Hexlock

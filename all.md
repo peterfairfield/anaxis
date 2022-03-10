@@ -1164,7 +1164,7 @@ Then he tosses them each a potion, while they stand in the sudden calm of the de
 Down in the Depths
 The line pays way way out. They are finally far enough out to meet the Kraken’s people. They have the box and merely want to talk to you about it before you go. Skum look mostly human, but they are capable of stripping down and turning into Slimefish. They are the hagfish people, and can bring a wash stream of slime twisting all around you, while their friends finish you off. Then sahaguin attack, pinging the water with electric pulses and with a stun and finish attack. They are insanely deady and only with the healing of the Slimy Druidess do they make it through, if they have left her alive.
 
-Lamprey Salty Elisa
+Hagfish Salty Elisa
 She can take you to your box, since she just found it. If they shot to the bottom, this takes place over the box. Once she sees them in action, she doesn’t worry too much about taking them in and thanks them for rescuing her. She realizes she can help them and gives them a lift up to the surface. “Call me Aunt Elisa”, and “Don’t stay out of the water!” She shouts gleefully. 
 
 Aunt Elisa

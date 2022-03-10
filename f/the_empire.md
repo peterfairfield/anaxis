@@ -7,7 +7,7 @@
 
 ### The Crimson Trinity
 
-They wish for battle, and a lot of death. Their first meeting will involve a maximum casualty event. 
+They wish for battle, and a lot of death. Their first meeting will involve a maximum casualty event. They want to take the two rivers back, hard.
 
 > The [Green](/f/green) want a member of theirs out of the Empire.
 
@@ -17,7 +17,7 @@ They wish for battle, and a lot of death. Their first meeting will involve a max
 
 The capital of the Hadrad Empire. "The place of Scribes".
 
-Here they are recording the issues at hand: who is responsible for the plague? This only occurs in areas close to the rivers, whenever troops go down into those river basins, they get sick and die. The Empire have found out who the Aunts are and are targetting them one by one, starting with Aunt Agatha. In the likelyhood that she goes down, she will convey her final drop to them, and bids them good luck!
+Here they are recording the issues at hand: who is responsible for the plague? This only occurs in areas close to the rivers, whenever troops go down into those river basins, they get sick and die. The Empire have found out who the Aunts are and are targetting them one by one, starting with Aunt Agnatha. In the likelyhood that she goes down, she will convey her final drop to them, and bids them good luck!
 
 While the Aunts are under attack, someone might figure out that the problem isn't the Aunts, but the Empire that is guiding the strikes. Maybe nobody gets hurt, but the Aunts? Not likely either.
 

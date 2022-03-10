@@ -6,3 +6,5 @@ One side is linear and the other relationships are split second and over stuff.
 He really just wants ultimate power, but doesn’t seem clear on what that means, in bed.
 
 But how about we have the opposite of those things? This seems to be a place where the worlds are in sync. He was only found by the First Fleet when he had escaped from prison. He left some favors behind him there, and the party may have to do some insavory business to cleanup his petty messes.
+
+On the other side is the gyre. They'd better come fully prepared to deal with the full might of the 

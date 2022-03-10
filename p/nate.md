@@ -7,3 +7,4 @@ He is friends with Hatchaxel, and was there during the Rat Hunt.
 
 ## The Host
 There are many allies within the Host who believe that Nate is the future of the Host. He has largely abdicated the positions thrust on him, perferring the company of lowlives and crimminals.
+
