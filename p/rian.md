@@ -20,7 +20,7 @@ She sends the Pale Bears with them, wherere they may go.
 
 The Harbor, regardless which way they pick is alive with the eyes of the Natural College, if they know Ask or another member, they will let them know that the place is a hotbed of sycophants and spies. They actually aren't all nearly that bad. Someone might suggest using the rivally between Bolsingers and Natural, which would lead them to Aunt Elisa.
 
-## Dugma Dern
+## [Dugma Dern](/p/dern)
 
 Doorkeeper for the Natural College. If they come without introduction, he will pass them off to a student to give them a tour of the place. She is a young girl called Hannah. She is certain that they are here to try to do something illegal and can't stop ribbing them about it. She introduces them to the 3 Basic Orders and their various labs and lecture halls. 
 
