@@ -23,7 +23,8 @@ He then later, when the weather does a crazy turn. Square sails! Every inch up t
 Then he tosses them each a potion, while they stand in the sudden calm of the deck. All of the hands are scrambling down to war positions. As they jettison the evidence, Hiram is watching on the telescope. Hiram tells them, “Shuck over m’lads, get that strongbox and we’ll be back for ye in an hour, and stay under until you can breathe the air. Buey, rope, anchor, he tosses it at the centre of the splash. There isn’t much wind, Hiram knows that they can outsail him for a bit, but when they out of the lee of the horn, the wind will open up. He promises to be back in an hour when the potion wears off and tells him he needs every sailor aboard to handle the ship.
 
 
-Down in the Depths
+## Down in the Depths
+
 The line pays way way out. They are finally far enough out to meet the Kraken’s people. They have the box and merely want to talk to you about it before you go. Skum look mostly human, but they are capable of stripping down and turning into Slimefish. They are the hagfish people, and can bring a wash stream of slime twisting all around you, while their friends finish you off. Then sahaguin attack, pinging the water with electric pulses and with a stun and finish attack. They are insanely deady and only with the healing of the Slimy Druidess do they make it through, if they have left her alive.
 
 ### Edo Hiram

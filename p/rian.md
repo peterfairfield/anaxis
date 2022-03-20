@@ -51,3 +51,8 @@ He has witnessed people using it and thinks the effects are too dangerous. He di
 Although not a Judge himself, Rian's 
 
 ## Hier of Silver
+
+## Whale Oil
+
+Useful to keep troops marching through the marsh. Prevents trench foot.
+

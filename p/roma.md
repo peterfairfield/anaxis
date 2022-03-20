@@ -1,7 +1,7 @@
 # Ahsa Roma
 
 ### [Names](#hidden){#names}
-Oly Bae, Natasha, 
+Oley Bae, Natasha, 
 
 ### [Kars Island](/l/kars_island)
 

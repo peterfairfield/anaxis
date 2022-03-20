@@ -310,6 +310,7 @@ This is just a side project, he will get back to his real job unless he can tell
 Also, sometime he might mention something about the Lady of the Depths, he will then try to get them to help him take on an investigation in that arena.
 Ok, back to the pattern for a sec, look at these charts of the Islands of Kess & Keers.
 Parting shot: Have you talked to the Madman?
+
 Babbi Malak Fran
 
 An apothecary, keeps a big shop and a small shop. Learn anything professor at Finder’s. He’s an old family Prince, the Cabin Boy of the Wind Finder, Raphael, the messenger. He can provide divination spells for favors or money. Almost any question, he has the price. Or he can give you a job. Some of his jobs will include looking into the missing texts, organic or otherwise. This is the guy they should come to before going to Fillstorm. He will try to warn them off, as best he can. He vanishes into a secret hatch as soon as the Bulls show up.

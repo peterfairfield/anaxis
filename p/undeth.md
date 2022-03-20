@@ -18,3 +18,22 @@ Her Captains: (Bastards raised from old blood)
  - Athanos Grim -- Grave cleric assassin.
  - Gigantus Phriapus -- huge dude from Alam. Seven feet tall before the horns, and he uses the Bow/Crossbow, whatever form is the meanest. He uses all the nastin Fighter, Rogue and Ranger ultimate Assassin.
  
+## Stalker 
+
+They will happen upon him in a non-violent scenario, and he will recognise them from someplace. He thinks they are servents of Aunt Agnus and are essentially on a fact-finding missing for the defence of the delta. He will take them to see Undeth. He will pretend to speak broken Eschar, and will try his best to come off as an idiot, perhaps complaining about the food?
+
+## The Deal
+
+They have started to suspect that they might need to start topple the Empire in order to survive. Undeth has captured a white imperial courier. She is warded by Imperial Seal, which means she is in an antimagic shell. She is a wizard. Aunt Agnus also has emmisaries, if the party aren't already representing her.
+
+Undeth has already attempted to assassinate the Emporer, and he is currently either dead or MIA. But that is only part of her plan. She is also going to unleash King Pyre on his suicidal attempt to rebirth the species.
+
+## The Emporer
+The most ancient half-dragon
+
+## Ixasax Red
+
+While they are inspecting her, she will learn the location of the Emporer. She will offer to guide them to him in exchange for her life. Undeth wants to facilitate this deal, if she thinks the players can get the job done. She warns them about his strengths and gives them some poppers and bangers.
+
+All they can tell from good sense motives is that she is fantastically overstressed and desperate. This is such a long shot, but if it works, then they all get to live again.
+
