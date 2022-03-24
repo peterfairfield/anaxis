@@ -27,3 +27,9 @@ Ubaiad Imperial Post – Large trade bank of the Empire, they have a presence in
  - Tarside (Duhbside) vs Simside (bitumen vs resin)
  - [Timagur](/) -- the ships being made in the shipyards.
  - The Horn -- [Isalt Island's](/l/isalt) closest edge.
+
+ The Engineering of humans in the landscape beggars the imagination. The canals, the lakes, the shores the caves are all of providence given or lovingly made. Flowers and crickets sing.
+
+ The Sun shines down streets and strikes certain objects, illuminating a child or a clue with equal acumen. Sometimes it puts them into a pretty pickle, or allows the patrols to find them when they need to have a chat with Bore.
+
+ 

@@ -50,3 +50,4 @@ Yes, Iorek has contracted the curse of the Silvermen and has now build a blood-c
 
 Iorek also has records on histories from the mines, and of objects that were under commission from the City or other large customers.
 
+The rock is fractured and weak. The trouble with silver mountain has always been engineering vs cave-ins. The Mes are changing everything here already. They may notice Shawan's touch here, perhaps via some original clay tablets, or by their earliest actions: helping Elisa with something. That will trigger a massing Change in Silver Mountain. This will begin the eruption. King Pyre will redirect the flow into the river. Then he demands to speak to the King of Karesh, or perhaps it's called Eshar?

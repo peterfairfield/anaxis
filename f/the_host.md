@@ -26,3 +26,6 @@ The Sword of the King
 A group of St. Andreas soldiers attack the players and try to take the sword. If it is with Halfshield, then this will either occur at the Slag Pits or up at Tell Yona if he has been restored as king. Otherwise, they may have it in their possesion, if Silar gives it to them.
 
 There are at least a dozen veterans and officers involved in this attack, and it could turn into a running battle. If they survive, Saad Khan will find them where they hole up (unless it is the bothy). He has Human Mesius with him, who will help explain about the sword. Mesius explains that the sword contains the imprisoned soul of General Narses. TMesius and Khan have a plan to communicate with Narses.
+
+## The Move
+
