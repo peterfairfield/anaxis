@@ -5,7 +5,7 @@ The Woodsmen
 ## The Misrayim
 They typically live outside the city, taking caravans of goods, or trading on their reed boats. They are certainly considered second-class peoples by most Esharites, but they are more often than not scapegoats.
 
-### One Misresh stole from Babbi Fran (Cups)
+### One Misresh stole from [Babbi Fran (Cups)](/p/babbi_fran)
 He headed for the Hill people. Ava Gavin wants him back alive, as she doesn't think it's actually normal for them to target her. Sothis is the theif, and she has run to a pile of wild magic. She has become something strange and super magical.
 
 ### One Misresh went to Market (Coins)
