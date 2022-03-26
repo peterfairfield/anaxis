@@ -67,3 +67,9 @@ Her Captains: (Bastards raised from old blood)
  - Gigantus Phriapus -- huge dude from Alam. Seven feet tall before the horns, and he uses the Bow, whatever form is the meanest. He uses all the nastinT
 
 Has Parson been saving so many people as to have an effect on the population? How does he do it? Is he behind the water globes, through the Moshka. 
+
+Sumerian religion seems to have been founded upon two separate cosmogenic myths. The first saw creation as the result of a series of hieroi gamoi or sacred marriages, involving the reconciliation of opposites, postulated as a coming together of male and female divine beings, the gods.
+
+This pattern continued to influence regional Mesopotamian myths. Thus, in the later Akkadian Enuma Elish, creation was seen as the union of fresh and salt water, between male Abzu, and female Tiamat. The products of that union, Lahm and Lahmu, "the muddy ones", were titles given to the gate keepers of the E-Abzu temple of Enki in Eridu, the first Sumerian city.
+
+Mirroring the way that muddy islands emerge from the confluence of fresh and salty water at the mouth of the Euphrates, where the river deposits its load of silt, a second hieros gamos supposedly resulted in the creation of Anshar and Kishar, the "sky-pivot" (or axle), and the "earth pivot", parents in turn of Anu (the sky) and Ki (the earth)

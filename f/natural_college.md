@@ -6,13 +6,20 @@ Merit-based admissions. They select the best and brightest and take them on for 
 
 ## Hierarchy
 
-Curate (Swab)
-Rector 
-Deacon
-Dean
+ * Curate (Swab)
+ * Rector 
+ * Deacon
+ * Dean
 
+### Associate
 
-Associate
-Professor
-Fellow
+### Professor
 
+ + [Doctor Lund](/p/doctor_lund)
+
+### Fellow
+
+ + Askawhatsis
+ + Rian?
+
+Ex-professor: Shawan Fallstaff

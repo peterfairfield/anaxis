@@ -1,6 +1,7 @@
 ## Aunt Elsela
  + Shanty
  + Mudder
+ + [The Hagfish](https://aonprd.com/MonsterDisplay.aspx?ItemName=Veiled%20Master)
 
  
 ## Lamprey Salty Elisa
@@ -12,7 +13,7 @@ She can take you to your box, since she just found it. If they shot to the botto
 Professor at Bolsigners, she follows the ships out and salvages the strongbox. She has a long slimeline with grouper on it. Hagfish.
 
 
-#### The Madman: 
+#### [The Madman](/p/madman): 
 
 > “inside this bottle is a whole other world! Look, tiny people walking around a tiny village saying hi to each other and bye mom and eat you damn food and all those nice things. If I set then down and I can get one other person to hold hands with me, and we jump down the bottle!” If someone does it, they smash the bottle, otherwise he will take the bottle back into the knapsack. He is very careful with his stuff.
 
