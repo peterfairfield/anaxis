@@ -1,7 +1,4 @@
-  
-  
-
-Circe Moll
+# Circe Moll
 
 She’s been trying to get off the island for years, but has always found a reason to stay. She has apparently lived on the island her whole life, but she looks far older than she is.
 

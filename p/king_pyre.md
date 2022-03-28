@@ -4,7 +4,9 @@ He wants to meet their king, when he mistook some professors for ambassadors, th
 
 He is now intent on freeing the mountain, once he has discovered that the volcanoes are going to go off. He sends his army to Ahshura.  He and his team of Hadrad then head into the heart of the volcano.
 
-Professor Iorek will tell the story thusly, an hopefully posthumonously: 
+Professor [Iorek](/p/iorek) will tell the story thusly, an hopefully posthumonously: 
+
+He was trying to find out what staved off the curse after his beloved and her family died of the black, but his son survived. He'd been trying to find out how to pass the blood though to blood. This bound them back to their animal forms. 
 
 If they are not able to wring this confession from him, Fallstaff can later, in a more pitiful if not humorous scene:
 

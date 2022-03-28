@@ -1,1 +1,2 @@
-Edo Beruni– Newest initiate into the Presence.
+Edo Beruni
+ + Newest initiate into the Presence.

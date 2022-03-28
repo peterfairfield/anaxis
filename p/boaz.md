@@ -1,10 +1,11 @@
-## Jefth Boaz
+# Jefth Boaz
+ + Jonah Beached
 
 Factory Chief and President of Bolsingers College and Mecator’s Folly.
 
+### Jefth and the Tome of Bol
 
-Jefth and the Tome of Bol
-He will pay them well to get a contact off of Itsalt Island, near off the coast of Lakash. The contact is the merchant Samuel Farris. Jefth will commission Captain Buckfest. Farris is a complete doucheweasel. He’s stolen the Tome from the Empire, and he’s kinda smug about it. They can find out that he somehow tricked the Regent of Lakash, in fact he used blackmail. He has an annoying habit of somehow knowing everything. He is always asking awkwardly personal questions and then following them up with shocking questions. He will tell them that he has enemies everywhere, and some point on the journey, he will become convinced that a sailor on the boat hates him and wants to kill him.
+He will pay them well to get a contact off of Itsalt Island, near off the coast of Lakash. The contact is the merchant Samuel Farris. Jefth will commission Captain [Buckfest](/p/). Farris is a complete doucheweasel. He’s stolen the Tome from the Empire, and he’s kinda smug about it. They can find out that he somehow tricked the Regent of Lakash, in fact he used blackmail. He has an annoying habit of somehow knowing everything. He is always asking awkwardly personal questions and then following them up with shocking questions. He will tell them that he has enemies everywhere, and some point on the journey, he will become convinced that a sailor on the boat hates him and wants to kill him.
 
 The sailor on the boat hates him and is plotting to kill him, but they won’t reveal this until the rest of the crew can join them and take down the boat. The pirates come blasting out of the windward side of Kars Island, and bring a very large outrigger with aprox. 200 troops aboard. Buckfest makes a run for it, and he will reluctantly send up a signal for the Cutters, but it is too late, they cannot outrun the outrigger. The players may escape overboard, using their Deep Drafts, or they can stay and die. Buckfest will stay with the ship and will be most likely slain in the assault. If they escape, they will find the Docks and the Chippies swarming with agents of the Empire, mostly Erimesh who are mostly for hire, but also Ubiad agents. 
 

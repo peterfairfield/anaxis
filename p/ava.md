@@ -12,12 +12,14 @@ She is worried that her employer, [Lord Saxon](/p/lord_saxon), is going to use t
   
 ## Ymil
 
-She isn’t as keyed into the who and what of the [Ymil](/f/ymil), Society and BRC are up to, but she does know signals intelligence, and uses it to talk to Fred, with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on.
+She isn’t as keyed into the who and what of the [Ymil](/f/ymil), Society and BRC are up to, but she does know signals intelligence, and uses it to talk to [Fred](/p/fred), with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on.
 
   
 ## Finders
 
 Ava is an old family [Finder](/f/the_finders), and has been told that she will find love among the first lords of the city. She has had 7 husbands, and they have all died.
+
+What is the source of this evil thing? A demon that comes and kills her husbands, or is it the City itself?
 
 Can we get a triangle between Parson, Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for [Fred](/p/fred). 
 

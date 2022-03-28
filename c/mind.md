@@ -15,6 +15,6 @@ Parson Fillstorm
 
 When Parson comes, the first arrives he will tells them of what he has done, why he has acted in the way he has, and how with your help he has actually been able to make all this happen. Letter from Bahamut: "I even wrote it down, not as what would be, but what I hoped it would be. And by hook or by crook, it happened. Now comes the bad news. Do any of you know anything about Dragons? Because there might be panic if people worry about Dragons. " -- Tiamat Fillstorm, the Captain of the Wave Finder; and Fred and Bahamut's mother. If anything like a succession crisis breaks out Fred gives Parson power of attourney over Deverre Islands, and he will once again vanish.
 
-This guy is Moses. And you see him take a back seat. Some of you realize that he's the King who gets you back alive. That may become apparent during the second half.
+This [guy](/p/fred) is Moses. And you see him take a back seat. Some of you realize that he's the King who gets you back alive. That may become apparent during the second half.
 
 This brings up the subject of invasion. We spent an evening once, writing letters about invasion and then trying to find out what sort of meme was trying to invade the conversation and write it down on a piece of paper. Then, on another piece of paper. 
