@@ -10,17 +10,17 @@ He is a collector and professor at Beowulf. Lamark began with Fallstaff at Natur
 
 ## Archeology
 
-Lamark will invite them to do something for house Beowulf, he might offer them a lesson in brain-archeology. His madness is mitigated by a ticture of fish guts, which he says clears his head. While they are meeting with him, he will be assassinated, and in way that will be highly suspicious. There will be warrents out all over the city. The 
+Lamark will invite them to do something for house [Beowulf](/l/beowulf_castle), he might offer them a lesson in brain-archeology. His madness is mitigated by a ticture of fish guts, which he says clears his head. While they are meeting with him, he will be assassinated, and in way that will be highly suspicious. There will be warrents out all over the city. The 
 
 
 ## The Party Hunt
 
-First, if they go charging after the assassins, please let them randomly run into a pile of Tearers, out for some blood for some reason or other. They pretty much cut loose. They will take this oppurtunity to put the players down. This could be a humorous fight until the bloodshed spreads and spreads as more Tearers join the fight. At some point, when actual Options start showing up, they will hopefully call it quits and flee.
+First, if they go charging after the assassins, please let them randomly run into a pile of [Tearers](/f/tearer), out for some blood for some reason or other. They pretty much cut loose. They will take this oppurtunity to put the players down. This could be a humorous fight until the bloodshed spreads and spreads as more Tearers join the fight. At some point, when actual Options start showing up, they will hopefully call it quits and flee.
 
 
 ## Paper Muster
 
-Then it's a paper muster and patrols and the City goes haywire. First signs point them to Bolsinger's and professor Tobit Drake. If they go in guns blazing, they will find ample evidence that he's been spying on the Natural College and Falstaff's work. He will appear dead. If they are too agressive, his Deep Lord will protect him – maybe with enslaved guardsmen. If defeated, his spellbook and stuff are spectacular, but they will have a tough time with the Kraken if they kill him. He does keep notes of the people who assassinated Lamark, however.
+Then it's a paper muster and patrols and the City goes haywire. First signs point them to Bolsinger's and professor Tobit Drake. If they go in guns blazing, they will find ample evidence that he's been spying on the Natural College and Falstaff's work. He will appear dead. If they are too agressive, his Deep Lord will protect him – maybe with enslaved guardsmen. If defeated, his spellbook and stuff are spectacular, but they will have a tough time with the [Kraken](/p/fallstaff) if they kill him. He does keep notes of the people who assassinated Lamark, however.
 
 If this goes well for them, throw the next encounter at them willy-nilly.
 
@@ -30,7 +30,7 @@ If they seem reasonable, he will talk to them, but they will be interuptted by H
 
 ## Edo Doubletap
 
-Meanwhile they've heard of another killing in the same Oevre as the assassins. It was another Edo, this should be one of the Edo insiders, possibly [Reggie](/p/reggie_the_lame), and probably killed down in the [Harbor](/l/harbor). They find enough to identify him as a gravedigger for Lamark, and an Edo if they know what to look for. If they linger over the body, [Siobane](/p/siobane) will come over and offer to do a card reading. She slights the cards in a particular manner, denoting death rogue knight tower sun. They silver her, or perhaps she curses them?
+Meanwhile they've heard of another killing in the same Oevre as the assassins. It was another Edo, this should be one of the Edo insiders, possibly [Reggie](/p/reggie_the_lame), more likely [Beruni](/p/beruni), and probably killed down in the [Harbor](/l/harbor). They find enough to identify him as a gravedigger for Lamark, and an Edo if they know what to look for. If they linger over the body, [Siobane](/p/siobane) will come over and offer to do a card reading. She slights the cards in a particular manner, denoting death rogue knight tower sun. They silver her, or perhaps she curses them?
 
 ## To the House of Pain
 

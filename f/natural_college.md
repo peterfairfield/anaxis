@@ -22,4 +22,5 @@ Merit-based admissions. They select the best and brightest and take them on for 
  + Askawhatsis
  + Rian?
 
-Ex-professor: Shawan Fallstaff
+Ex-professor: 
+ + [Shawan Fallstaff](/p/fallstaff)

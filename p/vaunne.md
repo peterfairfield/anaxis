@@ -1,1 +1,5 @@
-Duchess Vaunne of Beowulf. She is the Duke’s mother.
+# Duchess Vaunne 
+
+President of [Beowulf](/l/beowulf_castle).
+
+She is the Duke’s mother.

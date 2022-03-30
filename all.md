@@ -689,9 +689,9 @@ He doesn’t know who he really works for, but he’s willing to do a job now an
 We are going to call this, “The Skinflayer Betrayer” or “Love on the Water” “Fyre Upon The Skyye”
 
 Edo Shawn Fallstaff
-Professor at Beowulf, He is the one missing the brains. If they go to the Flint house, they might see him having a rough day.
+Professor at Bolsinger, He is the one missing the brains. If they go to the Flint house, they might see him having a rough day.
 
-Shawn attended Natural College, but never made fellow and now has been tapped to begin a College of the Mind at Beowulf. He has always been principally interested in archeology and history. He is also an Edo, but he is able to cast water-breathing (allowing him to breathe air), and has gotten used to being dry. He is a little hunchy and lizard like, in a nerdy way. 
+Shawn attended Natural College, but never made fellow and now has been tapped to begin a College of the Mind at Bolsingers. He has always been principally interested in archeology and history. He is also an Edo, but he is able to cast water-breathing (allowing him to breathe air), and has gotten used to being dry. He is a little hunchy and lizard like, in a nerdy way. 
 
 Lamark
 

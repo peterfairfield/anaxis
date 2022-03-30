@@ -11,5 +11,13 @@ Doors say “Blood” and “Money”. They aren’t going to get out without a 
 
 There are always six guys at the bar. It is usually a masterclass. “Sometimes the war college sends their particularly pissy runts to the Beef Rake… Hats” He will finish with Hats.
 
+### The Clerk Adrian Hasfell
+
+Young, thin, scrawny Hasfell. Long woven black hair, always well dressed. Somehow he always looks clean cut. He moves with a Jeeves-like efficiency about the place, and cleans up horrible messes without getting a drop on him.
+
+### The Bouncer Bolster Smith
+
+He will not be able to put anyone down, but he can put them out. He can bullrush anyone, and rages and goes ethereal or whatever to prove it. He is also a werebear, if that isn't enough. Monk Barbarian.
+
 > Saltboxes   
 > Knock Out Drops

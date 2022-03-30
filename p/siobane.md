@@ -2,6 +2,10 @@
 
 ## The Spider
 
+## [The Misrayim](/f/the_mizrayim)
+
+## [The Green](/f/green)
+
 ## The Moska
 
 ## The Host
