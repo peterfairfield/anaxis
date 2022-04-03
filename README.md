@@ -1,4 +1,4 @@
 ## Anaxis
 
-`npm install`
+`npm install`    
 `nodemon app.js`
