@@ -28,3 +28,18 @@ Fleet School: ‘Ex Scientia Tridens’
 College of War: Officer school. Also includes several subgroups: Speculators, Innebrus (also called Couriers), and
 Naval College: Admiralty Interview Board, Founded the Chippies.
 Hospital School: Students taken in at a very young age. Common for 4th sons and partially-endowed family.
+
+## University College Staff
+
+### Professor Karuk Dymon
+Bird-like, walks with a cane. He is an artificier.
+
+### Dean Saxon
+You know him.
+
+### Rebecca Horn
+Smooth, radiant like the sun. Smokes, is concerned with building things.
+
+### Merlin 
+Eternal, likes blowing things up.
+

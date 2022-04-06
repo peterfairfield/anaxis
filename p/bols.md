@@ -35,6 +35,7 @@ When he can get his hands on them, he want them to do a lot of things, in kinda 
 At this point, the Host will intervene and try to confiscate all of their evidence. If they resist the Tearers, they will be arrested, hopefully for something else they have done. If they allow themselves to be arrested, they can appeal to Bols, and if they manage to get an audience with him, but he’s likely to try to get them to do another  job.
 
 ### [The Moveable Library](/s/university_library#moving)
+
 While the Natural College Library is going into an expansion phase, probably taking in content from the two other damaged libraries in town. Lord Saxon wants them to help move certain texts securely. Also helping is Bols and Ava Gavin, if she has been reconciled to Saxon, or perhaps Captain Buckfest if they need a boat.
 
 ### [The Rock](/l/the_rock)

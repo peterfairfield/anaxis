@@ -11,3 +11,10 @@
 4. The Lament, the Odes, Lament for Ur, The Reformation.
 5. The Staging, and the Introspection, the Trial, the longest chapter, the story, the one that dares you to end it.
 6. The End
+
+1. The Restaging. Acknowledgements of the story so far. There was an Earth, we are now on a spaceship elsewhere, there are humans who live on a part of the ship without any technology.
+2. The Concern -- A deconstruction of the actual meaning on the current communications. How possible is it that communication from the past is possible?
+3. The Play -- The actual staging of the play.
+4. A Relament
+5. The Detective Story -- a presentation of the facts.
+6. End.

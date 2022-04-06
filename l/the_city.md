@@ -32,4 +32,5 @@ Ubaiad Imperial Post – Large trade bank of the Empire, they have a presence in
 
  The Sun shines down streets and strikes certain objects, illuminating a child or a clue with equal acumen. Sometimes it puts them into a pretty pickle, or allows the patrols to find them when they need to have a chat with Bore.
 
+The pitch and lime tar that they smear on the rooves and entrances smells dark and smokes gently in cooler air.
  

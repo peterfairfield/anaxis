@@ -43,6 +43,7 @@ Cabin Boy: Malak Babbi Fran. Page of Cups. Raphael. God Heals, he is justice.
 
 Powder Monkey: Mushussu, Merlin. The Eternal Man, usually appearing with a stick in his hand. He will explain the labyrith to the players, that they had luckily found a Mindflayer Prison escape attempt, and most of the humans in the prison were dressed a lot like the players, in terms of poverty and fabric. So the gith must have assumed they were attackers. He could also tell them that the two gith had become best friends and were begining to steam it up, but he'll leave the rescue mission to them. Maybe he will let them turn around and kill themselves. "Don't we kill our past selves every day?" No, I swear by St. Peter it will be fine." "It is so facinating meeting you so early, and to see what sort of place this is! This era is completely cloaked to be because of the stupid revisionists!" –Maybe when he's in his cups. He can be a little canny at times, but always truthful. He is a shapechanger. He has no side. The accusur? who is that?
 There is a giant that did not betray the finders: Saraeva. She has killed seven husbands. 
+
 The Kraken is the self-defense of the world of Eshar, against the Finders. Their library was stolen. They ambushed a well-guarded wing of the army and retrieved it, only to find that it was replaced with gold. WHat could they do with a shitton of gold? They went to build an army. She went to deal with the Kracken. Ava watches from her tower, knowing that only a Finder can find her? Is it Bore? She also pays close attention to air entraining agents and Hiram's next move. She will do her darnedest to get the captain back online, and if that means breaking into the University library by herself, then by golly she will.
 
 Swab: Hamfist
@@ -50,8 +51,6 @@ Swab: Hamfist
 Sailor: Samual Buckfest – of the salt and keeps to the Leaf Game. He will be the one to attack the island, and start a bad impression? YES. findreplaceme
 
 Marine: Hector Yung He of the Virgin Fleet. His armies are packed into the rock like rats. They are learning early how to live on boats. If they come upon barracks, it will all be hammocks and perfectly fitted wood and rigging. Someone has set up a mock ship and men are being trained on it. He knows what it's going to take for the untested, untried, but he wants to make sure they have a chance to advance, work together in teams, leave no man behind. The Bulls go down as a squad, but rarely the Blood Bulls, such as Hatchaxel. Maybe Aunt Elisa helps them kill him? Hatchaxel is in a tight spot, he can feel the power coming off them, and he knows that they could be his ticket out of here, no matter who picked him up. At the last minute he realizes that Buckfest means to take him out. Aunt Elisa is more merciful. "Jump! We'll be about as soon as we can!" It is unlikely that Hatchaxel will jump in the water. He would take to the air? And risk all of the artillery of the Buckfest's Muster 
-
-
 
 The Host:
 Army: Haval Domi

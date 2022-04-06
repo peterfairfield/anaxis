@@ -14,3 +14,4 @@ Members:
  + [John Deverre](/p/deverre)
  + [Yuri Holden](/p/holden)
  + [Duchess Vaunne](/p/vaunne)
+ * [Torin Holden](/p/torin)

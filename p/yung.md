@@ -18,5 +18,5 @@ The Mes Rescripted project has begun.
 
 Nielson Colt -- The Host Corps
 Lord Saxon -- The University Guard
-Torin Halfshield -- Beowulf troops
-
+Torin Holden -- Beowulf Fleet and Field
+Admiral Lesure -- First name Admiral
