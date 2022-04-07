@@ -29,6 +29,7 @@ They have started to suspect that they might need to start topple the Empire in 
 Undeth has already attempted to assassinate the Emporer, and he is currently either dead or MIA. But that is only part of her plan. She is also going to unleash King Pyre on his suicidal attempt to rebirth the species.
 
 ## The Emporer
+
 The most ancient half-dragon
 
 ## Ixasax Red

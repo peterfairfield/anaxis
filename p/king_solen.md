@@ -11,5 +11,5 @@
 
  The Black Emporer. He will be devoted to Aunt Agnus and Undeth if they ever meet. He'll let her know how the assassination attempts went. Mostly they got him, and then he didn't die. And it was really painful while it happened, and once he lost all his hair. He really wants his catch-phrase to be "Sleep!". He is a font of information, and if there is a military, he's probably served in it and knows their commanders status and foibles.
 
- He will maintain his ambitions and black network, using his teleknisis. Once he meets porter, he will unfurl his role as the Proclaimer. How do I get all of the things to happen to Fred? And do they happen before or after the Sun King gets them? Is that beside the point? He's the return Captain, no?
+ He will maintain his ambitions and black network, using his teleknisis. Once he meets Porter, he will unfurl his role as the Proclaimer. How do I get all of the things to happen to Fred? And do they happen before or after the Sun King gets them? Is that beside the point? He's the return Captain, no?
 

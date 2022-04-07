@@ -12,7 +12,7 @@ They will have a tough time breaking in, but with some contacts and moving the r
 
 ## The Siege of Sheep Island
 
-Two words: white phosphorus fire. The Sappers light the place up and send a fireboat to shore. The Clinkers run up the beach, forcing a melee, veterans and rogues. The bring mastiffs, a ton of them. There are some ancient blooded enemies of the Thornshields, and band called Blood Gang.
+Two words: white phosphorus fire. The Mynim light the place up and send a fireboat to shore. The Clinkers run up the beach, forcing a melee, veterans and rogues. The bring mastiffs, a ton of them. There are some ancient blooded enemies of the Thornshields, and band called Blood Gang.
 
 The whole wood catches in fire. The attack is more than overwhelming, it obviously involves several coordinated groups, a difficult-to-put-together mismash. Someone with very deep pockets indeed. The Blood Gang is out there to kill Esme, if they rescue her, the prisoner is re-captured, otherwise, they bear the brunt of an insane amount of Tearers before they slink off.
 

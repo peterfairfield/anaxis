@@ -2,7 +2,7 @@
 
 ## University College
 
-A very talented fellow at the University College, she operates the Observatory. She doesn't trust Meatus, but thinks of him as a brute. She is an elf with extremely fine features. She doesn’t like how the security was breached by sappers working the old diamond mines. Inspection of the rooms of missing material can tell them that someone broke in from the inside first, destroyed the protective rooms. They can find trollsign, and maybe if they are good, where the troll drop landed.
+A very talented fellow at the University College, she operates the Observatory. She doesn't trust Meatus, but thinks of him as a brute. She is an elf with extremely fine features. She doesn’t like how the security was breached by mynim working the old diamond mines. Inspection of the rooms of missing material can tell them that someone broke in from the inside first, destroyed the protective rooms. They can find trollsign, and maybe if they are good, where the troll drop landed.
 
   
 ## Lord Saxon

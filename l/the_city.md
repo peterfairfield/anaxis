@@ -34,3 +34,12 @@ Ubaiad Imperial Post – Large trade bank of the Empire, they have a presence in
 
 The pitch and lime tar that they smear on the rooves and entrances smells dark and smokes gently in cooler air.
  
+Administration
+
+The Host -- This is largely the military of the city. This is typically broken up into
+ - Tell Kur
+ - Tell Iona
+ - The Navy
+ - The Rock
+
+30 years ago, the Emporer, Nathan S

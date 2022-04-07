@@ -1,4 +1,3 @@
-
 ## Chuck Parson Fillstorm
 + Captain Fillstorm
 + EDO
@@ -12,6 +11,7 @@ he has some things to show you about the bones:
     They are not affected by any magic.
     They are covered in sap.
 
+There was a time in his life when he could bind another's will to his. He bound millions, and lost them all to the hordes of .
 
 If there are any in the group who want to join the Natural College, he will help them with the paperwork. He has been a professor there for a long time.
 

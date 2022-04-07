@@ -1068,7 +1068,7 @@ The Guti
 Wolves among the sheep. From the silver mountain. They are moving down the river, taking and holding cities.
 
 The Tarash
-The Keepers of the city. Worships the city. They build with brick and tar, their city was upon the lake lower side, where The Finders.
+The Keeersp of the city. Worships the city. They build with brick and tar, their city was upon the lake lower side, where The Finders.
 
 The Tarash Throw a Party
 The Danoi prefix all rivers with an-

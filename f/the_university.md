@@ -1,4 +1,6 @@
 # The University
+ + The Collesina-Bel
+ + 
 
 ## The Five Colleges
 
@@ -32,14 +34,4 @@ Hospital School: Students taken in at a very young age. Common for 4th sons and 
 ## University College Staff
 
 ### Professor Karuk Dymon
-Bird-like, walks with a cane. He is an artificier.
-
-### Dean Saxon
-You know him.
-
-### Rebecca Horn
-Smooth, radiant like the sun. Smokes, is concerned with building things.
-
-### Merlin 
-Eternal, likes blowing things up.
-
+Bird-like, walks with a cane.
