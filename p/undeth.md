@@ -24,9 +24,9 @@ They will happen upon him in a non-violent scenario, and he will recognise them 
 
 ## The Deal
 
-They have started to suspect that they might need to start topple the Empire in order to survive. Undeth has captured a white imperial courier. She is warded by Imperial Seal, which means she is in an antimagic shell. She is a wizard. Aunt Agnus also has emmisaries, if the party aren't already representing her.
+They have started to suspect that they might need to start topple the Empire in order to survive. Undeth has captured a white imperial courier. She is warded by Imperial Seal, which means she is in an antimagic shell. She is a wizard. Aunt Agnus also has emmisaries, if the party aren't already representing her. Largely, they wish to help the Captain and prevent violence against her. 
 
-Undeth has already attempted to assassinate the Emporer, and he is currently either dead or MIA. But that is only part of her plan. She is also going to unleash King Pyre on his suicidal attempt to rebirth the species.
+Undeth has already attempted to assassinate the Emporer, and he is currently either dead or MIA. But that is only part of her plan. She is also going to unleash King Pyre on his suicidal attempt to rebirth the species. She will try to convince them to jump the Emporer and give them as much weaponry and intelligence as she can.
 
 ## The Emporer
 
@@ -34,7 +34,11 @@ The most ancient half-dragon
 
 ## Ixasax Red
 
+She will play dead.
+
 While they are inspecting her, she will learn the location of the Emporer. She will offer to guide them to him in exchange for her life. Undeth wants to facilitate this deal, if she thinks the players can get the job done. She warns them about his strengths and gives them some poppers and bangers.
 
 All they can tell from good sense motives is that she is fantastically overstressed and desperate. This is such a long shot, but if it works, then they all get to live again.
+
+They have to believe her.
 
