@@ -3,28 +3,28 @@
 ### [Names](#hidden){#names}
 Oley Bae, Natasha, 
 
-### [Kars Island](/l/kars_island)
+### [Kars Island](/l/kars_island.md)
 
-Asha has a deal with the Inner Circle of the [Green](/f/green "**This**: is tooo cool. What if it is pretty big? how big does it get?"). 
+Asha has a deal with the Inner Circle of the [Green](/f/green "**This**: is tooo cool. What if it is pretty big? how big does it get?".md). 
 Bore’s experiment and Roma’s to clean up, a nice [Fellowship] ceremony might clear things up.
 
-### [Hector Yung](/p/yung)
+### [Hector Yung](/p/yung.md)
 
-### [Scibere Meatus](/p/meatus)
+### [Scibere Meatus](/p/meatus.md)
 
 If the players want to go back to Bard’s Library and use this information to narrow the list down, they can talk to Meatus. 
 
-Meatus tells them that [Porter](/p/porter) (or and Edo impersonating him) is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.
+Meatus tells them that [Porter](/p/porter.md) (or and Edo impersonating him) is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.
 
 **Why did Roma want to have someone follow Kessler? How did she find out? What does she think of Meatus?**
 
 They could as well be against the University Library. There are two that  Roma suspects of being bad actors, the Curates Olaratmp and Glaveltmp. They have worked at the University Library for many many years, and they've had the job of preservation and transport of artefacts for the archives.
 
-### [Sargent Horne](/p/sargent)
+### [Sargent Horne](/p/sargent.md)
 
 He is an old Sargent. Dirty as the day is long, absolutely indispensable, he works for everyone and has a price for anything. He only works for the Ymil more than anyone else because he is afraid of them. He is sweet on Roma and works his tush off to impress her. He's also known as Bosun, down at the docks. There isn't anyone he can't make friends with.
 
-### [The Stolen Texts](/t/the_stolen_texts)
+### [The Stolen Texts](/t/the_stolen_texts.md)
 
 The major texts are taken out by the bulldozers. They only came to smash, not to grab. This rubble can be reconstructed to find the life blood of information. They might meet Roma. 
 
@@ -67,7 +67,7 @@ The first time the party needs to clean up something pronto, they bring in a pro
 > **Ymil**: Professor Shawn Fallstaff
 
 
-### [Ram's Shelf](/l/rams_shelf)
+### [Ram's Shelf](/l/rams_shelf.md)
 
 Roma is there, and can purr them into talking to some of the townsfolk who saw what actually happened. This appears to be:
 
@@ -81,23 +81,23 @@ Niama can tell them:
  * Hysterics, “The Shrine of the Moon” and “The Bishop's Hide”
  * There is a really hot-headed Prince on the premises.
  * And he might start murdering people.
- * His name is [Silar Gloryshield](/p/silar) 
+ * His name is [Silar Gloryshield](/p/silar.md) 
  * Edo Rian has been destroying evidence. Burning a lot of paper.
 Eventually, Rian will have to go with the desires of his heart: the transference to werewolf without danger to his life, and loyalty to his mistress in the upcoming battle with Aunt Agnus, who is coming with her sahagin army to put the Kraken down, before it destroys the world.
 
 
-### [Aunt Agnus](/p/aunt_agnus)
+### [Aunt Agnus](/p/aunt_agnus.md)
 
 When they meet her, she is unfortunately storming the shrine with a spider army of craboids. She is in a bad MLM and she needs a way out. She might be the only one in this scenario who can make the connection between the Kraken and the College. Agnus will move to take out what she sees as an element too close: Edo Nain. She blames him for brokering this alliance. Her primary goal is the dissolution of relationships between the Silverbloods and the University. Edo feels the same way, and they are on the lookout for each other.
 
-The Spirit holy cow this needs to be something from Aunt Agnus’s past. What is she (Aboleth)? How did she grow up? Was it rough? She is an old brain-eater. She knows her bread and butter. Aunt Elisa eats the past. The Kraken eats stories. The ants pick up the rest, and the [ants pick up the rest](/r/rest)
+The Spirit holy cow this needs to be something from Aunt Agnus’s past. What is she (Aboleth)? How did she grow up? Was it rough? She is an old brain-eater. She knows her bread and butter. Aunt Elisa eats the past. The Kraken eats stories. The ants pick up the rest, and the [ants pick up the rest](/r/rest.md)
 
-### [Edo Nain](/p/nain)
+### [Edo Nain](/p/nain.md)
 He will draw them back into the past, when a Danoi army stood waiting to fight for the Blood Throne. They had marched from the Upper Sea to the Lower Sea and they brought with them 13,000 hoplites. The mountain passes had been well repaired and there had been no-one to accost them as they crossed to the City. They faced the armies of the Hill People, he saw their determination, their might, their paths, there they fought the Hill People. 
 
-### [The Garden Path](/r/the_garden_path)
+### [The Garden Path](/r/the_garden_path.md)
 
-If they go to the meeting, no-one but the old-bloods will try to murder them. Sing them a [swan song](/r/swan_song).
+If they go to the meeting, no-one but the old-bloods will try to murder them. Sing them a [swan song](/r/swan_song.md).
 
 ### The Shrine of the Moon
 
@@ -108,7 +108,7 @@ They meet these groups in a wild concert of violence, they might be dancing? Pos
 **Jat and his gang of Silverbloods.**
 These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.
 
-There aren’t a lot of Silverblood family here, but they are quite quick, like weasels. Some might be other well known [assassins](/a/assassins).
+There aren’t a lot of Silverblood family here, but they are quite quick, like weasels. Some might be other well known [assassins](/a/assassins.md).
 **The Broken Ones**
  A band of Hill people with carnival like deformities, but they become something beautiful when they shift. Half are Moska. Roma is their leader.
 
@@ -124,7 +124,7 @@ Something has changed in their demeanor this year. these are recently lead by Fr
 
 You meet Jat and Roma, arguing but ultimately agreeing to share power when the others submit. He is a big fat lyre, his tunes obsequies, but his intentions murderous. If Roma joins, the rest of the packs will submit -- they don't have any unity. He may even point this out to Roma, to try and catch her in something, perhaps it's about how she ran off to the city, and only comes home for family ceremonies. He promises her half power, as defined in the laws ex ramis. And that's it, if she looks up those laws, she will regret kiling him. But at this point, it could go either way.
 
-Roma doesn’t believe this lie for a second, but she is watching for this to [play out](/r/play_out)
+Roma doesn’t believe this lie for a second, but she is watching for this to [play out](/r/play_out.md)
 
 They are met with in force by Fred and the New Pups. Things are going to get a little tense. When the party shows up, Jat make take the opportunity to accuse Roma of stabbing him in the back and attack. Or he might be talked down, if he thinks there is still time to get further public. If the Game is back on, the Primals will now hit, otherwise, it’s just Agnus’s crew, with everything she can muster off The Shudder Cudder, a newly made ancient sea folk sloop.
 
@@ -133,7 +133,7 @@ The reward for brokering peace and getting the succession worked out is 1 week o
 They hoist sail, and go howling on longships after the sloop, and they are attacked by pirates.
 
 
-### [The Spirit Itself](/p/raphael)
+### [The Spirit Itself](/p/raphael.md)
 
 
 The Prince’s Wolves – This guy is too cool to not be a main Character. Oh, this is Vamarm Silar Gloryshield, and he just crowned himself king. Silar will say “Well shoot, I’ve dabbled in fictions no more complicated than this” He is the emissary, and he brings a message for the King. (is this some psy-ops? Roma cannot figure this guy out?)

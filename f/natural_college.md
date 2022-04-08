@@ -15,7 +15,7 @@ Merit-based admissions. They select the best and brightest and take them on for 
 
 ### Professor
 
- + [Doctor Lund](/p/doctor_lund)
+ + [Doctor Lund](/p/doctor_lund.md)
 
 ### Fellow
 
@@ -23,4 +23,4 @@ Merit-based admissions. They select the best and brightest and take them on for 
  + Rian?
 
 Ex-professor: 
- + [Shawan Fallstaff](/p/fallstaff)
+ + [Shawan Fallstaff](/p/fallstaff.md)

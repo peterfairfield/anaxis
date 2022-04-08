@@ -1,1 +1,1 @@
-Robots – The Old People. They work in: 1. Law – Uphold the law as much as you can. Study it. 2. Healing – Help others whenever there is a need. 3. Ironworking – Iron fixes everything. The Bees. 4. \[Bookkeeping (/i/books)–
+Robots – The Old People. They work in: 1. Law – Uphold the law as much as you can. Study it. 2. Healing – Help others whenever there is a need. 3. Ironworking – Iron fixes everything. The Bees. 4. \[Bookkeeping (/i/books.md)–

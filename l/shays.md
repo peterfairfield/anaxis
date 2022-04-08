@@ -4,7 +4,7 @@ This is a mechanics shop for building almost anything out of iron. Silver and br
 
 > The Lady Ava, searching for clue to some lost family possessions, they can help her find the Dagger, the Bowl, and the Staff/Egg.
 
-> Sargent Horne, or perhaps [Sickman](/p/sickman), inspecting weapons
+> Sargent Horne, or perhaps [Sickman](/p/sickman.md), inspecting weapons
 
 > Magnus
 
@@ -12,7 +12,7 @@ This is a mechanics shop for building almost anything out of iron. Silver and br
 
 [^1]: Some footnote text.
 
-The incubus, [Obel](/p/obel "*This*: Guy slapps") runs the shop.
+The incubus, [Obel](/p/obel "*This*: Guy slapps".md) runs the shop.
 
 Tables can look like this:
 

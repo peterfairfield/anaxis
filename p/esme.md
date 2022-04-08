@@ -6,7 +6,7 @@
 Warband leader of the Prince’s Wolves. Her home town exploded and there was only one survivor. She is sure the Host is behind the attacks, and sends them to the Iron Gate to see what information they can gather. Also, there was a survivor of the explosion, being held by the Moska, and she wants to spring the survivor who is kept at the Bog Dogs. 
 “This won’t be boring”.
 
-## [The Bog Dogs](/f/the_bog_dogs)
+## [The Bog Dogs](/f/the_bog_dogs.md)
 
 They will have a tough time breaking in, but with some contacts and moving the right pieces, they should be able to at least get access to the survivor. Esme might come along with them in disguise. Otherwise, they are to deliver her to Esme’s estate on Sheep Island. Either way, the Sappers catch up with them.
 

@@ -1,3 +1,3 @@
 # Yuri Holden
 
-Beowulf student, in training under [Teledice](/p/inajon).
+Beowulf student, in training under [Teledice](/p/inajon.md).

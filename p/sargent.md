@@ -2,6 +2,6 @@
 
 ## Harbormaster
 
-## [Natural College](/f/natural_college)
+## [Natural College](/f/natural_college.md)
 
-## [Bolsingers](/f/bolsingers)
+## [Bolsingers](/f/bolsingers.md)

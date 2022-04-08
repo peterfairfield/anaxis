@@ -1,9 +1,9 @@
 ## The Sun King
 
 Gifts of the Circle King
- * First Gift: [Gold](/i/gold).
- * Second Gift: The flanking [Oni](/f/the_empire) assault.
- * Third Gift: [The Kraken](/p/the_kraken).
+ * First Gift: [Gold](/i/gold.md).
+ * Second Gift: The flanking [Oni](/f/the_empire.md) assault.
+ * Third Gift: [The Kraken](/p/the_kraken.md).
 
 ### The Return
  * Drug in kicking and screaming

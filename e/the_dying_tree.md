@@ -13,4 +13,4 @@ He wants to join with his body, but is super confused. He forms a giant four-leg
 
 The ship will be built down at the Lacrima Works. 
 
-Then it is up to which way they want to go with the Belesys vs [Inajon](/p/inajon) vs Lesure. So long as they connect one of these with [Saxon](/p/lord_saxon) and [Sickman](/p/sickman).
+Then it is up to which way they want to go with the Belesys vs [Inajon](/p/inajon.md) vs Lesure. So long as they connect one of these with [Saxon](/p/lord_saxon.md) and [Sickman](/p/sickman.md).

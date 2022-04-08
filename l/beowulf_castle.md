@@ -8,10 +8,10 @@ There is a big looking attack distracting from the Ymil. No one really knows why
 The Sun King Lands, takes up the chalice and plants the Iron Rose.
 
 Members:
- + [Bols](/p/bols)
- + [Lamark](/p/lamark)
- + [Prime Eduward](/p/eduward)
- + [John Deverre](/p/deverre)
- + [Yuri Holden](/p/holden)
- + [Duchess Vaunne](/p/vaunne)
- * [Torin Holden](/p/torin)
+ + [Bols](/p/bols.md)
+ + [Lamark](/p/lamark.md)
+ + [Prime Eduward](/p/eduward.md)
+ + [John Deverre](/p/deverre.md)
+ + [Yuri Holden](/p/holden.md)
+ + [Duchess Vaunne](/p/vaunne.md)
+ * [Torin Holden](/p/torin.md)

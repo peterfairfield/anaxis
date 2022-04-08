@@ -11,7 +11,7 @@
 >  They are present in any non-singular group of Defenders or Wights. 
 
 > ## The Defenders
-> They have a problem in leadership. The young king has become drunken and dangerous. He is liable to be leathal. He is [Belesys](/p/belesys)
+> They have a problem in leadership. The young king has become drunken and dangerous. He is liable to be leathal. He is [Belesys](/p/belesys.md)
 > If the shipworks were moved to the end of the lake, and reedboats made with wood frames, a deal with the Danoi can be reached through Belesys. Otherwise, the same deal with work with Lesure or with Inajon if they are able to remove Belesys.
 
 The Danoi

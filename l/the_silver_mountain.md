@@ -16,7 +16,7 @@ A pile of Boglins use the terrain to ambush them on the river, perhaps during a 
 ### Boglin hideout: 
 
 > ![hideout](/goblin_cave.png)
-> > There may be a Silverman prisoner, [Silar](/p/silar) or [Esme](/p/esme)
+> > There may be a Silverman prisoner, [Silar](/p/silar.md) or [Esme](/p/esme.md)
 >
 > > There will be bugbears.
 
@@ -45,7 +45,7 @@ A settlement spanning the falls, it was burned by King Pyre. There are several q
 
  The Whiteshirts have moved into the basements. This will be a tough nut to crack.
 
-Yes, [Iorek](/p/iorek) has contracted the curse of the Silvermen and has now build a blood-cadre of Whiteshirts. He has been collecting people from the countryside to infect and study their bloodlines. He had determined that he needs blood of the older clans, but hasn't quite caught the bloodline of the serpent that keeps the disease from being rapidly fatal. He was unable to get the whole Halfshield family, but he's rapidly gone to work infecting Joanna and Elena with enough Sa to choke a goat and watching how it progresses and kills them. So far, there haven't been any results, but Joanna is starting to lose her shit. Joanna and Elena are of the most ancient family of High Dara, and her brother is in fact Niflar. This may indicate to them something of Halfshield's family.
+Yes, [Iorek](/p/iorek.md) has contracted the curse of the Silvermen and has now build a blood-cadre of Whiteshirts. He has been collecting people from the countryside to infect and study their bloodlines. He had determined that he needs blood of the older clans, but hasn't quite caught the bloodline of the serpent that keeps the disease from being rapidly fatal. He was unable to get the whole Halfshield family, but he's rapidly gone to work infecting Joanna and Elena with enough Sa to choke a goat and watching how it progresses and kills them. So far, there haven't been any results, but Joanna is starting to lose her shit. Joanna and Elena are of the most ancient family of High Dara, and her brother is in fact Niflar. This may indicate to them something of Halfshield's family.
 
 > What they want them to retrieve is a stone of the family. 
 
@@ -53,4 +53,4 @@ Iorek also has records on histories from the mines, and of objects that were und
 
 The rock is fractured and weak. The trouble with silver mountain has always been engineering vs cave-ins. The Mes are changing everything here already. They may notice Shawan's touch here, perhaps via some original clay tablets, or by their earliest actions: helping Elisa with something. That will trigger a massing Change in Silver Mountain. This will begin the eruption. King Pyre will redirect the flow into the river. Then he demands to speak to the King of Karesh, or perhaps it's called Eshar?
 
-They get extra XP and huge renoun depending on how they kill Iorek. This should be a long time coming, through [Winter](/p/winter) 
+They get extra XP and huge renoun depending on how they kill Iorek. This should be a long time coming, through [Winter](/p/winter.md) 

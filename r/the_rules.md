@@ -10,7 +10,7 @@ The Rules: when you get to a certain point in the drawings, then you can select 
 They could as well be against the University Library. There are two that  Roma suspects of being bad actors, Olaratmp and Glaveltmp.
 
 
-Core idea, people, places, story, scene (encounter could only be half an option). Time (from one to another). These is everything that is actually data coming into the machine. Each piece of data should be treated with respect, and allowed to build another dimension of the information. I should instantiate a model for each of these objects, leave no cross tables unstoried, placed or peopled. You can actually start a deck with just Story, and then add the others (they are all story) but as more cards get added, they can just expand in symbols. [Encounters(/r/encounters)] should maybe be triggered by DM fiat, if they fit the mood and power level of the players.
+Core idea, people, places, story, scene (encounter could only be half an option). Time (from one to another). These is everything that is actually data coming into the machine. Each piece of data should be treated with respect, and allowed to build another dimension of the information. I should instantiate a model for each of these objects, leave no cross tables unstoried, placed or peopled. You can actually start a deck with just Story, and then add the others (they are all story) but as more cards get added, they can just expand in symbols. [Encounters(/r/encounters.md)] should maybe be triggered by DM fiat, if they fit the mood and power level of the players.
 
 Go to your debriefing, following out up through being a double triple quad agent vs There are 1000000 souls on this sphere who have voted to intervene.
 

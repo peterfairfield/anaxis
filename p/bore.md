@@ -15,14 +15,14 @@ This is just a side project, he will get back to his real job unless he can tell
 
 ### More Bore
 
-In this case, he’d like the Bindstone, which has proof of the contract between himself and [Roma](/p/roma), or perhaps something as important. He does want to bring Saad in to appear for trial, but knows that he might need to remain in the countryside. He does want to bring him back into the fold, and possibly rehire the entire Grey Clerics, if he can find something for them to do. He’s working on it. Once he gets a Ship of the Line made, he can crew it with Grey Clerics. In the meantime, he will give them a brig.
+In this case, he’d like the Bindstone, which has proof of the contract between himself and [Roma](/p/roma.md), or perhaps something as important. He does want to bring Saad in to appear for trial, but knows that he might need to remain in the countryside. He does want to bring him back into the fold, and possibly rehire the entire Grey Clerics, if he can find something for them to do. He’s working on it. Once he gets a Ship of the Line made, he can crew it with Grey Clerics. In the meantime, he will give them a brig.
 
 
 #### The Story of Roma and Bore
 
 They saved each other during a crisis. Bore wanted to get married, so she did, but forced him to sign a prenup, giving her essentially nothing. They cannot find the prenup in their records, so they’ve come to the library to find a way out of this.
 
-This is a bit of how it went down: [Roma](/p/roma) had inherited a huge amount of money from her parent’s land, it was completely full of bitumen.
+This is a bit of how it went down: [Roma](/p/roma.md) had inherited a huge amount of money from her parent’s land, it was completely full of bitumen.
 
 ### Executor
 
@@ -36,7 +36,7 @@ Who is innocent of stealing the books, so knows for sure it wasn’t him. Iis go
 
 
 The Pattern
-Bore (as always) think these thefts have a pattern, once he hears of the book the Finders claim to be missing: [The Seawurm](/l/the_seawurm)’s Ship’s Logs.
+Bore (as always) think these thefts have a pattern, once he hears of the book the Finders claim to be missing: [The Seawurm](/l/the_seawurm.md)’s Ship’s Logs.
 
 
 Bore 

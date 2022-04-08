@@ -19,7 +19,7 @@ When Hatchaxel dumps the box in the depths, or the first time they head down eve
 
 Let them start speculating around the time they find out who Aunt Agnus is. But she's as good at playing the Edo that they shouldn't be able to sort her out passively. Her tower is a plotty mess, it really seems like the penultimate scene there was the last, or just part of a short arc.
 
-#### [The Madman](/p/madman): 
+#### [The Madman](/p/madman.md): 
 
 > “inside this bottle is a whole other world! Look, tiny people walking around a tiny village saying hi to each other and bye mom and eat you damn food and all those nice things. If I set then down and I can get one other person to hold hands with me, and we jump down the bottle!” If someone does it, they smash the bottle, otherwise he will take the bottle back into the knapsack. He is very careful with his stuff.
 
@@ -43,6 +43,6 @@ Silence.
 
 #### Eel Island
 
-They could really use some supplies, mostly facines of fuel, dung carts, and fine goods. They have a lot of eggs and milk stacking up, as well. This place has 4 large fishing boats, and is a [agricultural](/p/mushussu) powerhouse. Bolsingers uppergrads use this place to finish their projects and get a deep dive on the history of the harbor, or she will do a dramatized battle of the Pirate Kings, how they attacked and defeated 7 cities before coming to Eschar. Eschar stood with the sea, as it had always done, as the waters rose and fell of old. This is now the returning of the waters, not the rising.
+They could really use some supplies, mostly facines of fuel, dung carts, and fine goods. They have a lot of eggs and milk stacking up, as well. This place has 4 large fishing boats, and is a [agricultural](/p/mushussu.md) powerhouse. Bolsingers uppergrads use this place to finish their projects and get a deep dive on the history of the harbor, or she will do a dramatized battle of the Pirate Kings, how they attacked and defeated 7 cities before coming to Eschar. Eschar stood with the sea, as it had always done, as the waters rose and fell of old. This is now the returning of the waters, not the rising.
 
 The drowned temple is hardly a secret, once you're on the island, you're on top of it. There are two main entrances on the island, the huge sea caves on the north side of the island and the temple in the centre. It is underwater.

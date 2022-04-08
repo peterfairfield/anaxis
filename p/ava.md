@@ -7,21 +7,21 @@ A very talented fellow at the University College, she operates the Observatory. 
   
 ## Lord Saxon
 
-She is worried that her employer, [Lord Saxon](/p/lord_saxon), is going to use this to force her to accept security (read spies) at the Observatory. There is a bunch of other stuff that is missing as well, magical experiments she has been conducting with her students. She doesn’t want a bunch of bafoons running around the library. If they pull off the deal with Lord Sack, she will become helpful, otherwise, she tries to get rid of them. If they can reveal the scale of attack to her, she will start to move the books to the University. She can tell them stories of the book-burnings that were halted by her family, of the missing libraries and history of Acklan and how the books were smuggled out and saved by riding out the next 400 years in a barrel sealed with bitumen.
+She is worried that her employer, [Lord Saxon](/p/lord_saxon.md), is going to use this to force her to accept security (read spies) at the Observatory. There is a bunch of other stuff that is missing as well, magical experiments she has been conducting with her students. She doesn’t want a bunch of bafoons running around the library. If they pull off the deal with Lord Sack, she will become helpful, otherwise, she tries to get rid of them. If they can reveal the scale of attack to her, she will start to move the books to the University. She can tell them stories of the book-burnings that were halted by her family, of the missing libraries and history of Acklan and how the books were smuggled out and saved by riding out the next 400 years in a barrel sealed with bitumen.
 
   
 ## Ymil
 
-She isn’t as keyed into the who and what of the [Ymil](/f/ymil), Society and BRC are up to, but she does know signals intelligence, and uses it to talk to [Fred](/p/fred), with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on.
+She isn’t as keyed into the who and what of the [Ymil](/f/ymil.md), Society and BRC are up to, but she does know signals intelligence, and uses it to talk to [Fred](/p/fred.md), with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on.
 
   
 ## Finders
 
-Ava is an old family [Finder](/f/the_finders), and has been told that she will find love among the first lords of the city. She has had 7 husbands, and they have all died.
+Ava is an old family [Finder](/f/the_finders.md), and has been told that she will find love among the first lords of the city. She has had 7 husbands, and they have all died.
 
 What is the source of this evil thing? A demon that comes and kills her husbands, or is it the City itself?
 
-Can we get a triangle between Parson, Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for [Fred](/p/fred). 
+Can we get a triangle between Parson, Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for [Fred](/p/fred.md). 
 
 ## Fred has dissappeared
 

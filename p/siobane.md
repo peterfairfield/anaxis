@@ -2,9 +2,9 @@
 
 ## The Spider
 
-## [The Misrayim](/f/the_mizrayim)
+## [The Misrayim](/f/the_mizrayim.md)
 
-## [The Green](/f/green)
+## [The Green](/f/green.md)
 
 ## The Moska
 

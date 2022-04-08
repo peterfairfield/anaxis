@@ -21,7 +21,7 @@ There are two artisans working on casting a massive bronze sculpture. They have 
 
 ### One Hot Night: Rian’s Parents
 Edith and Jokim Sama
-They are wealthy, but have little knowledge of what their son actually does at the docks, but they assume he is a quartermaster, and are just disappointed he hasn’t joined the Host. They don’t know what an Edo is, but they do have just the right amount of classism to say the right things about the Savants. They will however let the players know that he frequents [Ten Pins](/l/ten_pins).
+They are wealthy, but have little knowledge of what their son actually does at the docks, but they assume he is a quartermaster, and are just disappointed he hasn’t joined the Host. They don’t know what an Edo is, but they do have just the right amount of classism to say the right things about the Savants. They will however let the players know that he frequents [Ten Pins](/l/ten_pins.md).
 
 ### One Hot Night: Ten Pins
 Yes Skyre Gowan Roan sells Mull, but she won’t tell them that unless she knows them, and knows they won’t sic the Hospitaller on her. Otherwise, she does know the Edos quite well, and can probably tell them more about Rian than anyone. Again, depending on how well they know each other, she can tell them that Rian has bought a new property on the w. Side of the Rock, on a very wealthy residential district called The Cliffs.

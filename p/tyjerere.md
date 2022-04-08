@@ -1,6 +1,6 @@
 Tyrejere 
 
-Once he’s warmed to them ahem, knocked them around a bit, or let Bore do it if he’s around. If [Nate Hound](/p/nate) is around, he will mention that this is a punishment, not a training excercise (he gets that plenty) but a dumping ground for War College shits, which is a total lie. He also complains that his friend, Hatchaxel, has had such a rum go of it. This is not how he feels, he does it to make himself look stupid.
+Once he’s warmed to them ahem, knocked them around a bit, or let Bore do it if he’s around. If [Nate Hound](/p/nate.md) is around, he will mention that this is a punishment, not a training excercise (he gets that plenty) but a dumping ground for War College shits, which is a total lie. He also complains that his friend, Hatchaxel, has had such a rum go of it. This is not how he feels, he does it to make himself look stupid.
 
 Tyjerere will tell them about the night in question. Drake had been recruiting for the Edo in this area. He had been working on a young group of newcomers, the Bog Dogs might know them.
 

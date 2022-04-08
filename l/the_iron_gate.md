@@ -1,6 +1,6 @@
 # The Iron Gate
 
-Portal to Eshar and it's prison and second largest garrison, after the [Rock](/l/the_rock).
+Portal to Eshar and it's prison and second largest garrison, after the [Rock](/l/the_rock.md).
 
 
 #### Prison

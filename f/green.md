@@ -10,4 +10,4 @@ Members:
  + Skyre Roan
  + Babbi Fran
  + Parson
- + [Siobane](/p/siobane)
+ + [Siobane](/p/siobane.md)

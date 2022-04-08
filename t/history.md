@@ -4,8 +4,8 @@
 2. The Library & Shipfall.(the books were on the ships). 
     1. The countryside was built into legion-creating societies (a huge improvement, and ultimately consolidating power into the hands of the Reshesh. 
     2. After they launched the 3 against the Outer Islands, They laid in wait and built a real navy. This was enough to keep the King of the Outer Islands at bay. 
-    3. When the attack comes, it will be an overwhelming force sneaking around to take the City while the main unstoppable attack ([The Betrothal](/e/the_betrothal)) beginning a war or beginning a legacy?
-3. The Endless Empire & [The Mechanamacy](/t/mechanamacy) and the 
+    3. When the attack comes, it will be an overwhelming force sneaking around to take the City while the main unstoppable attack ([The Betrothal](/e/the_betrothal.md)) beginning a war or beginning a legacy?
+3. The Endless Empire & [The Mechanamacy](/t/mechanamacy.md) and the 
     1. Gifts of the Circle King & BRH (may fight for either side)
     2. The Wolf & The Circle & The Silver Mountain & Hoplites w/ horses.
 4. The Lament, the Odes, Lament for Ur, The Reformation.

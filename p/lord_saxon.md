@@ -10,7 +10,7 @@ The Protection of the City and the maintenance of the Legions.
 
 ## Quartermaster
 
-Lord Saxon Gabriel. In charge of the market place Kathkul. Saxon & his son, the miscreant [Nate Hound](/p/nate), and he leads the Host, but doesn't seem to mind Roma.
+Lord Saxon Gabriel. In charge of the market place Kathkul. Saxon & his son, the miscreant [Nate Hound](/p/nate.md), and he leads the Host, but doesn't seem to mind Roma.
 
 > The high-caste Hadrad will need to be sought out and met with, hopefully without anyone dying. They are mostly greens and reds.
 

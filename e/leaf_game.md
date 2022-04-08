@@ -49,7 +49,7 @@ This is a good oppurtunity for the players to get a good history of Eschar.
 
 Reopening the Mine
 
-[Pyre](/p/king_pyre) will make for the Silver Mountian, his aim: to cast himself into the fires and be reborn, the first Red Dragon since the age of humans.
+[Pyre](/p/king_pyre.md) will make for the Silver Mountian, his aim: to cast himself into the fires and be reborn, the first Red Dragon since the age of humans.
 
 his body will be the river of lava and his sword his fangs. The reds bodies have become the nickle-iron of the hills, born from crystal of Widmanstätten pattern. These have long since become the blades, ship fittings, prized armor of Eschar. The greens bodies have been migrating down the rivers on boats. 
 
@@ -63,17 +63,17 @@ As they approach the lava flow, the greens and the ettercaps will have a convers
 
 "Oh, now that I'm dead, I'm not afraid of those guys anymore." He can be resurrected to serve as figurehead of their ship? It might be good to build this guy up. 
 
-[Undeth Mythros](/p/undeth) is a Pricess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson's help.
+[Undeth Mythros](/p/undeth.md) is a Pricess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson's help.
 
 Her Captains: (Bastards raised from old blood)
- - Stalker Oneharm -- [Blue](/f/augurs), but sent from their side, to keep an eye on Undeth.  His other arm as regrown, but something is wrong with it. He is a Wizard of Alam.
+ - Stalker Oneharm -- [Blue](/f/augurs.md), but sent from their side, to keep an eye on Undeth.  His other arm as regrown, but something is wrong with it. He is a Wizard of Alam.
  - Kilsier Frates --
  - Gigantus Phriapus -- huge dude from Alam. Seven feet tall before the horns, and he uses the Bow, whatever form is the meanest. He uses all the nastinT
 
-Has [Parson](/p/parson) been saving so many people as to have an effect on the population? How does he do it? Is he behind the water globes, through the Moshka. 
+Has [Parson](/p/parson.md) been saving so many people as to have an effect on the population? How does he do it? Is he behind the water globes, through the Moshka. 
 
 Sumerian religion seems to have been founded upon two separate cosmogenic myths. The first saw creation as the result of a series of hieroi gamoi or sacred marriages, involving the reconciliation of opposites, postulated as a coming together of male and female divine beings, the gods.
 
 This pattern continued to influence regional Mesopotamian myths. Thus, in the later Akkadian Enuma Elish, creation was seen as the union of fresh and salt water, between male Abzu, and female Tiamat. The products of that union, Lahm and Lahmu, "the muddy ones", were titles given to the gate keepers of the E-Abzu temple of Enki in Eridu, the first Sumerian city.
 
-Mirroring the way that muddy islands emerge from the confluence of fresh and salty water at the mouth of the [Cedar River](/l/cedar_river), where the river deposits its load of silt, a second hieros gamos supposedly resulted in the creation of Anshar and Kishar, the "sky-pivot" (or axle), and the "earth pivot", parents in turn of Anu (the sky) and Ki (the earth)
+Mirroring the way that muddy islands emerge from the confluence of fresh and salty water at the mouth of the [Cedar River](/l/cedar_river.md), where the river deposits its load of silt, a second hieros gamos supposedly resulted in the creation of Anshar and Kishar, the "sky-pivot" (or axle), and the "earth pivot", parents in turn of Anu (the sky) and Ki (the earth)

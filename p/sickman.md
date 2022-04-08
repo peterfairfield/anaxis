@@ -3,7 +3,7 @@
 > **Sir Charles Antony Richard Hoare**
 >> *“I call it my billion-dollar mistake.
 
-Seargent of [House Beowulf](/f/beowulf). :warning:
+Seargent of [House Beowulf](/f/beowulf.md). :warning:
 
 
 

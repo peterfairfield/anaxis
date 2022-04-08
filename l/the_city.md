@@ -26,7 +26,7 @@ Ubaiad Imperial Post – Large trade bank of the Empire, they have a presence in
  - Sodesn -- term for "Muddies"
  - Tarside (Duhbside) vs Simside (bitumen vs resin)
  - [Timagur](/) -- the ships being made in the shipyards.
- - The Horn -- [Isalt Island's](/l/isalt) closest edge.
+ - The Horn -- [Isalt Island's](/l/isalt.md) closest edge.
 
  The Engineering of humans in the landscape beggars the imagination. The canals, the lakes, the shores the caves are all of providence given or lovingly made. Flowers and crickets sing.
 

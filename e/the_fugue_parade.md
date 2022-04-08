@@ -6,4 +6,4 @@
 
 > Vats of ink are made in the bitumen to fuel process. There isn't any metal in the city, practically
 
-> [The Stygian Society](/f/the_society) is alive and well, the masters of the city.
+> [The Stygian Society](/f/the_society.md) is alive and well, the masters of the city.

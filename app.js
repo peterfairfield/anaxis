@@ -60,7 +60,7 @@ app.get('*', (req, resp) => {
     let data = "";
     let file = ""
     try {
-        const relPath = '.' + req.path + '.md';
+        const relPath = '.' + req.path;
         if (fs.existsSync(relPath)) {
           file = fs.readFileSync(relPath, 'utf8')
           data = md.render(file);

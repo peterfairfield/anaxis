@@ -4,7 +4,7 @@
  * Navy: 
  * City
  * Lake & Resevoirs
- * Silver Mountain: the [Erimesh](/f/the_erimesh)
+ * Silver Mountain: the [Erimesh](/f/the_erimesh.md)
  * Cedar River
  * Someone from the Theatre? Obel’s boss, Magnus?
  * Tearers 

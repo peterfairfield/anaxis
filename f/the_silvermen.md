@@ -10,11 +10,11 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 ## Halfshields
 
-#### [Niflar](/p/niflar)
+#### [Niflar](/p/niflar.md)
 
-#### [Esme](/p/esme)
+#### [Esme](/p/esme.md)
 
-#### [Silar](/p/silar)
+#### [Silar](/p/silar.md)
 
 ## Older Blood
 

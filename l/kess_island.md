@@ -4,7 +4,7 @@
 
 ### First time on the island
 
-Showdown between [DeVerre](/p/deverre) and Philos, The Clerk. [Bols](/p/bols) is trying to prove he has the right to search the houses for Hatchaxel. DeVerre has to correct him, given the status of Orphanage “Keep no blood” qualifies as a Hospital, and outside 3 miles of the city.
+Showdown between [DeVerre](/p/deverre.md) and Philos, The Clerk. [Bols](/p/bols.md) is trying to prove he has the right to search the houses for Hatchaxel. DeVerre has to correct him, given the status of Orphanage “Keep no blood” qualifies as a Hospital, and outside 3 miles of the city.
 
 ### Sequence
 > Several houses have already been searched.
