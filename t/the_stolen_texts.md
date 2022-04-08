@@ -10,7 +10,9 @@
 
 ### Brains at Beta for 30 centuries
 
-A varied, alwasy diffent different vintage. Fred's dad would keep the brains away. This is utilimitly what they want back, but they will take becoming stories.
+The largest repository of bodies is the Necropolis.
+
+The Edo are always searching for a varied, different vintage. Fred's dad would keep the brains away. This is ultimately what they want back, but they will take becoming stories.
 
 ### The zing of Alphas
 

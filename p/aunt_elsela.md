@@ -41,7 +41,7 @@ Silence.
 
 "I am white supremecist?" Then the thunder rolled, and the fiddles scraped.
 
-#### Town
+#### Eel Island
 
 They could really use some supplies, mostly facines of fuel, dung carts, and fine goods. They have a lot of eggs and milk stacking up, as well. This place has 4 large fishing boats, and is a [agricultural](/p/mushussu) powerhouse. Bolsingers uppergrads use this place to finish their projects and get a deep dive on the history of the harbor, or she will do a dramatized battle of the Pirate Kings, how they attacked and defeated 7 cities before coming to Eschar. Eschar stood with the sea, as it had always done, as the waters rose and fell of old. This is now the returning of the waters, not the rising.
 
