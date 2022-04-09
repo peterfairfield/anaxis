@@ -36,3 +36,7 @@ Fred’ sacrifice is to die to allow the group of his own people who don’t wan
 ## Rescriptivists Resurgent
 
 The major texts are taken out by the bulldozers. They only came to smash, not to grab. This rubble can be reconstructed to find the life blood of information. They might meet Roma. “You know, the advantage of my line of work is, people can never be sure that it might not be the case that…  are working for me or with me? or not?” What is written and recorded about her movements. She is new chaos leaking off her.
+
+## Second Reveal's the same as the first
+
+
