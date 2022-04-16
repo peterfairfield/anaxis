@@ -1,29 +1,38 @@
-Observatory
+# Observatory
 
-On the first time, they meet Ava, wrestling with a team of St. Andreas pups. She does not hide how much she enjoys it, “I just love it!”, she turbosleeps through the introduction phase of showing them the library “hello, this is Ava Betha talking, I can provide vitalstatistics and remember solid asks and contracts. What is your query?” She is drowsy after wrestling.
+On the first time, they meet Ava, wrestling with a team of [St. Andreas](/f/st_andreas.md) pups. She does not hide how much she enjoys it, “I just love it!”, she turbosleeps through the introduction phase of showing them the library “hello, this is Ava Betha talking, I can provide vitalstatistics and remember solid asks and contracts. What is your query?” She is drowsy after wrestling.
 
-On some other time, on their way there, Porter will probably attack them. This time he goes for once and for all. They can find out why and
+> On some other time, on their way there, Porter or another assassin will probably attack them.
+
+### Ramblings
+
+#### Secrets
+
+Sara Ava Gladhand Ramiel, the guardian of the abyss. She is the Watcher of the watchers. Phanuel the Judge. Truth is Beauty.
+
+
+#### Telescope
 
 Ava has finished fixing the telescope, or at least finally replacing its largest lens, and now adding another smaller but sharper lens to the large one. 
 
-She is testing out the lens with an eyeglass and the middle lens, and she peers wondering down upon the Lighthouse Island. She muses about the lives of those people on an island, so near a city they might just be an exclusive mini-city. They were probably rich, proud people, keeping their secrets and deeds done. She shudders, and then spies the lighthouse itself! She adjusts her magnification by stepping back and looking right-side up. Down in a courtyard, Fred is planting young apple trees. He is piling manure from a cart around them, when, suddenly he trips! He sprawls, trying to catch himself with a shovel, when he notices that his shovel would strike the tree. He takes a roll in the mud. Not one second of this glimpse will ever leave her memory.
+She is testing out the lens with an eyeglass and the middle lens, and she peers wondering down upon the Lighthouse Island. She muses about the lives of those people on an island, so near a city they might just be an exclusive mini-city. They were probably rich, proud people, keeping their secrets and deeds done. She shudders, and then spies the [lighthouse](/l/the_harbor_light.md) itself! She adjusts her magnification by stepping back and looking right-side up. Down in a courtyard, Fred is planting young apple trees. He is piling manure from a cart around them, when, suddenly he trips! He sprawls, trying to catch himself with a shovel, when he notices that his shovel would strike the tree. He takes a roll in the mud. Not one second of this glimpse will ever leave her memory.
 
-She will turn stunned and try to help them without compromising her role as  Sara Ava Gladhand Ramiel, the guardian of the abyss. She is the Watcher of the watchers. Phanuel the Judge. Truth is Beauty.
+#### First Introduction
 
 She will find a way to get them where they need to go, whether by magic or whatever. She will about various divination spells? She will drop some hints their way, and judge the reactions.
 
 > There are two merchants sitting on a bus. One says:  
 > Could you tell us a story, of when you were younger, the other smiles and spins this yarn.
 
->>"When my grandmother had been growing the lavendar for 30 years, she gathered all my aunts and uncles around and she told them: She had amassed 671 schekles. She had her bank seal and a paper. As they peered at it she leaned in she showed them the tokens. There was a hull of clay with a hole in it (600 shekles), a cone of clay (60), a smashed bullae (10) and a bullae (1).
+>"When my grandmother had been growing the lavendar for 30 years, she gathered all my aunts and uncles around and she told them: She had amassed 671 schekles. She had her bank seal and a paper. As they peered at it she leaned in she showed them the tokens. There was a hull of clay with a hole in it (600 shekles), a cone of clay (60), a smashed bullae (10) and a [bullae](/i/bullae.md) (1).
 
->>>"Look, four-once in my life! I have that feeling of financial security!"
+>"Look, four-once in my life! I have that feeling of financial security!"
 
-The other merchant laughed. What should he have done?
+>The other merchant laughed. What should he have done? 
 
-He should have said:
+>He should have said:
 
-"you should have said four ones in my li1111fe!"
+>"you should have said four ones in my li1111fe!"
 
 Then they had a lively conversation about how they could better test for brass and chrome, finishing off with a discussion of the where and how of the 6 token that the rescriptivists have been inserting as the original system of Taresh. It has never existed, and the smashed bullae carry too much history to be destroyed.
 
