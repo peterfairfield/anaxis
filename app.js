@@ -36,7 +36,7 @@ app.post('/create', (req, resp) => {
   const ref = req.get('Referrer');
   var url = new URL(ref);
 
-  const relPath = '.' + url.pathname + '.md';
+  const relPath = '.' + url.pathname;
   const body = "";
   if (req.body.markdown) {
     const dir = url.pathname.split('/')[1];

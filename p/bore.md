@@ -1,8 +1,18 @@
+# Executor Alain Bore
+
 ### The Pattern
 
 Whenever they first are arrested for anything bigish: Alain Bore would like to talk about the Pattern. He regrets their treatment heretofore from the Host, apologizes for his underlings behavior and openly berates his superiors. The Executor notices that you are from out of town and wants you input on the pattern of in particular the lost Ship. The attacks over the years from a ghost ship that hits every 50 years. He thinks you might be off that ship.
 
 This is just a side project, he will get back to his real job unless he can tell them anything about a site they want invesigated, infiltrated, whathaveyou, those guys are bored, and I might have a job for you right now if you've shown certain skills. 
+
+### Family
+
+Bore is obsessed with being the usurper, illigimate. This might explain why he has constructed this whole "Executor" station. He can't escape his debt to his brothers and his horror at the thing he killed. The Demon who was about to marry Ava against her will. 
+
+His belief has always been in the wellbeing of the city and all of it's peoples. He enfranchised the shakers and movers in the city in the University. 
+
+> considered historical because their names were taken from older lists that were kept for administrative purposes and could therefore be considered reliable. His solution to the reigns considered too long, then, was to argue that "[t]heir occurrence in our material must be ascribed to a tendency known also among other peoples of antiquity to form very exaggerated ideas of the length of human life in the earliest times of which they were conscious."
 
 > Did you fireball my men? Show me that again.
 

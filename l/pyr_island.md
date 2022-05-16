@@ -1,7 +1,9 @@
 Island of the Pyramids
+
 The pools of chaos. They will meet with Kraus, an agent of Darker Faire who has been keeping an eye on things, he will let you know that Lord Saxon is on the island, and would meet with them.
 
-Long Room with Strange Benches.
+Long Room with Strange Benches
+
 A clerical or voting chamber, fierce hierarchy lines. Lord Saxon will have dinner in the centre and while they eat he will let them know some things they may not already know:
 The Ghost Ship’s Connections.
 The Natural Colleges Experiment on the Island of Pyramids.
@@ -34,7 +36,7 @@ Then is a big trap, a bunch of things from beyond the beyond and badies babies. 
 
 galeb duhr a – the rock itself churning beneath the chaos. The dark tower approaches. And there on the shore is the beach and the madman, writing on bits of bitumen. He is there with a Chimera. It is interested in getting out, and food, in that order. The Chimera and the Carpenter. After this encounter, the madman becomes the Carpenter, or once he has been replaced. The Chimera declares that it is no longer a Chimera and it isn’t.
 
-Proceeding, they find Char’s lab. They whole design palace. There are wizards of the Natural College there, conducting experiments with the tools of the designer. They are like monkeys banging on typewriters. They have found out a ton of stuff in the last 4 hours or so, but now they are beginning to get worried. There is something coming through, and they aren’t going to be able to evade it. They are like rabbits caught in a room. They are both trying to repair the apparatus, and respond viciously to anyone interrupting them. One of them is Timesick for 5 seconds ago. That is sooo sick. They would really love a break, but they are all nose to the grindstone. Ah, what is going on with you?
+Proceeding, they find [Char’s](/p/char.md) lab. They whole design palace. There are wizards of the Natural College there, conducting experiments with the tools of the designer. They are like monkeys banging on typewriters. They have found out a ton of stuff in the last 4 hours or so, but now they are beginning to get worried. There is something coming through, and they aren’t going to be able to evade it. They are like rabbits caught in a room. They are both trying to repair the apparatus, and respond viciously to anyone interrupting them. One of them is Timesick for 5 seconds ago. That is sooo sick. They would really love a break, but they are all nose to the grindstone. Ah, what is going on with you? Sorry, nothing.
 
 If they don’t have the trust of the Natural College, they will be put through some tests?
 
@@ -42,7 +44,7 @@ Area 1 the research floor done as series of tests to prove what they are saying 
 
 They are savagely attacked by Natural College Monks. If they best them, they win their respect. Seriously?
 
-They think they are in a safe, well ordered lab. There the Host is encamped and trying to find it’s way out, Nathan is there, and probably Bore? They get wrongly jumped again? Or maybe just confusion enough to hurt? Nope! The Halfhalls have a plant! This can be He jumps to kill them, but keeps his secrets close enough. He has things to tell them that they want to keep him alive for. He knows about the blastings, and the tools used to do it. Dispel magic, etc…
+They think they are in a safe, well ordered lab. There the Host is encamped and trying to find it’s way out, Nathan is there, and probably [Bore](/p/bore.md)? They get wrongly jumped again? Or maybe just confusion enough to hurt? Nope! The [Halfhalls](/p/halfhalls.md) have a plant! This can be He jumps to kill them, but keeps his secrets close enough. He has things to tell them that they want to keep him alive for. He knows about the blastings, and the tools used to do it. Dispel magic, etc…
 The Theatre kick the tiger. This should be a main NPC death scene, I think. Obel? Would he have been able to pose as an archmage? Magnus? if he was first in the gap, he may have survived in some way? Or perhaps they have to do a little blood spilling to get it started? I’m liking Obel, for some reason.
 
 And.. Slaad start pouring through the gate.

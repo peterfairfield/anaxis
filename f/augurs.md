@@ -1,3 +1,3 @@
 # Hadrad Augurs
 
-Blue
+Blue by Blue, hands of two

@@ -15,6 +15,6 @@ Once down in the archives, there in some loot, in the form of smashed open chest
 
   ## Traitor in the Library
 
-  They can be caught looking at certain documents, which if the players notice and subsequently examine, then allow them to stop the deadfall trap that blocks their escape. This might be done by the Obel shapechanger.
+  They can be caught looking at certain documents, which if the players notice and subsequently examine, then allow them to stop the deadfall trap that blocks their escape. This might be done by the [Obel](/p/Obel.md) shapechanger.
 
   

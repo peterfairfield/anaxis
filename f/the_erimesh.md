@@ -2,7 +2,7 @@
  + the Shykel Erim
  + the hill people
 
-### Niflar Halfshield
+### Niflar Halfshield(/p/nilfar.md)
 
 Chief in-exile of the Silvermen. Currently working as a ring-fighter pit-fighter at The Beef Rake Hats. They kinda like him, and haven’t tried to get him killed, seriously. They don’t really know his position in the Erimesh, but they know something is up with him. 
 

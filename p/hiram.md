@@ -20,8 +20,11 @@ He want them to raise sails fore and aft. He explains running-rigging like this 
 
 He then later, when the weather does a crazy turn. Square sails! Every inch up top! And take down the gaff. She likes flying straight over the ways, Keep an eye on your lines!“ And he spins the wheel, ties it to a rope around his foot and jumps to the rescue. He is clearly awesome.
 
-Then he tosses them each a potion, while they stand in the sudden calm of the deck. All of the hands are scrambling down to war positions. As they jettison the evidence, Hiram is watching on the telescope. Hiram tells them, “Shuck over m’lads, get that strongbox and we’ll be back for ye in an hour, and stay under until you can breathe the air. Buey, rope, anchor, he tosses it at the centre of the splash. There isn’t much wind, Hiram knows that they can outsail him for a bit, but when they out of the lee of the horn, the wind will open up. He promises to be back in an hour when the potion wears off and tells him he needs every sailor aboard to handle the ship.
+He is going to have them run forward and raise a top-gallant. Even if it is raining, they might be able to spot the ettercaps amoung the crew, or notice that some of the spars are tightened with a find monofiliment thread, and sealed with resin. If they can get the topgallant up, they or if they botch the gaff, he'll just dump them in the ocean and toss them potions.
 
+Then he tosses them each a godown potion, while they stand in the sudden calm of the deck. All of the hands are scrambling down to war positions. As they jettison the evidence, Hiram is watching on the telescope. Hiram tells them, “Shuck over m’lads, get that strongbox and we’ll be back for ye in an hour, and stay under until you can breathe the air. 
+
+Buey, rope, anchor, he tosses it at the centre of the splash. There isn’t much wind, Hiram knows that they can outsail him for a bit, but when they out of the lee of the horn, the wind will open up. He promises to be back in an hour when the potion wears off and tells him he needs every sailor aboard to handle the ship.
 
 ## Down in the Depths
 

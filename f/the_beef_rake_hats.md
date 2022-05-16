@@ -21,3 +21,9 @@ He will not be able to put anyone down, but he can put them out. He can bullrush
 
 > Saltboxes   
 > Knock Out Drops
+
+### Gambler's Night
+
+The chips are down and the game is up. 
+
+At some point during the night, someone will try to roll the register. Darkness, flashbangs, smoke, confusion. This is the Rat Hunt come to roost? Perhaps the BRH Adrian Hasfell has taken on a debt too great and is caching in by cutting a loose end loose. Nilfar(/p/nilfar.md) has butted heads with Adrian, his hyperaggresive streak not meshing well with Adrian's management style.

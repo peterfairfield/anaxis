@@ -1,4 +1,5 @@
 ## Lagash
+
 The Tip of the Ubiad Empire, on the sea. A slaving hub, mostly taking hill people and exporting them. 
 
 Now they have been double dipping into boggers.
@@ -31,21 +32,26 @@ Edo Rian has been destroying evidence. Burning a lot of paper.
 Eventually, Rian will have to go with the desires of his heart: the transference to werewolf without danger to his life, and loyalty to his mistress in the upcoming battle with Aunt Agnus, who is coming with her sahagin army to put the Kraken down, before it destroys the world.
 
 The Shrine of the Moon
+
 They meet these groups in a wild concert of violence, they might be dancing? Posturing?
 Jat and his gang of Silverbloods. These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.
 There aren’t a lot of Silverblood family here, but they are quite quick, like weasels.
 The Moska who are coming to pay their respects to their great friend, the spirit of the thing that is going to kill them all.
 The Broken Ones – A band of Hill people with carnival like deformities, but they become something beautiful when they shift. Half are Moska. Roma is their leader.
 The New in Towns – Fresh Meat – New Demons – these are recently lead by Fred, many of them work at the Natural College.
-The Spirit Itself
+
+### The Spirit Itself
+
 The Prince’s Wolves – This guy is too cool to not be a main Character. Oh, this is Vamarm Silar Gloryshield, and he just crowned himself king. Silar will say “Well shoot, I’ve dabbled in fictions no more complicated than this”
 
-Aunt Agnus
+### Aunt Agnus Enters(/p/aunt_agnus.md)
+
 When they meet her, she is unfortunately storming the shrine with a spider army of craboids. She is in a bad MLM and she needs a way out. She might be the only one in this scenario who can make the connection between the Kraken and the College. Agnus will move to take out what she sees as an element too close: Edo Nain. She blames him for brokering this alliance. Her primary goal is the dissolution of relationships between the Silverbloods and the University. Edo feels the same way, and they are on the lookout for each other.
 
 The Spirit holy cow this needs to be something from Aunt Agnus’s past. What is she (Aboleth)? How did she grow up? Was it rough? She is an old brain-eater. She knows her bread and butter. Aunt Elisa eats the past. The Kraken eats stories.
 
-Edo Nain
+### Edo Nain(/p/nain.md)
+
 He will draw them back into the past, when a Danoi army stood waiting to fight for the Blood Throne. They had marched from the Upper Sea to the Lower Sea and they brought with them 13,000 hoplites. The mountain passes had been well repaired and there had been no-one to accost them as they crossed to the City. They faced the armies of the Hill People, he saw their determination, their might, their paths, there they fought the Hill People. 
 
 The Garden Path

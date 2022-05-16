@@ -5,7 +5,7 @@
 ## The Five Colleges
 
 The Stigian Society: Merit-based education. Students are appointed Executers of the Inner Colleges. Otherworld relations and communications. “May nobody know you, may no evil approach you!”~4k
-House Beowulf: Business, Martial and Magical schools ~30k
+[House Beowulf](/f/): Business, Martial and Magical schools ~30k
 Natural College: High arcane school. ~2k
 Monastery of St. Andreas: Elite martial, historical, and materials sciences. ~10k
 University College: The tie that binds. ~15k

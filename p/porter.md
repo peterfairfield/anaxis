@@ -3,7 +3,7 @@
  + Josiah
  + Erin
 
-He is there after the same clues as the party, or is there for the books – or to keep an eye on Hatchaxl, perhaps to aid him in his escape? Hatchaxel has gotten permission from the Ymil that he is to be allowed to escape. Thence the Host gets to sweep his testimony under the rug, and the Ymil get the books. They will find these books or not, depending on how far Hatchaxel gets. Porter brings a pleasure yacht for this one, posing as a nobleman’s TBD servant. He is travelling under the name “Porter” “Iorick’, “Yarvik”, “Aos”. He is using his cover as curator of the University Library, under Lord Saxon. He will tip them off to some of the Orc activities or anything obviously threatening to the Society.
+He is there after the same clues as the party, or is there for the books – or to keep an eye on [Hatchaxle](/p/hatchaxel.md), perhaps to aid him in his escape? Hatchaxel has gotten permission from the Ymil that he is to be allowed to escape. Thence the Host gets to sweep his testimony under the rug, and the Ymil get the books. They will find these books or not, depending on how far Hatchaxel gets. Porter brings a pleasure yacht for this one, posing as a nobleman’s TBD servant. He is travelling under the name “Porter” “Iorick’, “Yarvik”, “Aos”. He is using his cover as curator of the University Library, under Lord Saxon. He will tip them off to some of the Orc activities or anything obviously threatening to the Society.
 
 ## Half the Trouble with Porter
 

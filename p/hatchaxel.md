@@ -4,9 +4,9 @@
 
 ### Kess Isand
 
-He’ll try to use the confusion of their arrival to snatch the gold and run it. He’ll have paid the Ymil for a boat and supplies. He will deliver the books/and or gold into the boat and meet up with them on Crow Island. He can get the gold to the harbor via a the old canal. Anyone noticing this detail will have to be jumped on by “Porter” and convinced that he had nothing to do with it, he was just following old protocols. He will try to slip in and snatch the books if Hatchaxel can’t get them out, if he can do without blowing cover.
+He’ll try to use the confusion of their arrival to snatch the gold and run it. He’ll have paid the [Ymil](/f/ymil.md) for a boat and supplies. He will deliver the books/and or gold into the boat and meet up with them on Crow Island. He can get the gold to the harbor via a the old canal. Anyone noticing this detail will have to be jumped on by [“Porter”](/p/porter.md) and convinced that he had nothing to do with it, he was just following old protocols. He will try to slip in and snatch the books if Hatchaxel can’t get them out, if he can do without blowing cover.
   
-When they catch up with Hatchaxel, he will surrender to Buckfest rather than flee. He will first tie a body to it and then push the dropbox overboard, in the most quiet manner possible. A little rope and a little splash, but the crowsnest will have them, if anyone is up in the rigging at that point. Hiram will jibe to fling them off. Ava seeks a name that will reawaken Parson from his slumber. The eaters of stories can spread the stories they have eaten into the Blood Empires. They know not the dragons awaking there, but someone else might. Their stories awaken rebellion in the Empires, very quickly, as the goblin tribes finally organize.
+When they catch up with Hatchaxel, he will surrender to Buckfest rather than flee. He will first tie a body to it and then push the dropbox overboard, in the most quiet manner possible. A little rope and a little splash, but the crowsnest will have them, if anyone is up in the rigging at that point. Hiram will jibe to fling them off. Ava seeks a name that will reawaken [Parson](/p/parson.md) from his slumber. The eaters of stories can spread the stories they have eaten into the Blood Empires. They know not the dragons awaking there, but someone else might. Their stories awaken rebellion in the Empires, very quickly, as the goblin tribes finally organize.
 
 ### The Trial
 The Rat Hunt -- an annual event held by House Beowulf to ferret out the Rats of the city. This was a juballee round-up an internal housekeeping of the Tearers. During this rat hunt, a BRH member, 
@@ -33,7 +33,7 @@ Bruce has a story for you. He has seen most everyone he grew up with die violent
 
 They are super friendly and highly volatile and unbearable. They try to light the sewer on fire, then they sneak into the gardens to hunt exotic animals.
 
-They will tell you when they join the BRH they learned some upsetting things that Bore could use to shore up the defenses of the city. He is probably 2 steps ahead of them on most and too many steps behind on:
+They will tell you when they join the BRH they learned some upsetting things that [Bore](/p/bore.md) could use to shore up the defenses of the city. He is probably 2 steps ahead of them on most and too many steps behind on:
 
 1.  The water situation.
     

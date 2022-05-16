@@ -20,7 +20,7 @@ Her Captains: (Bastards raised from old blood)
  
 ## Stalker 
 
-They will happen upon him in a non-violent scenario, and he will recognise them from someplace. He thinks they are servents of Aunt Agnus and are essentially on a fact-finding missing for the defence of the delta. He will take them to see Undeth. He will pretend to speak broken Eschar, and will try his best to come off as an idiot, perhaps complaining about the food?
+They will happen upon him in a non-violent scenario, and he will recognise them from someplace [rams shelf](/l/rams_shelf.md). He thinks they are servents of Aunt Agnus and are essentially on a fact-finding missing for the defence of the delta. He will take them to see Undeth. He will pretend to speak broken Eschar, and will try his best to come off as an idiot, perhaps complaining about the food?
 
 ## The Deal
 
