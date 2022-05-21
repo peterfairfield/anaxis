@@ -5,7 +5,7 @@ Oley Bae, Natasha,
 
 ### [Kars Island](/l/kars_island.md)
 
-Asha has a deal with the Inner Circle of the [Green](/f/green "**This**: is tooo cool. What if it is pretty big? how big does it get?".md). 
+Asha has a deal with the Inner Circle of the [Green](/f/green) "**This**: is tooo cool. What if it is pretty big? how big does it get?".md). 
 Bore’s experiment and Roma’s to clean up, a nice [Fellowship] ceremony might clear things up.
 
 ### [Hector Yung](/p/yung.md)
