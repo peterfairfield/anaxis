@@ -19,7 +19,7 @@ Elves, there are only a few of them, but in prominemnt positions in the city.
 
 ## Danoi
  - Sea Peoples
- - Boatwights
+ - [Boatwights](/f/boatwights.md)
  - Defenders or Mynim
  
  

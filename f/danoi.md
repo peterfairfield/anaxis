@@ -12,7 +12,7 @@
 
 > ## The Defenders
 > They have a problem in leadership. The young king has become drunken and dangerous. He is liable to be leathal. He is [Belesys](/p/belesys.md)
-> If the shipworks were moved to the end of the lake, and reedboats made with wood frames, a deal with the Danoi can be reached through Belesys. Otherwise, the same deal with work with Lesure or with Inajon if they are able to remove Belesys.
+> If the shipworks were moved to the end of the lake, and reedboats made with wood frames, a deal with the Danoi can be reached through Belesys. Otherwise, the same deal with work with [Admiral Lesure](/p/lesure.md) or with Inajon if they are able to remove Belesys.
 
 The Danoi
 
@@ -23,7 +23,7 @@ The Danoi prefix all rivers with an-
 The Danoi Throw a Party
 Danoi Party
 Hostess: Argia Hermia Saxon 
-Security: Inajon Teledice – big bouncer, maybe employer?
+Security: [Inajon Teledice](/p/inajon.md) – big bouncer, maybe employer?
 Servers:
 Cooks:
 Spices:
@@ -32,7 +32,7 @@ Footman: Paul friendly, talkative. human
 
 This is thrown in a Tarash style, as the ancients would have partied, on the rooftops. In fact, this has been a trend in town, as rooftop canteens have begun to crop up, and old places get rediscovered.
 
-This is an old hanging garden, completely recreating the palaces of old. This place has several colleges archelogocial departments involved. This is largely Beowult territory, but there is a professor from Bolsingers and another from St. Andreas. 
+This is an old hanging garden, completely recreating the palaces of old. This place has several colleges archelogocial departments involved. This is largely Beowulf territory, but there is a professor from Bolsingers and another from St. Andreas. 
 
 Shawn Fallstaff will be doing what spellbinding can be done about the history of the ancients, while Boaz chuckles at his mistakes, and might even drop something deep and heavy on the players, depending on where they are.
 

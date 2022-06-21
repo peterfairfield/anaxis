@@ -4,7 +4,7 @@ A palisaded barnyard and barn. Three large houses are attached to the barn, and 
 
 The barn is called the threshing house and is quite big, with 2/3 of it serving as warehouse.
 
-The barnyard becomes the stage when Doctor Lund's circus arrives. First the Morris Dancers, who become hoopers who start building the stage. They obviously are Boatwights, and build a ship-shape stage. Once they are all erected, there are 3 ships in the barnyard.
+The barnyard becomes the stage when [Doctor Lund](/p/doctor_lund.md)'s circus arrives. First the Morris Dancers, who become hoopers who start building the stage. They obviously are Boatwights, and build a ship-shape stage. Once they are all erected, there are 3 ships in the barnyard.
 
 The flight of the King is played out. There are two ships of the enemy, and a single sleek ship -- [The Wave Finder](/l/the_wave_finder.md). The Pearled Pig becomes the island, sinking beneath waves, played by the tumblers with ribbons. The people take refuge on the ship, but they are soon pursued by the enemy. The Finders emerge from the Inn, looking bedraggled and wounded. They set about defending the palisades and shouting to each other. The other two ships have become the masts. Canvas soars overhead. 
 

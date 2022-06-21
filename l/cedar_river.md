@@ -16,6 +16,10 @@ They have to go to another party?
 
 ### The concert
 
+### [Boatwights](/f/boatwights.md)
+
+There is a village of boatwights, gearing up for battle.
+
 ### 
 
 

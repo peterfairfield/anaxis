@@ -12,7 +12,7 @@ Once a quasi-illegal practice in the city, there are many types of people who st
 
 ## Danoi factions
 
-The danoi have a great reverence for the Death Cult, and they practice it in large, austere processions though the city. There are also public feasts frequently found in the city. Outsiders are always welcome, but the Host always retains the ability to expell you from the city, if they find it required by law. Once you're registered with Bols, you're AOK.
+The danoi have a great reverence for the Dead, and they practice funary rites in large, austere processions though the city. There are also public feasts frequently found in the city. Outsiders are always welcome, but the Host always retains the ability to expell you from the city, if they find it required by law. Once you're registered with Bols, you're AOK.
 
 ## The Parsons
 

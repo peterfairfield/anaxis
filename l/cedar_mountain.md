@@ -16,6 +16,6 @@ The caravan: Turns tail or is ambushed. It is more fun to have the chase, but th
 
 At some point what is in the carts will become apparent and the mage will probably be too busy to explain why he was transporting tradesmen under some linens. He had an arrangement with the White Wolves to deliver the slaves.
 
-Lesure is disgusted and arrests him, they can wait for the slavers to show up. The people they saved are important for Bore to know about, also any clues or details about who is running the operation. Lesure acts super sus, but never makes a move or a mistake.
+[Admiral Lesure](/p/lesure.md) is disgusted and arrests him, they can wait for the slavers to show up. The people they saved are important for Bore to know about, also any clues or details about who is running the operation. Lesure acts super sus, but never makes a move or a mistake.
 
 If they investigate they get a step closer to [Belesys](/p/belesys.md).

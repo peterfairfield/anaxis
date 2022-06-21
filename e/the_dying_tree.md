@@ -7,7 +7,7 @@ A strangler fig, it has infested a half-acre of forest, filling it with abundant
 Boars (Bulettes, Giant Boar, Boar)
 Whitevines (Vine Blights)
 
-# Pasha
+# Pasha the Dragon Unborne
 
 He wants to join with his body, but is super confused. He forms a giant four-legged creature with no head. Then he attacks, with disadvantage, but with extreme damage. A tank will do well.
 
