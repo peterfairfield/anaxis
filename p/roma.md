@@ -46,7 +46,7 @@ The major texts are taken out by the bulldozers. They only came to smash, not to
 
 “Call me Queen, I like it!”
 
-The choice in the city is whether to unite the reactive elements (the Ymil vs the Witches, and yes she is working for both), Bore has just been promoted to President of the War College, and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.
+The choice in the city is whether to unite the reactive elements (the [Ymil](/f/ymil.md) vs the Witches, and yes she is working for both), [Bore](/p/bore.md) has just been promoted to President of the War College, and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.
 
 
 ### Hello, I'm Natasha Roma
@@ -79,7 +79,7 @@ Roma is there, and can purr them into talking to some of the townsfolk who saw w
 
 Niama can tell them: 
  * Hysterics, “The Shrine of the Moon” and “The Bishop's Hide”
- * There is a really hot-headed Prince on the premises.
+ * There is a really hot-headed [Prince](/p/tyjerere.md) on the premises.
  * And he might start murdering people.
  * His name is [Silar Gloryshield](/p/silar.md) 
  * Edo Rian has been destroying evidence. Burning a lot of paper.

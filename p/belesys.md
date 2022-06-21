@@ -4,7 +4,7 @@ Danoi governer of the Empire's closest providence. He is largely a figurehead an
 
 He is a hedonist and a sop. He will accept single to the death combat at any time.
 
-He can be won over by the ship building and the bitumen ships. He is interested immediately in bitumen. Then, as a afterthought, he will betray Iorek:
+He can be won over by the ship building and the bitumen ships. He is interested immediately in bitumen. Then, as a afterthought, he will betray [Iorek](/p/iorek.md):
 
 "I regret to inform you that my associate, the Wizard Iorek, has contracted a disease of his people, and has decided to cast all reason to the wind. He has been abducting and traffiking in the people of the Media. He must be stopped. Here is the map to the cave where he collects these slaves."
 
