@@ -1,6 +1,6 @@
 Tyrejere 
 
-The [Nain](/p/nain.md) Affair.
+## The [Nain](/p/nain.md) Affair.
 
 Once he’s warmed to them ahem, knocked them around a bit, or let Bore do it if he’s around. If [Nate Hound](/p/nate.md) is around, he will mention that this is a punishment, not a training excercise (he gets that plenty) but a dumping ground for War College shits, which is a total lie. He also complains that his friend, Hatchaxel, has had such a rum go of it. This is not how he feels, he does it to make himself look stupid.
 
@@ -15,3 +15,8 @@ If the Bog Dogs were involved, things don’t look good for anybody, esp. If Fre
 ### Aunt Elisa
 
 If they come looking for information on Lampry Aunt Elisa He first explains pedantically that she is a wizard.
+
+## The Danoi Party
+
+## Ram's Shelf
+

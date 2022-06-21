@@ -65,8 +65,11 @@ This place is strung with lights and run cleanly. The Hung Jury and the Chance M
 
 Once inside and under siege they can run into:
  > Bands of Meetings #skirmishers #rogues dancing lights, darkness, faerie fire
+
  > Fact-finding mission of Jurists -- these only engage at range and retreat when forced into melee. They will focus fire and move to higher ground. Darkness, dancing lights, rapiers and crossbows. Their bolts are nasty somehow.
+
  > Harbor Master #hosebeast fireball acid arrow blur magic missle protection haste scroll
+
  > Captain Muss or Captain Keith #battlecleric net and hook, hold person, sound burst, protection, healing
  
  The lighthouse is a library
@@ -89,12 +92,61 @@ L shaped building, forming the NE corner of the harbor. Watchtower and harbor li
  
  Daniel had been on the first charge, and began a circle-run of the harbor. He quickly discovered about the mangonels on the Gatehouse and on the three spars out into the harbor. He is currently trying to take the first of these, but coming from fire from the warships as well as the other two wooden towers. He is likely taken before the players can get there, unless they stick to him very closely.
 
- If they do persue, they get the full brunt of the Chance Meetings in the face. Ranged enough to get you to close with them, deadly when you close. 4 skirmishers, 2 marines.
+ Keeping Daniel alive will involve taking the mangonel towers before the ships.
 
  Then onto the main fight for the ships, which can go in several different ways:
 
+ ## Taking the Chance Meeting
+
+ If they do persue, they get the full brunt of the Chance Meetings in the face. Ranged enough to get you to close with them, deadly when you close. 1 archanist, 4 skirmishers, 2 marines. Sundry enslaved creatures.
+
+## Assaulting the Hung Jury
+
+Use Flesh golems & piles of zombies for brutes and the crew on ranged. They will abandon ship once the meat-shields are down.
+
+Further down into the holds, they will find a vrock and research into the Finders, perhaps a note about the Ymil, or the [Stigian Society](/f/the_stigian_society.md) itself. Equipment for raising Zombies. There are diagrams of the moon, with some hazing or clouds. Markings of the moon are clearly drawn.
+
+A desk full of spell components and someone missing?
+
+### [Beruni](/p/beruni.md)
+
+Imprisoned in the hold is also the tortured Beruni. He is experiencing soulwarp and is largely acting like a baby. He is still interested in opening up their skulls and having a slurp around. If his enslaves fail to land or he is discouraged properly, they can probably get him established in the harbor. Beruni also knows about the harbor defenses -- and something about the Nova Helios.
+
+### The Lagash Gate
+
+They will finally face a Ramesh opponent. I'd do a CR 10 Barbarian, and make him have a lot of early edition immunities. Maybe warblade abilities? This is a third-generation Finder, an Imperial Guard, he wears the Red.
+
+Once they secure the Finder, [Admiral Lesure](/p/lesure.md) will begin the attack on the Harbor. Ships! Intrigue! Disaster!
+
+The harbor begins to shift into and out of timelines, as Beruni spawns or rejoins the harbor. You might notice him helping the party by choosing timelines where they don't get hurt, giving them inspiration is one option here. Spells are harder to resist. 
+
+### Taking the Harbor
+
+The Garrison shows up in force and needs to be held.
+
+The Waves -- The Finder Palace that glares back at Lagash. The Wave Finders went there to settle an alternative to The City. They allowed free trade and now the Wolves of the Silver Mountains have taken over most operations. The slave trade has recently in the last three years begun to dominate most commerce in the city and the Finders have found no viable ways to curb it, so many have skirted the issue, living as pirate kings, preying on slavers.
+
+They also keep a watch out for the black ships. Most other Finders have taken the islands beyond and hold them in the Commonsea. The pirate kings of Lagash are hated but respected by the Eshar pirates. The blood between the old Finders and the Lagash ones can get really bad, so Lagash has kept it's distance, and holed up in its harbor.
+
+The Finders that remain have an insane idea: let the slaves out of the city during the attack. He's opened all the waterways, set fat bundles of sticks everywhere (to protect from sappers and machines). He has counter-sapping teams laid out all over everywhere. Still, when he sees them this close to the Lagash Gate, where you get pinto timehop, he will likely snap and try to crush them.
+
+The rest of the siege is a desperate attempt at fleeing on the part of most of the Finders, with the exception of the Garrison commanders, who are fielding several teams of rogue/assassin teams. The assassins are shape changers and can even vanish. Faerie fire, obscuring mist darkness, spider climb and lots of back stab.
+
+There are also some teams of counter-sappers who use smoke and greek fire. They fight with skill and zeal; they know that things aren't going to be pleasant for them in Lagash until the [Wolves](/f/the_erimesh.md) return to regain control. 
+
+
+
+
+
+
+
+
+
  > Map of the Hung Jury #TBD
- > Map of the Chance Meeting #TBD
+ 
+ > Map of the Chance Meetings #TBD
+
  > The Mangonel Towers #TBD
+
  > The Aboleth of the Harbor
 

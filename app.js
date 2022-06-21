@@ -41,7 +41,7 @@ app.post('/create', (req, resp) => {
   if (req.body.markdown) {
     const dir = url.pathname.split('/')[1];
     let payload = req.body.markdown;
-    fs.mkdirSync(dir, { recursive: true })
+    fs.mkdirSync(dir, { recursive: true });
     if (payload.match(/(<([^>]+)>)/gi)) {
       payload = turndownService.turndown(payload);
     }
@@ -49,7 +49,7 @@ app.post('/create', (req, resp) => {
   }
 
   if (ref.match(/create/)) {
-    resp.send('OK, dude')
+    resp.send('OK, dude');
   } else {
     resp.redirect(ref);
   }

@@ -1,7 +1,7 @@
 ## The Seawurm
 
 ## Amagi Flagship
-Pirate Ship of Harper Telman. He keeps several places: Higges in the Salt Forest, Tel's Tower and the Lighthouse. 
+Pirate Ship of [Harper Telman](/p/telman.md). He keeps several places: Higges in the Salt Forest, Tel's Tower and the Lighthouse. 
 
 He will not take kindly to Bols intrusion on his territory, and he will try to have him buried. This could be bad for the players if they get into a pinch with the Law if they are on the outs with Bore and Bols. When Operation Werewolf goes down, nothing will really stop anything.
 

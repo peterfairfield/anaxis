@@ -7,14 +7,14 @@ Dramatis Personae
  - Marius Keen – brusier for the Hospital – he wants them to find out where the drug Mull is coming from. He doesn’t want any trouble from the Tearers, so he intends to give them this information, as a gesture.
  - Edo Rian
 
-> Yung will send someone to tell them of a missing person – someone’s daughter that he needs to get back in a quick and diplomatic way.
+> [Yung](/p/yung.md) will send someone to tell them of a missing person – someone’s daughter that he needs to get back in a quick and diplomatic way.
 
-> Bols is throwing a cop party and will shop it by Esme or Joanna, depending on how things are going with the Erimesh. If it is Esme, everyone is talking about her losses and the slave trade.
+> [Bols](/p/bols.md) is throwing a cop party and will shop it by Esme or Joanna, depending on how things are going with the Erimesh. If it is Esme, everyone is talking about her losses and the slave trade.
 
 > Event: A Esharite Noblewoman is being an ass to the Erimesh and the Danoi. “Wolves from the hills” and “Flea-bitten barbarians in-exile”
-Event: A man has clearly took too much Mull.
+Event: A man has clearly took too much [Mull](/i/mull.md).
 
-> Main Event: Edo Rian is a celebrated writer/author. Sciber Meatus has gone absolutely bonkers over this guy. Edo Rian is totally innocently mindshielded. Bols will steer them clear from trouble with him/it. Lady Horne is still looking for her daughter, after that last scandal, she wants to work directly with the players and is willing to pay cash. Her daughter has been hanging out with Edo Rian and his lowlifes down at the Chippies. Another Host Prime will have a missing daughter and will want to piggyback, if there is any news to be had.
+> Main Event: Edo Rian is a celebrated writer/author. Sciber Meatus has gone absolutely bonkers over this guy. Edo Rian is totally innocently mindshielded. Bols will steer them clear from trouble with him/it. [Lady Horne](/p/lady_horne.md) is still looking for her daughter, after that last scandal, she wants to work directly with the players and is willing to pay cash. Her daughter has been hanging out with Edo Rian and his lowlifes down at the Chippies. Another Host Prime will have a missing daughter and will want to piggyback, if there is any news to be had.
 
 ### One Hot Night: The Goldsmith’s
 There are two artisans working on casting a massive bronze sculpture. They have been up for 32 hours and are clearly bonkers. They are big fans of Rian’s, but they have heard that Rian lives with his parents. They’ve also heard about the rumors about the boggers.

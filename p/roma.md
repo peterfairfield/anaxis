@@ -62,12 +62,14 @@ The first time the party needs to clean up something pronto, they bring in a pro
 #### Handlers
 > **Moska**: Mal the Tongue, he looks like the witcher, only a lot worse.
 
-> **Navy**: Lady Horne, of course.
+> **Navy**: [Lady Horne](/p/lady_horne.md), of course.
 
 > **Ymil**: Professor Shawn Fallstaff
 
 
 ### [Ram's Shelf](/l/rams_shelf.md)
+
+This is a well-to-do district associated with university professors and higher-kirkhall prelates.
 
 Roma is there, and can purr them into talking to some of the townsfolk who saw what actually happened. This appears to be:
 
@@ -79,7 +81,7 @@ Roma is there, and can purr them into talking to some of the townsfolk who saw w
 
 Niama can tell them: 
  * Hysterics, “The Shrine of the Moon” and “The Bishop's Hide”
- * There is a really hot-headed [Prince](/p/tyjerere.md) on the premises.
+ * There is a really hot-headed [Prince](/p/tyrejere.md) on the premises.
  * And he might start murdering people.
  * His name is [Silar Gloryshield](/p/silar.md) 
  * Edo Rian has been destroying evidence. Burning a lot of paper.
