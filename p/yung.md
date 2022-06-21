@@ -19,4 +19,5 @@ The Mes Rescripted project has begun.
 Nielson Colt -- The Host Corps
 Lord Saxon -- The University Guard
 Torin Holden -- Beowulf Fleet and Field
-Admiral Lesure -- First Island Admiral
+[Admiral Lesure](/p/les
+) -- First Island Admiral

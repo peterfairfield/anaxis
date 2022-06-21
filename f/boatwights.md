@@ -116,7 +116,7 @@ Imprisoned in the hold is also the tortured Beruni. He is experiencing soulwarp 
 
 They will finally face a Ramesh opponent. I'd do a CR 10 Barbarian, and make him have a lot of early edition immunities. Maybe warblade abilities? This is a third-generation Finder, an Imperial Guard, he wears the Red.
 
-Once they secure the Finder, [Admiral Lesure](/p/lesure.md) will begin the attack on the Harbor. Ships! Intrigue! Disaster!
+Once they secure the Finder, they should trigger a signal that [Admiral Lesure](/p/lesure.md) will begin the attack on the Harbor. Or he may attack prematurely and trigger some nasty combat with Edo Beruni. Ships! Intrigue! Disaster!
 
 The harbor begins to shift into and out of timelines, as Beruni spawns or rejoins the harbor. You might notice him helping the party by choosing timelines where they don't get hurt, giving them inspiration is one option here. Spells are harder to resist. 
 
@@ -132,9 +132,11 @@ The Finders that remain have an insane idea: let the slaves out of the city duri
 
 The rest of the siege is a desperate attempt at fleeing on the part of most of the Finders, with the exception of the Garrison commanders, who are fielding several teams of rogue/assassin teams. The assassins are shape changers and can even vanish. Faerie fire, obscuring mist darkness, spider climb and lots of back stab.
 
-There are also some teams of counter-sappers who use smoke and greek fire. They fight with skill and zeal; they know that things aren't going to be pleasant for them in Lagash until the [Wolves](/f/the_erimesh.md) return to regain control. 
+There are also some teams of counter-sappers who use smoke and greek fire. They fight with skill and zeal; they know that things aren't going to be pleasant for them in Lagash until the [Wolves](/f/the_erimesh.md) return to regain control.
 
+Once they besiege the palace, they begin to encounter the Erimesh in force. Notable amoung their number might be Esme, and some of the Enclave. 
 
+Some stats for 
 
 
 

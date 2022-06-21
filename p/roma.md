@@ -16,9 +16,9 @@ If the players want to go back to Bard’s Library and use this information to n
 
 Meatus tells them that [Porter](/p/porter.md) (or and Edo impersonating him) is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.
 
-**Why did Roma want to have someone follow Kessler? How did she find out? What does she think of Meatus?**
+**Why did Roma want to have someone follow [Kessler](/p/kessler.md)? How did she find out? What does she think of Meatus?**
 
-They could as well be against the University Library. There are two that  Roma suspects of being bad actors, the Curates Olaratmp and Glaveltmp. They have worked at the University Library for many many years, and they've had the job of preservation and transport of artefacts for the archives.
+They could as well be against the University Library. There are two that  Roma suspects of being bad actors, the Curates Olara#tmp and Glavel#tmp. They have worked at the University Library for many many years, and they've had the job of preservation and transport of artefacts for the archives.
 
 ### [Sargent Horne](/p/sargent.md)
 
@@ -40,13 +40,13 @@ The major texts are taken out by the bulldozers. They only came to smash, not to
 
 “Are you insulted by the question?”
 
-“I think we might be able to work together” Iron. Iron until 500 years ago we had iron. There is an Iron Gate to the city. We were pulling up raw nickel iron from a vein, and that built the steel of the city. But then came cheaper iron, found everywhere. Cheap iron. Anyone with cash could summon an unstoppable army, and oh look someone did. I’m working on behalf of the people who would try to make things more pleasant for everyone.”
+“I think we might be able to work together” Iron. Iron until 500 years ago we had iron. There is an [Iron Gate](/l/the_iron_gate.md) to the city. We were pulling up raw nickel iron from a vein, and that built the steel of the city. But then came cheaper iron, found everywhere. Cheap iron. Anyone with cash could summon an unstoppable army, and oh look someone did. I’m working on behalf of the people who would try to make things more pleasant for everyone.”
 
 “Speaking of which, gotta work, I’ll see you guys in my offtime, you seen like a real nice bunch, but gotta, gotta go…”
 
 “Call me Queen, I like it!”
 
-The choice in the city is whether to unite the reactive elements (the [Ymil](/f/ymil.md) vs the Witches, and yes she is working for both), [Bore](/p/bore.md) has just been promoted to President of the War College, and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.
+The choice in the city is whether to unite the reactive elements (the [Ymil](/f/ymil.md) vs the Witches, and yes she is working for both), [Bore](/p/bore.md) has just been promoted to President of the [War College](/f/war_college.md), and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.
 
 
 ### Hello, I'm Natasha Roma
@@ -64,7 +64,7 @@ The first time the party needs to clean up something pronto, they bring in a pro
 
 > **Navy**: [Lady Horne](/p/lady_horne.md), of course.
 
-> **Ymil**: Professor Shawn Fallstaff
+> **Ymil**: Professor [Shawn Fallstaff](/p/fallstaff.md)
 
 
 ### [Ram's Shelf](/l/rams_shelf.md)

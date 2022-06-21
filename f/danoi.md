@@ -14,10 +14,11 @@
 > They have a problem in leadership. The young king has become drunken and dangerous. He is liable to be leathal. He is [Belesys](/p/belesys.md)
 > If the shipworks were moved to the end of the lake, and reedboats made with wood frames, a deal with the Danoi can be reached through Belesys. Otherwise, the same deal with work with [Admiral Lesure](/p/lesure.md) or with Inajon if they are able to remove Belesys.
 
-The Danoi
-
-The Danoi, The Sea People
-They founded many establishments, including Halfwall; their units are the most elite of the city’s Warbands. The Finders are the original family of Halfwall and of the Library. Their works are foundational in the University. The Finders are currently the slumlords of Ub, and some of its most revolutionary elements. They have traveled down the two rivers, bringing with them a phonetic alphabet, Urnfield culture and fine iron and finer horses.
+> The Danoi
+> 
+> The Danoi, The Sea People
+> They founded many establishments, including Halfwall; their > units are the most elite of the city’s Warbands. 
+> The Finders are the original family of Halfwall and of the Library. Their works are foundational in the University. The Finders are currently the slumlords of Ub, and some of its most revolutionary elements. They have traveled down the two rivers, bringing with them a phonetic alphabet, Urnfield culture and fine iron and finer horses.
 
 The Danoi prefix all rivers with an-
 The Danoi Throw a Party
@@ -30,13 +31,13 @@ Spices:
 Spies:
 Footman: Paul friendly, talkative. human
 
-This is thrown in a Tarash style, as the ancients would have partied, on the rooftops. In fact, this has been a trend in town, as rooftop canteens have begun to crop up, and old places get rediscovered.
+This is thrown in a [Tarash](/f/the_taresh.md) style, as the ancients would have partied, on the rooftops. In fact, this has been a trend in town, as rooftop canteens have begun to crop up, and old places get rediscovered.
 
 This is an old hanging garden, completely recreating the palaces of old. This place has several colleges archelogocial departments involved. This is largely Beowulf territory, but there is a professor from Bolsingers and another from St. Andreas. 
 
-Shawn Fallstaff will be doing what spellbinding can be done about the history of the ancients, while Boaz chuckles at his mistakes, and might even drop something deep and heavy on the players, depending on where they are.
+[Shawn Fallstaff](/p/fallstaff.md) will be doing what spellbinding can be done about the history of the ancients, while Boaz chuckles at his mistakes, and might even drop something deep and heavy on the players, depending on where they are.
 
-Event: Someone kidnaps Fred. Bore takes it personally, and has the players intervene.
+Event: Someone kidnaps [Fred](/p/fred.md). Bore takes it personally, and has the players intervene.
 
 That same someone is going to sacrifice Fred to the dark gods. They have probably duped a bunch of people into being their lackeys.
 
@@ -44,7 +45,7 @@ They find the dying bodies of security folks.
 
 The bad guy gets away because of a McGuffin ball
 
-Event: Admiral Lesure will be complaining that his son is going to marry a werewolf. He is also trying to indicate that Belesys is in need of some moral guidance.
+Event: [Admiral Lesure](/p/lesure.md) will be complaining that his son is going to marry a werewolf. He is also trying to indicate that Belesys is in need of some moral guidance.
 
 "I wish to reiterate, he is playing the fool. He wants to see a young sod, but he's testing your judgement. Tell him those words and await his judgement."
 
