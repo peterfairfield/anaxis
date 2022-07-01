@@ -15,7 +15,7 @@ He is determined to use the chaos created by the ghost ship to his advantage. He
   
 He will not be happy about Bols’ presence, but will try to move quickly to put the blame on the crones and frame their actions in the most dangerous light.
 
-### [Hunting Hatchaxel](#hunting-hatchaxel)
+### Hunting Hatchaxel
 
 He want them to raise sails fore and aft. He explains running-rigging like this “you have to feel which way the rope doesn’t want to go and make it go.”
 

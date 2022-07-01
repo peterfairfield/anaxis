@@ -1,3 +1,4 @@
+
 ## Aunt Elsela
  + Shanty
  + Mudder
@@ -35,12 +36,6 @@ Has been destroyed and defaced by the Lords and the Ladies, a nasty little group
 The Lair of an aboleth could be worse. There were 6 families living on the island, paid essentially to keep a really nice garden and fix things that broke. It has seen better days.
 
 The scribbling on the walls are words of the Lady of the Depths, also madness and everything being eaten by the water. The Kraken is rising again (for the last time).
-
-> NOTEBENE: with "Stuga" sythian then Aryan iranian, and just at that moment, I reached out my arm, palm limply upward and said "Aryan" out loud. Lightening struck, and I thought, "did I just become a white supremecist?"
-
-Silence.
-
-"I am white supremecist?" Then the thunder rolled, and the fiddles scraped.
 
 #### Eel Island
 

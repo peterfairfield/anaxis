@@ -2,7 +2,37 @@
 
 -- Head first
 
+___
+___
+> ## Beowulf Enforcer
+>*Taresh Captain*
+> ___
+> - **Armor Class** 20
+> - **Hit Points** 82 ()
+> - **Speed** 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|13 (+1)|15 (+3)|13 (+2)|20 (+5)|18 (+4)|
+>___
+> - **Condition Immunities** None
+> - **Senses** passive Perception 18
+> - **Languages** Eschar, Taresh
+> - **Challenge** 5
+> ___
+> ### Abilities
+> ***Eschar Guard.*** Advantage if adjacent to another guard.
 
+> ### Actions
+> ***Attack.*** *Maul:* +6 to hit, reach 5ft., two attacks. *Hit* 1d6 + 3  
+> ***Attack*** *Halberd:*  +6 to hit, reach 10 ft., two attacks. *Hit* : 1d10 + 3 slashing damage.
+
+> ***Abjure Enemy.*** Paladin feature
+> ***Divine Sense.*** Paladin feature
+> ***Lay on hands.*** Paladin feature
+
+> ### Bonus Actions
+> ***Vow of Emnity.*** Paladin feature
 
 ### Kess Isand
 
@@ -10,14 +40,10 @@ He’ll try to use the confusion of their arrival to snatch the valuables and ru
   
 ## Running down Hatchaxel
 
-Running down with Fred. If they've gotten Fred's dingy "The Slow Clock", Hiram may pick them up on the other side of the island. [Start here](/p/hiram.md#hunting-hatchaxel).
-
-Hiram's ship is the 
-
-He will first tie a body to it and then push the dropbox overboard, in the most quiet manner possible. A little rope and a little splash, but the crowsnest will have them, if anyone is up in the rigging at that point. Hiram will jibe to fling them off. Ava seeks a name that will reawaken [Parson](/p/parson.md) from his slumber. The eaters of stories can spread the stories they have eaten into the Blood Empires. They know not the dragons awaking there, but someone else might. Their stories awaken rebellion in the Empires, very quickly, as the goblin tribes finally organize.
+Running down with Fred. If they've gotten Fred's dingy "The Slow Clock", Hiram may pick them up on the other side of the island. [See Hunting Hatchaxel](/p/hiram.md#hunting-hatchaxel)
 
 ### The Trial
-The Rat Hunt -- an annual event held by House Beowulf to ferret out the Rats of the city. This was a juballee round-up an internal housekeeping of the Tearers. During this rat hunt, a BRH member, 
+The Rat Hunt -- an annual event held by House Beowulf to ferret out the Rats of the city. This was a juballee round-up an internal housekeeping of the Tearers. During this rat hunt, a BRH member, Sorrel was goading the Tearers into indescretion and Hatchaxel showed up just when the shit hit the fan and several people ended up killed.
 
 ### They Jump Off Their Ship
 

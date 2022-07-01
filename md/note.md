@@ -51,3 +51,8 @@ Offhand Damage + 2 + 4 + 1 + 2 + 1 = 9
 2. What if cooperation and intelligence were built into the grid? What if this is the story of the brain getting stronger? Or of this massive intelligence network of old gods, once built in the cooperation of the deep sea, now controlling the minds of millions, created from hexagonal structures. The elevation of one man or the destruction of another, this is the pumps of the paeleodicteons at work.
 
 
+> NOTEBENE: with "Stuga" sythian then Aryan iranian, and just at that moment, I reached out my arm, palm limply upward and said "Aryan" out loud. Nearby, lightening struck, and I thought, "did I just become a white supremecist?"
+
+Silence.
+
+"I am white supremecist?" Then the thunder rolled, and the fiddles scraped.
