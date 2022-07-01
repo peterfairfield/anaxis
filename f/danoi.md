@@ -31,7 +31,7 @@ Spices:
 Spies:
 Footman: Paul friendly, talkative. human
 
-This is thrown in a [Tarash](/f/the_taresh.md) style, as the ancients would have partied, on the rooftops. In fact, this has been a trend in town, as rooftop canteens have begun to crop up, and old places get rediscovered.
+This is thrown in a [Taresh](/f/the_taresh.md) style, as the ancients would have partied, on the rooftops. In fact, this has been a trend in town, as rooftop canteens have begun to crop up, and old places get rediscovered.
 
 This is an old hanging garden, completely recreating the palaces of old. This place has several colleges archelogocial departments involved. This is largely Beowulf territory, but there is a professor from Bolsingers and another from St. Andreas. 
 

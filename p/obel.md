@@ -12,7 +12,7 @@ Sell them what they were actually looking for.
 
 He is a very good assassin, not as smart as he thinks you are.
 
-### Saad Khan
+### [Saad Khan](/p/saad.md)
 
 An agent of Masque, Dorian Obel. gets caught up in this, trying to set up and betray Saad and the Chosen at the same time. Capturing this guy alive wins big warbucks, especially if they can take him alive. Bore will use him to crack the Masquerade like an egg.
 

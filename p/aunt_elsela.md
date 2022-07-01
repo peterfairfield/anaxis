@@ -2,6 +2,7 @@
  + Shanty
  + Mudder
  + [The Hagfish](https://aonprd.com/MonsterDisplay.aspx?ItemName=Veiled%20Master)
+ + The [bhole](/sb/bhole.md)
 
 Three lives of Elsie
 
@@ -13,11 +14,11 @@ She works in Bard's Library, and will be invaluable once they find her, +4 on mo
  
 ## Lamprey Salty Elisa
 
-When Hatchaxel dumps the box in the depths, or the first time they head down even to the reff, she'll take a poke at them. She can take you to your box, since she just found it. If they shot to the bottom, this takes place over the box. Once she sees them in action, she doesn’t worry too much about taking them in and thanks them for rescuing her. She realizes she can help them and gives them a lift up to the surface. “Call me Aunt Elisa”, and “Don’t stay out of the water!” She shouts gleefully. 
+When [Hatchaxel](/p/hatchaxel.md) dumps the box in the depths, or the first time they head down even to the reff, she'll take a poke at them. She can take you to your box, since she just found it. If they shot to the bottom, this takes place over the box. Once she sees them in action, she doesn’t worry too much about taking them in and thanks them for rescuing her. She realizes she can help them and gives them a lift up to the surface. “Call me Aunt Elisa”, and “Don’t stay out of the water!” She shouts gleefully. 
 
 ## Nissa the Blue Dragon
 
-Let them start speculating around the time they find out who Aunt Agnus is. But she's as good at playing the Edo that they shouldn't be able to sort her out passively. Her tower is a plotty mess, it really seems like the penultimate scene there was the last, or just part of a short arc.
+Let them start speculating around the time they find out who [Aunt Agnus](/p/aunt_agnus.md) is. But she's as good at playing the Edo that they shouldn't be able to sort her out passively. Her tower is a plotty mess, it really seems like the penultimate scene there was the last, or just part of a short arc. She's also caught out on the salt here, so it's awkard for her, but she'll manage.
 
 #### [The Madman](/p/madman.md): 
 

@@ -136,7 +136,15 @@ There are also some teams of counter-sappers who use smoke and greek fire. They 
 
 Once they besiege the palace, they begin to encounter the Erimesh in force. Notable amoung their number might be Esme, and some of the Enclave. 
 
-Some stats for 
+> Map of the Palace of Slaves
+
+Some demon stats for the guards, or perhaps throw in something more thematic of what happens to Finders when they go bad.
+
+# The Bad Finder
+
+~10th level shadow evoker. What is he doing here? #TBD
+
+~10th level antipaladin is here, defending the evoker according to his contract. He will try to frighten them, using words of the Leviathan (fight a [hagfish](/stats/bohle.md)), and if that doesn't work, he draws his sword and gets to it.
 
 
 

@@ -12,4 +12,9 @@ He can be won over by the ship building and the bitumen ships. He is interested 
 
 "I wish to give you what my father gave me. Everything I needed to do my task and the answer to what the task was."
 
-"I do wish for freedom, even at the expense of my own. The City will allow the enforcement of Defender law to all citizens, and I will await the orders of the king."
+"I do wish for freedom, even at the expense of my own. The City will allow the enforcement of [Defender](/f/the_defenders.md) law to all citizens, and I will await the orders of the king."
+
+If he makes it out of the fall of Lakash alive, he will become an incredible asset and a genius of military strategy.
+
+He specializes in siege weaponry and arming and training units for a bit, but will soon take his place at the front of the next big fight they get into.
+

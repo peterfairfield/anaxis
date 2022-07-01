@@ -930,8 +930,11 @@ Arrive and meet Char, meet something nasty on the island.
 Wander into small stone village, larger ruined castle, well kept keep in town.
 Hatchaxel (later Fred) will find them and see them to the Finder. Finder John Devere is going to want to invite them to dinner.
 He will get excited about something they said. Perhaps Porter will mention books
-They will notice that Char is walking around, trading stuff with people. He has just given a drawing of the lighthouse to Fred. He has given several drawings or helpful scrolls to people. He has in the bag: The Scroll of Truth, The  Hinge of Dividing, and The Chalk of Creation. He also notices that his spellbook is missing. “I brought some roots from my garden! Can you believe they’ve never seen a potato?”
+
+They will notice that Char is walking around, trading stuff with people. He has just given a drawing of the lighthouse to Fred. He has given several drawings or helpful scrolls to people. He has in the bag: The Scroll of Truth, The Hinge of Dividing, and The Chalk of Creation. He also notices that his spellbook is missing. “I brought some roots from my garden! Can you believe they’ve never seen a potato?”
+
 There is a big scary green Jade statue in the courtyard, worth a fortune. Deverre won’t understand why it wasn’t taken, unless the thief couldn’t fence it properly? And Porter is nowhere to be found…
+
 Someone may decide to kill DD, if that happens, he dies.
 Hatchaxel will dive in, make off with the satchel (no, but Porter?)l, the books, and the gold? Does Porter underestimate the party enough to strike hard? Maybe the first time…
 They can be invited to Fred’s adoption ceremony. They will recount the story of how the gardener’s daughter found him in the rushes, in a boat made of asphalt and flax.

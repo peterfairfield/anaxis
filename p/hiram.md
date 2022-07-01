@@ -1,5 +1,6 @@
-Hiram Naxas
-Is intense. If he hears that Hatchaxel is on the run, he will run them down with his seawolves. He will overtake the yacht, take her or sink her. His mania and cannon cojoin in such beauty, you realize he a thing of the sea itself, a spirit of thunder and lightening, waves and wind.
+# Hiram Naxas
+
+Is intense. If he hears that Hatchaxel is on the run, he will run them down with his seawolves. He will overtake the yacht, take her or sink her. His mania and ship cojoin in such beauty, you realize he a thing of the sea itself, a spirit of thunder and lightening, waves and wind.
 
 ### Sea Caves
 
@@ -14,7 +15,7 @@ He is determined to use the chaos created by the ghost ship to his advantage. He
   
 He will not be happy about Bols’ presence, but will try to move quickly to put the blame on the crones and frame their actions in the most dangerous light.
 
-### Hunting Hatchaxel
+### [Hunting Hatchaxel](#hunting-hatchaxel)
 
 He want them to raise sails fore and aft. He explains running-rigging like this “you have to feel which way the rope doesn’t want to go and make it go.”
 

@@ -4,6 +4,8 @@
 
 ### First time on the island
 
+1717
+
 Showdown between [DeVerre](/p/deverre.md) and Philos, The Clerk. [Bols](/p/bols.md) is trying to prove he has the right to search the houses for Hatchaxel. DeVerre has to correct him, given the status of Orphanage “Keep no blood” qualifies as a Hospital, and outside 3 miles of the city.
 
 ### Sequence
@@ -29,7 +31,8 @@ They enter a world of light and stars. They drift, but find they are walking on 
 
 There is a beautiful glass mosaic that should not be easy to find, it is a portrait of Ava Gavin, though Fred insists that it’s made up, well before the picture Char drew him, where it shows her fighting a wolf. It is a heart achingly beautiful Elven Maiden, she is distressed, and in great danger, or whatever is going on with her at some time (her library is under attack, she is having a bad hair day, etc). They should quickly figure out that the lighthouse used to be a library, but a lot of the collection has been sold off. Deverre’s grandfather bought the ships that enabled them to build their trade, but he has been pushed out of the transport business and now specializes in Glass. What now replaces it is a glassworks where they do demonstrations.
 
-Things can go several ways either they can meet with Fred or with Siobane, or Hatchaxel, depending. If it is Siobane they will meet her at a street washing fountian, cleaning up bloodly clothes. If they intend to go into the city, they will need clothes and they might notice that these are the clothes that Deverre gives them to wear. If asked, she says that the blood is pomegranate juice from a recent juicing and rendering to make gullack, or pomegranate wine. She might ask them to gather firewood for a fire to help get the stains out. Skill challege, or ignore the old lady.
+Things can go several ways either they can meet with Fred or with Siobane, or Hatchaxel, depending. If it is 
+ they will meet her at a street washing fountian, cleaning up bloodly clothes. If they intend to go into the city, they will need clothes and they might notice that these are the clothes that Deverre gives them to wear. If asked, she says that the blood is pomegranate juice from a recent juicing and rendering to make gullack, or pomegranate wine. She might ask them to gather firewood for a fire to help get the stains out. Skill challege, or ignore the old lady.
 
 Events can go:
 > Arrive and meet Char, meet something nasty on the island.
@@ -38,7 +41,13 @@ Wander into small stone village, larger ruined castle, well kept keep in town.
 > Hatchaxel (later Fred) will find them and see them to the Finder. Finder John Devere is going to want to invite them to dinner.
 He will get excited about something they said. Perhaps Porter will mention books
 
-> They will notice that Char is walking around, trading stuff with people. He has just given a drawing of the lighthouse to Fred. He has given several drawings or helpful scrolls to people. He has in the bag: The Scroll of Truth, The  Hinge of Dividing, and The Chalk of Creation. He also notices that his spellbook is missing. “I brought some roots from my garden! Can you believe they’ve never seen a potato?”
+> They will notice that Char is walking around, trading stuff with people. He has just given a drawing of the lighthouse to Fred. He has given several drawings or helpful scrolls to people. He has in the satchel: 
+
+ * The Scroll of Truth
+ * The Hinge of Dividing
+ * The Chalk of Creation. 
+ 
+ He also notices that his spellbook is missing. “I brought some roots from my garden! Can you believe they’ve never seen a potato?”
 
 > There is a big scary green Jade statue in the courtyard, worth a fortune. Deverre won’t understand why it wasn’t taken, unless the thief couldn’t fence it properly? And Porter is nowhere to be found…
 

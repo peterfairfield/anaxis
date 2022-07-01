@@ -10,3 +10,5 @@ The more ancient Edo feel that there is too much compromised in the Mes debacle.
 
 
 He likes knives and spirits. He hates the land, freshwater and rope. He has a sloop and a crew of 8 sailors. His crew also keeps several fishing trawlers. 
+
+## Salty Else

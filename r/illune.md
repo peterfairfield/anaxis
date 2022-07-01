@@ -21,3 +21,8 @@ Justice: Malak Babbi Fran
 VIII of Wands: Rebecca Horne, Horn O'Roads.
 III of Wands: Captain Buckfest
 
+Censoring Critical
+Annoy spellcasters trying to concentrate while under fire
+Butterfly's Sting -- grant crit to next hit
+Cerberes Style -- attack 3 targets
+Choir of Blades -- Give 2 adjacent allies one of your T-1 abilities.

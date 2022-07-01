@@ -16,8 +16,7 @@ The Mes Rescripted project has begun.
 
 ### Subcommanders
 
-Nielson Colt -- The Host Corps
-Lord Saxon -- The University Guard
-Torin Holden -- Beowulf Fleet and Field
-[Admiral Lesure](/p/les
-) -- First Island Admiral
+ * [Nielson Colt](/p/colt.md) -- The Host Corps
+ * [Lord Saxon](/p/lord_saxon.md) -- The University Guard
+ * [Torin Holden](/p/holden.md) -- Beowulf Fleet and Field
+ * [Admiral Lesure](/p/lesure.md) -- First Island Admiral
