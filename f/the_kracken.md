@@ -1,8 +1,8 @@
-## Baraganzer 
- - king of the Underworld
- - the Kraken  
+# The Kracken
+ + Baraganzer 
+ + king of the Underworld
+ + the Kraken  
 
-#### The Kracken
 
 “My time is ending, the sea no longer rises, I will become but a legend in the dusty old books of men and boys that play at imagination games, if all goes well, sigh.”
 
@@ -10,11 +10,8 @@
 
 “Oh, yeah, it is your choice. Can you simply allow me the pleasure of allowing everyone to make their choice in their time? I was merely reaching out to you as representatives of the city, and understood you might have influence with those above. She would greatly be interested in the givers of green and some other death cults that they know of.
 
-  
+He can make a pile of chitin weapons and armor, as well as plating for the hulls of ships. She scroffs at wood and speaks of the virtues of slime. Have you really thought about slime?
 
-She can make a pile of chitin weapons and armor, as well as plating for the hulls of ships. She scroffs at wood and speaks of the virtues of slime. Have you really thought about slime?
-
-  
 
 If they are able to intercept any messages (maybe Bore could tell them who to visit), they find out:
 
@@ -26,7 +23,8 @@ If they are able to intercept any messages (maybe Bore could tell them who to vi
     
 4.  “The tides will rise” is smeared in poop in the city.
     
-5.  “Embrace the sea”
+5.  “Embrace the sea” 
 
 ### Kraken Hunt
+
 At some point, there should be a Kraken Hunt. Maybe something a little ridiculous like setting up the party to kill the Kraken on their own, with the right equipment. Maybe someone gives them the right equipment?

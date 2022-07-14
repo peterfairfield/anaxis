@@ -1,7 +1,6 @@
 ## Chuck Parson Fillstorm
 + Captain Fillstorm
-+ EDO
-+ Utu-lugal
++ [Utu-lugal](/p/utu-lugal.md)
 
 If they ever get really sick: Healer in the Firest Forest, his blood as pure as the hills, he works to heal everyone he can. He is a very grumpy gnome. Many people dying unexpectedly in the city usually die on their way here, or not at all. Also bones that are found outside the city. This latest disaster has:
 
@@ -11,7 +10,7 @@ he has some things to show you about the bones:
     They are not affected by any magic.
     They are covered in sap.
 
-There was a time in his life when he could bind another's will to his. He bound millions, and lost them all to the hordes of .
+There was a time in his life when he could bind another's will to his. He bound millions, and lost them all to the hordes of the Hadrad Empire.
 
 If there are any in the group who want to join the Natural College, he will help them with the paperwork. He has been a professor there for a long time.
 

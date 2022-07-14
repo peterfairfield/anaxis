@@ -2,6 +2,8 @@
 ## Aunt Elsela
  + Shanty
  + Mudder
+ + Nissa
+ + Lady of the Depths
  + [The Hagfish](https://aonprd.com/MonsterDisplay.aspx?ItemName=Veiled%20Master)
  + The [bhole](/sb/bhole.md)
 
@@ -11,7 +13,7 @@ Three lives of Elsie
 
 She works in Bard's Library, and will be invaluable once they find her, +4 on most any check of anything. Also can get them discount godown etc.
 
-> Whenever they are really in a tight spot, at least when it comes to research, she can send them a note or a book.
+> Whenever they are reallty in a tight spot, at least when it comes to research, she can send them a note or a book.
  
 ## Lamprey Salty Elisa
 

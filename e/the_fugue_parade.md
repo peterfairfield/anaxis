@@ -6,4 +6,6 @@
 
 > Vats of ink are made in the bitumen to fuel process. There isn't any metal in the city, practically
 
+> The Stygian Society fronts with the War College.
+
 > [The Stygian Society](/f/the_society.md) is alive and well, the masters of the city.

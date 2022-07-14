@@ -2,7 +2,7 @@
 
 ## Admissions
 
-Merit-based admissions. They select the best and brightest and take them on for 2 years, before allowing them to enter the College as a Rector.
+Merit-based admissions. They select the best and brightest and take them on for 2 years, before allowing them to enter the College as a Rector. The ymbol of natural college is a spiral.
 
 ## Hierarchy
 

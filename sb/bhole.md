@@ -1,7 +1,7 @@
 ___
 ___
 > ## Bhole
->*Large beast, neutral ignorant*
+>*Large beast, neutral*
 > ___
 > - **Armor Class** 20
 > - **Hit Points** 290
@@ -9,18 +9,18 @@ ___
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|30 (+15)|8 (-1)|30 (+15)|14 (+2)|20 (+5)|18 (+4)|
+>|30 (+15)|8 (-1)|30 (+15)|20 (+5)|20 (+5)|18 (+4)|
 >___
 > - **Condition Immunities** acid charm disease fire paralysis poison  
 > - **Senses** passive Perception 19
-> - **Languages** Deep Speech, Common, varies.
-> - **Challenge** 6 (8596 XP)
+> - **Languages** Deep Speech, Erimesh, Rashesh varies.
+> - **Challenge** 16
 > ___
-> ***Freedom of Movement.*** These guys work together. Like super well, you don't even know.
+> ***Freedom of Movement.*** 
 >
-> ***Shapechanger*** You can appear in most shapes.
+> ***Shapechanger*** She can appear in most shapes.
 >
-> ***Caster*** dholes are often powerful castors, and specialize in mind magic.
+> ***Caster*** dholes are often powerful castors, and specialize in mind magic. She is a 
 >
 > ***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
 >

@@ -6,11 +6,11 @@ Lamark, is an oldblood Beowulf, wears a Lord’s Ring. He has an idea of who sto
 
 ## Private Collector
 
-He is a collector and professor at Beowulf. Lamark began with Fallstaff at Natural College, but was hired by The Host to begin a College of the Mind at Beowulf.
+He is a collector and professor at Beowulf. Lamark began with Fallstaff at Natural College, but was hired by The Host to begin development a College of the Mind at Beowulf.
 
 ## Archeology
 
-Lamark will invite them to do something for house [Beowulf](/l/beowulf_castle.md), he might offer them a lesson in brain-archeology. His madness is mitigated by a ticture of fish guts, which he says clears his head. While they are meeting with him, he will be assassinated, and in way that will be highly suspicious. There will be warrents out all over the city. The 
+Lamark will invite them to do something for house [Beowulf](/l/beowulf_castle.md), he might offer them a lesson in brain-archeology. His madness is mitigated by a ticture of fish guts, which he says clears his head. While they are meeting with him, he will be assassinated, and in way that will be highly suspicious. There will be warrents out all over the city. The party will look incredibly guilty and [Nate Hound](/p/nate.md) will come after them hard.
 
 
 ## The Party Hunt

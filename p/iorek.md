@@ -1,6 +1,8 @@
 # Iorek
 
-First really really corrupt Wizard they meet. He is always looking for new blood and pays a premiem for it. He has contracted the disease but only he and his bastard son lived.
+First really really corrupt Wizard they meet. He is always looking for new blood and pays a premiem for it. He has been buying Erimesh slaves and testing them for resistance to the disease. He has contracted the disease and lived, but the only slave that lived has turned out to be his bastard son.
+
+
 
 He has been working with the Erimesh on the digsite and has been helping transcribe the language into Eshar. But something isn't fitting into the syntax.
 

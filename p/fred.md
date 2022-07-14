@@ -24,6 +24,7 @@ His son was sent to Deverre for safekeeping, and to remove suspicion. Fred grew 
 
 There is something Babbi Fran has revealed to Tomas that will cure Ava of her curse. It may have to do with the wolf blood. It may actually be driving out a demon, or something like that.
 
+Fred: I'm not here to take your city away. I'm here to make sure you have a home to come back to, Keep no Blood.
 
 
 

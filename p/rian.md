@@ -1,7 +1,10 @@
 # Edo Rian Sama
  - The Pen of Eschar
+ - 
 
-## 
+## Discoverer of the City beneath the waves
+
+
 
 ## Archeologist
 

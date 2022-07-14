@@ -4,7 +4,7 @@ He is an old Sargent. Dirty as the day is long, absolutely indispensable, he wor
 
 Lady Horne and the Painting of the Windfinder
 
-He is of [Chondros](/f/chondros.md), a brisk [pirate](/f/danoi.md).
+He is of [Chondros](/f/chondros.md), a brisk [Danoi pirate](/f/danoi.md).
 
 There is a exhibition of art at the Fleet School Keep, and the Lady Horne has invited the public to come and view them. The pieces are from most of the finest artists, living and dead. They depict the history of Eshar, from the fall of the old city (now [Tell Kur](/l/tell_kalam.md)) , the drowned city [Eabakzu](/l/eabakzu.md), and the city of the Sun. Then: the Windfinder coming into the city in tatters, and the coming of the Danoi and the Silvermen. Lady Horne is of an old Esherite blood, he is her cousin, but a very different kind of Horne.
 
@@ -22,7 +22,7 @@ Event: Dancing and music, there are several people to meet here:
     
 > Nobles: 
 > * Prime Eduward
-> * John Deverre
+> * Philip>  Deverre
 > * Yuri Holden
 > * Duchess Vaunne of Beowulf
 > * Lord Saxon

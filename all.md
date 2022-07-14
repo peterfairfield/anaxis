@@ -340,7 +340,8 @@ At some other time he can tell them
  The tattoos on the bloodmen that attacked them were of Hozenah she of the Depths, the Tree of the Oak.
  A Fellow of the Natural College has gone missing. There has been an earthquake and it has opened up something in the bay near where they jumped in. They have to go back and see their Aunt Elisa Chuck is pretty clear she is actually his aunt. He uses “aunt” if they push him.
 
-Coming Back to Parson, looking for Elisa:
+### Coming Back to Parson, looking for Elisa:
+
 He can tell them, and he won’t lie to them if he knows them:
 He doesn’t believe the Natural College is involved (false)
 He is glad that the Ten Pins has cleared it’s good name (false, he is glad they got clear)
@@ -349,19 +350,21 @@ THere is an artifact of Water that has come to the city.
 The Natural College doesn’t know where it is. He thinks to look down the Hole. 
 He will give them potions of waterbreathing, no questions, no payment.
 
-Coming Back for the intellect devourer
+### Coming Back for the intellect devourer
+
 He will telll them that under no circumstances will he give up the devourer. The Bulls demand that everyone leave the premises and report outside. The entire city is shut down and martial law has been declared by the council. This is partially true, but the Host is in arms. This might be when the secret garrisons come forth. THat would be super exciting.
 
 The Beowulf Bulls coming – they will be attacked. Parson goes on the offensive, but does not aim to kill until the Bulls escalate, which they do immediately. 
 
-Utu-lugal
+[Utu-lugal](/p/utu-lugal.md)
 The King of the Sun.
 
-Baraganzer - king of the Underworld, the Kraken
+[Baraganzer](/p/fallstaff.md) - king of the Underworld, the Kraken
 
 Kisi "Urine Pot" 
 
-The Ghost Ship
+### The Ghost Ship
+
 Master’s Quarters:
 Commander’s Quarters:
  An infestation of crabs, sent by the Salient Ones as introductory force come across their way. Some of the crabs have ten tackles. If Roan is confronted with knowing about the Salient Ones, she points at the masts and asks you what they remind you of? She spins her distaff, keeps it going, and slowly gives you the finger.

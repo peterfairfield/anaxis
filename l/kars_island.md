@@ -6,16 +6,23 @@ The islanders are morphologically different from the mainland. They are fishy an
 There are some interesting ecosystems on the island and many herbs and drugs used by the City come from here. Spice trade is handled by the Cutters.
 
 
-The Island Woods
+### The Island Woods
 
-Dark and super dangerous.There is a horrible monster thing that serves as the village protector, and obeys the crones and Captain Buckfest. In the woods is:
+Dark and super dangerous.
+
+There is a horrible monster thing that serves as the village protector, and obeys the crones and Captain Buckfest. In the woods is:
+
 The remains of an ancient pact. Who sacrificed whom for what? The powers they gained may be helpful in the upcoming battle with Hiram Naxas
+
 A map to one of the Rods. It may have already been found.
 Perhaps something to do with the experiment, but only vaguely and in a creepy way.
 
-Once they’ve explored a bit, Hiram Naxas will attack, using The Stag, but keeping his other two slower ships out to sea. The party can defend the town with whomever they can convince to fight. Hiram initially wants to wipe out the town and the Crones and discover what has gone wrong. He may find the evidence he’s looking for. He may at some point ask the village to surrender, and offer decent terms, if the Crones are handed over to the Leaf Game for trial. The Navy troops he commands are insanely good.
+Once they’ve explored a bit, Hiram Naxas will blockade and quarenteen the town, using The Stag, but keeping his other two slower ships out to sea. The party can enter the town with.
+
+Hiram initially wants to quarenteen the town and build palisades around it, courdunning off the Fishspawn. The Crones will discover what has gone wrong with their plans and attack the town. He may find the evidence he’s looking for..The Navy troops he commands are insanely good.
+
 There is a storm that rolls in at the same time, locking everyone in the bay.
-The real ghost ship might make an appearance at this time.
+The real [ghost ship](/) might make an appearance at this time.
 
 
 ### The Assault of Oldport

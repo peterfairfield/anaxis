@@ -108,9 +108,11 @@ They meet these groups in a wild concert of violence, they might be dancing? Pos
 ---
 
 **Jat and his gang of Silverbloods.**
+
 These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.
 
 There aren’t a lot of Silverblood family here, but they are quite quick, like weasels. Some might be other well known [assassins](/a/assassins.md).
+
 **The Broken Ones**
  A band of Hill people with carnival like deformities, but they become something beautiful when they shift. Half are Moska. Roma is their leader.
 
