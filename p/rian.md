@@ -4,8 +4,6 @@
 
 ## Discoverer of the City beneath the waves
 
-
-
 ## Archeologist
 
 He is a fellow of the Natural College, and has dabbled in brains and other things. He is aware of some of the things going on in the Natural College, he is most concerned about the Maw of the Gyre and is frequently found on the Eye. There are some theories about un-limited energy and it has got him a bit worried. He could push them into infilatrating the Natural College to check up on his suspicions. 
