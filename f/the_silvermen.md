@@ -24,7 +24,7 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 #### Warmaster Sire Jan Thornshield -- elected Master after the Prince's death. He maintains status quo while deciding between Emul and Jet. He eventually coose Emul, who becomes the Master.
 
-#### Tribune Sarl Agab -- elected judge, holds an election and reveals that Sire Jan is favored as Warmaster.
+#### Tribune Sarl Agab Thornshield -- elected judge, holds an election and reveals that his brother, Sire Jan is favored as Warmaster.
 
 #### Emul Mesh -- Engaged to Sire's daughter, Else Thornshield.
 
@@ -52,5 +52,8 @@ Rian writes some satire; some of the hardline Princes' Wolves are inspired and d
 
 Rian convinces Jet to ask for Sire Jan's blood, in exchange for Nilfar's freedom. Sire Jan pays the blood price. The blood is used to cure the plague, and Rian immediately begins to listen to Iorek's crazy plans, and builds Ram's Shelf. Undeath gives birth to Fred, who recieves the blood of Sir Jan's as his first food.
 
-Eshausted, Sire Jan plans to welcome Silar into [Lagash](/l/lagash.md). Undeath proposes they send Sarl to arrange a peaceful meeting. Silar agrees and arrives. Sire Jan tells Silar and Undeath of Puzer and Abram's crimes. They kill them, messily. Sire Jan blames Undeath for the deception and near-fatally wounds her. Jet kills Sire Jan, Silar removes Jet from power, and titles himself The Erim.
+Eshausted, Sire Jan plans to welcome Silar into [Lagash](/l/lagash.md). Undeath proposes they send Sarl to arrange a peaceful meeting. Silar agrees and arrives. Sire Jan tells Silar and Undeath of Puzer and Abram's crimes. They kill them, messily. 
 
+The party begins, Esme serves the pie. Sire Jan blames Undeath for the deception and near-fatally wounds her. Jet kills Sire Jan, Silar removes Jet from power, and titles himself The Erim.
+
+Rian tries to escape with his son. Undeath returns to Namram and joins the Augurs. Silar hunts down Rian and makes him stand trial. He is imprisoned and Fred is taken to the Lighthouse. Esme becomes Warleader of the Prince's Wolves.

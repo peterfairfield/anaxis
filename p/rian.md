@@ -51,7 +51,7 @@ He has witnessed people using it and thinks the effects are too dangerous. He di
 
 ## Writer
 
-Although not a Judge himself, Rian's 
+Although not a Judge himself, Rian's works are widely read by the judges of the city. He writes of 
 
 ## Hier of Silver
 

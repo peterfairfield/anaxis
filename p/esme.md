@@ -1,6 +1,5 @@
 # Esme Thornshield
 
-
 ## Esme Thornshield  & The Exploding Town
 
 Warband leader of the Prince’s Wolves. Her home town exploded and there was only one survivor. She is sure the Host is behind the attacks, and sends them to the Iron Gate to see what information they can gather. Also, there was a survivor of the explosion, being held by the [Moska](/f/moska.md), and she wants to spring the survivor who is kept at the Bog Dogs. 
@@ -20,7 +19,9 @@ Falstaff will arrive and tell them how they can counter-track the prisoner. This
 
 ## Throw me in Honey
 
-The Brothers are the most closeted bunch you’ve ever met, think Proudboys who are allowed circlejerks. You probably *have* to kill these guys. For me. If they do so, Bore will have had time to get in and out and destroy evidence. If they get done too quickly, he will send someone to show up with a group of soldiers and wipe the place. If they are really sneaky sneaky they can get some compromat on Bore.
+The Tearer militia called "The Brothers" are the most closeted bunch you’ve ever met, think Proudboys who are allowed circlejerks. You probably *have* to kill these guys. For me. If they do so, Bore will have had time to get in and out and destroy evidence. If they get done too quickly, he will send someone to show up with a group of soldiers and wipe the place. If they are really sneaky sneaky they can get some compromat on Bore.
 
 
 What does compromat on Bore look like? Well, for one, he was working for the Host.
+
+While Saad Khan was first given command, he was assigned the 

@@ -48,8 +48,9 @@ The fewest of these have come over, and rumors of ancient white dragons still ab
 
 This has been going on for almost a hundred years now and the people of Eschar are no longer sleeping on their roofs. The Kraken has taken notice of this change and their is a clash of temperature, which perhaps the reds can mitigate, by limiting the winter. This will stop the water in its tracks. They might have to wait a little and get some year or decade turns :_)
 
-## Lizuizos 
-The raven -- perhaps this is Parson in.
+## Lizuizos
+
+The raven -- perhaps this is Parson in disguise.
 
 He tells them that the Enclave and Emporer are planning to set off the three sons and Darva mountain at the same time. This plan will already be preempted by King Pyre, but that their plans involve an infiltration of greens and the breaking of the contract. They plan to bring on a winter that will make the entire plain recede and bring back the land to how it was. This is basically impossible, but the Emporer is also desperate now, and he might just do it to stay and reclaim his land.
 

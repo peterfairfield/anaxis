@@ -26,16 +26,17 @@ On the way to Gloryshield, they may encounter an assassin, and take him for a yo
 > He will send the Sword of the King as a gift.
 
 
-Upon returning to [Eshar](/l/the_city.md) from Tell Kur, there will be some folks who noticed them at the BRH – maybe the New in Towns? One of them disguises/transforms themselves into Niflar in order to collect the treasure/adze. The players may notice that it is a fake, but they may not. If not, Niflar may be dead and replaced by a doppelganger.
+Upon returning to [Eshar](/l/the_city.md) from [Tell Kur](/l/tel_kur.md), there will be some folks who noticed them at the BRH – maybe the New in Towns? One of them disguises/transforms themselves into Niflar in order to collect the treasure/adze. The players may notice that it is a fake, but they may not. If not, Niflar may be dead and replaced by a doppelganger.
 
 > **Dopplegangers** 
 
 #### Esme Thornshield 
-sees Lagash as the future of the Silvermen, and she has a plan to make that happen. The caravans must run, no matter what comes.
+
+> sees Lagash as the future of the Silvermen, and she has a plan to make that happen. The caravans must run, no matter what comes.
 
 
 #### The Wolves Under Attack
 
-Someone (probably the Host) tries to burn the town down. There are 5 different challenges, which Tzagim should know about. Esme Thornshield owns a small town that was destroyed, while the materials to destroy the East Reservoir (Tell Iona and Tell Kur are the two ruin-mounds skirting the reservoir).
+> Someone (probably the Host) tries to burn the town down. There are 5 different challenges, which Tzagim should know about. Esme Thornshield owns a small town that was destroyed, while the materials to destroy the East Reservoir (Tell Iona and Tell Kur are the two ruin-mounds skirting the reservoir).
 
 

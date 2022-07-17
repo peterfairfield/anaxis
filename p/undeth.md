@@ -1,6 +1,6 @@
 # Undeth Mythros
 
-She serves as enforment to the General. Together with her captains, she has been able to become the formost arm of the formost army of the Empire. She is obsessed with the truth, paladin of the [crown](http://dnd5e.wikidot.com/paladin:crown) she uses her Champion Challege on Pyre, before he heads down the bank.
+She serves as enforcer to the [General](/p/king_pyre.md). Together with her captains, she has been able to become the formost arm of the formost army of the Empire. She is obsessed with the truth, paladin of the [crown](http://dnd5e.wikidot.com/paladin:crown) she uses her Champion Challege on Pyre, before he heads down the bank.
 
 The Hadrad Augurs (they often have long horns and glowing eyes). The ancient Pyre, slowly embers into ash-tipped hair. He wears it long and in locks behind his back. These were once very tight braids, but they are a litle chopped, worried or burnt.
 
