@@ -34,6 +34,9 @@ Build a board, build figurines and characters and actually keep the board somewh
 
 Seeing Volume at a point or collapsing a curve into a volume is how it feels to shift a dimension up or down. You are literally adding up and swallowing a dimension C.
 
+Kalenz
+
+-2 HP
 
 BAB 4
 STR 5
@@ -42,7 +45,7 @@ MAG 1
 +12 / 8
 
 Sword  STR + P+ MAGIC + RACIAL + MORALE = 
-Attack +5 + 4 + 1 + 2 + 1 = 9
+Attack +5 + 5 + 1 -2 -2 = 8
 Damage +5 + 4 + 0 + 2 + 1 = + 12
 Offhand Damage + 2 + 4 + 1 + 2 + 1 = 9 
 

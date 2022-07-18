@@ -2,10 +2,10 @@ ___
 Kranti, Porter, Josiah Greazy when he gets older.
 ___
 > ## Assassin
->*Human, chaotic evill*
+>*Human, chaotic evil*
 > ___
 > - **Armor Class** 16
-> - **Hit Points** ??
+> - **Hit Points** 10 + 12 + 15 + 12 = 49 HP 
 > - **Speed** 30ft
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -14,23 +14,27 @@ ___
 >___
 > - **Saves** | STR +6 | DEX + 6 | CON +4 | INT -1 | WIS -1 | CHA +1 |
 > - **Senses** passive Perception 19
-> - **Languages** Deep Speech, Erimesh, Rashesh varies.
-> - **Challenge** 16
+> - **Languages** Varies
+> - **Challenge** 6
 > ___
-> ***Freedom of Movement.*** 
+> ***Sneak Attack.*** 2d6 sneak attack
 >
-> ***Shapechanger*** She can appear in most shapes.
+> ***Hunter's Mark*** 1d6
 >
-> ***Caster*** dholes are often powerful castors, and specialize in mind magic. She is a 
+> ***Goodberry*** 1 HP x 10
 >
-> ***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
+> ***Fog Cloud*** *poof*
 >
-> ***Sassiness.*** When questioned, this creature will talk back instead of answering.
+> ***Planar Warrior*** bonus action, 1d8 force damage
+>
+> ***Steady Aim*** as a bonus action, you give yourself advantage on your next attack roll on the current turn
+>
+> ***Assassinate** You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+
 > ### Actions
 
-> ***Slime.*** 60ft radius, silky transparent slime fills the water. DC 19 reflex to not be entangled. If you can breathe water, you have the suffocating condition.
+> ***Shortsword.*** +8 reach 5ft *Hit* 25 (4d6 + 1d8 + 7) force damage
 >
->
-> ***Gory Body Sweep.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+> ***Shortbow.*** +8 to hit, ragner 80/320ft., one target. *Hit* 25 (4d6 + 1d8 + 7)
 
 

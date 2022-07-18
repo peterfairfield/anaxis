@@ -146,12 +146,6 @@ Some demon stats for the guards, or perhaps throw in something more thematic of 
 
 ~10th level antipaladin is here, defending the evoker according to his contract. He will try to frighten them, using words of the Leviathan (fight a [hagfish](/stats/bohle.md)), and if that doesn't work, he draws his sword and gets to it.
 
-
-
-
-
-
-
  > Map of the Hung Jury #TBD
  
  > Map of the Chance Meetings #TBD
@@ -160,3 +154,9 @@ Some demon stats for the guards, or perhaps throw in something more thematic of 
 
  > The Aboleth of the Harbor
 
+
+## Boatwights II -- The Trial
+
+### Discovery of Ancient Weapons
+
+There are some old weapons left over by the Empire, still used in the houses once belonging to the royal houses of the old Empire. Many of these weapons are now defunct, and used as objects of interest or in a more utilitarian way. Two aspiring new lights in Eshar are attempting to steal one of these from 

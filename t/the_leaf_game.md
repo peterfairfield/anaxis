@@ -1,7 +1,7 @@
 # Kars Island Timeline
 
 ## Hooks
- * Hiram may mention the island and things going on there.
+ * [Hiram](/p/hiram.md) may mention the island and things going on there.
  * There will be talk in Ten Pins or BRH
  * They are asked by Bore to make contact with the "lady" or Bols to investigate the ghost ship
 
@@ -12,7 +12,7 @@
   * They are sappers and have a keg of gunpowder.
   * There is a library
   
-## Crossing with Falstaff
+## Crossing with [Falstaff](/p/fallstaff.md)
 
 Fallstaff: The Natural College wiil have noticed something, I'm not sure what may have gotten through undetected. In any case, we need to begin to be careful in our movements to not furthur alert them to our actions.
 ...
@@ -34,7 +34,7 @@ Once the crones have been neutralized, they will place the jars on top of them, 
 
 ## Borderlords
 
-This also sets off a chain of events climaxing in the crowning of the [Silver King](/p/), the death of the Black Empororer and the coming of the end. 
+This also sets off a chain of events climaxing in the crowning of the [Silver King](/p/silar.md), the death of the Black Empororer and the coming of the end. 
 
 As soon as word reaches Lagash that the Borderlords have been given title, there will some sudden lunges for the throat amoung the Primals. In the end, there are only 9 left alive.
 
@@ -46,7 +46,6 @@ Hiram: Cough.
 Elsela: They've been to the tower and had breakfast. They actually scared some rats out and made the beds.
 Hiram: Proper.
 Elsela: Do you know about #etc...
-
 
 ### When they debrief with Bore: 
 

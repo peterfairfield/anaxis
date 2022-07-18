@@ -1,8 +1,6 @@
 ## Josriel Gladhand of the Upper Halls  
   
-
 ### Upper Halls 
-
 
 ### The Holy City 
 

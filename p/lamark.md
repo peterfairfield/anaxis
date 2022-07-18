@@ -15,12 +15,12 @@ Lamark will invite them to do something for house [Beowulf](/l/beowulf_castle.md
 
 ## The Party Hunt
 
-First, if they go charging after the assassins, please let them randomly run into a pile of [Tearers](/f/tearer.md), out for some blood for some reason or other. They pretty much cut loose. They will take this oppurtunity to put the players down. This could be a humorous fight until the bloodshed spreads and spreads as more Tearers join the fight. At some point, when actual Options start showing up, they will hopefully call it quits and flee.
+First, if they go charging after the assassins, please let them randomly run into a pile of [Tearers](/f/the_tearers.md), out for some blood for some reason or other. They pretty much cut loose. They will take this oppurtunity to put the players down. This could be a humorous fight until the bloodshed spreads and spreads as more Tearers join the fight. At some point, when actual Options start showing up, they will hopefully call it quits and flee.
 
 
 ## Paper Muster
 
-Then it's a paper muster and patrols and the City goes haywire. First signs point them to Bolsinger's and professor Tobit Drake. If they go in guns blazing, they will find ample evidence that he's been spying on the Natural College and Falstaff's work. He will appear dead. If they are too agressive, his Deep Lord will protect him – maybe with enslaved guardsmen. If defeated, his spellbook and stuff are spectacular, but they will have a tough time with the [Kraken](/p/fallstaff.md) if they kill him. He does keep notes of the people who assassinated Lamark, however.
+Then it's a paper muster and patrols and the City goes haywire. First signs point them to Bolsinger's and professor [Tobit Drake](/p/tobit_drake.md). If they go in guns blazing, they will find ample evidence that he's been spying on the Natural College and Falstaff's work. He will appear dead. If they are too agressive, his Deep Lord will protect him – maybe with enslaved guardsmen. If defeated, his spellbook and stuff are spectacular, but they will have a tough time with the [Kraken](/p/fallstaff.md) if they kill him. He does keep notes of the people who assassinated Lamark, however.
 
 If this goes well for them, throw the next encounter at them willy-nilly.
 
@@ -46,10 +46,6 @@ The assassins have been trying to get to Shawn, but so far, just been picking at
 
 Showdown O'clock, when they go after the Moske hideout. There are some reasonable people there who try to talk to them about what happened, but then the assassins show up in force.
 
-  
-
 Falstaff's house is burning, probably the Flint House. If they find Falstaff he will say that this is all a cleanup on behalf of some higher-ups. He can tell them where those guys are, but they aren't going to like it.
-
-  
 
 The Rock: and killing a lot of the right people. Some of them probably get away.
