@@ -12,7 +12,7 @@ She is worried that her employer, [Lord Saxon](/p/lord_saxon.md), is going to us
   
 ## Ymil
 
-She isn’t as keyed into the who and what of the [Ymil](/f/ymil.md), Society and BRC are up to, but she does know signals intelligence, and uses it to talk to [Fred](/p/fred.md), with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on.
+She isn’t as keyed into the who and what of the [Ymil](/f/ymil.md), Society and BRC are up to, but she does know signals intelligence, and uses it to talk to [Fred](/p/fred.md), with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on. Her master of intelligence, [Musshuhu](/p/mushussu.md)
 
   
 ## Finders

@@ -1,4 +1,5 @@
 # King Pyre
+ + The Lion (after Narses)
 
 Leader of the assault on 
 

@@ -107,10 +107,9 @@ Use Flesh golems & piles of zombies for brutes and the crew on ranged. They will
 Further down into the holds, they will find a vrock and research into the Finders, perhaps a note about the Ymil, or the [Stigian Society](/f/the_stigian_society.md) itself. Equipment for raising Zombies. There are diagrams of the moon, with some hazing or clouds. Markings of the moon are clearly drawn.
 
 A desk full of spell components and someone missing?
-
 ### [Beruni](/p/beruni.md)
 
-Imprisoned in the hold is also the tortured Beruni. He is experiencing soulwarp and is largely acting like a baby. He is still interested in opening up their skulls and having a slurp around. If his enslaves fail to land or he is discouraged properly, they can probably get him established in the harbor. Beruni also knows about the harbor defenses -- and something about the Nova Helios.
+Imprisoned in the hold is also the tortured Nain. He is experiencing soulwarp and is largely acting like a baby. He is still interested in opening up their skulls and having a slurp around. If his enslaves fail to land or he is discouraged properly, they can probably get him established in the harbor. Beruni also knows about the harbor defenses -- and something about the Nova Helios.
 
 ### The Lagash Gate
 

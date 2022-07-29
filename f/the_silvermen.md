@@ -26,15 +26,15 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 #### Tribune Sarl Agab Thornshield -- elected judge, holds an election and reveals that his brother, Sire Jan is favored as Warmaster.
 
-#### Emul Mesh -- Engaged to Sire's daughter, Else Thornshield.
+#### [Emul Mesh](/p/emul_mesh.md) -- Engaged to Sire's daughter, Else Thornshield.
 
 #### [Jet](/p/jet.md) 
 
-#### Esme Anani -- Sire's daughter. Bakes it in a pumpkin shell, kept them very well.
+#### [Esme Anani](/p/esme.md) -- Sire's daughter. Bakes it in a pumpkin shell, kept them very well.
 
-#### Undeath Mythos -- Hadrad enforcer, a Princes of the Green.
+#### [Undeath Mythos](/p/undeth.md) -- Hadrad enforcer, a Princes of the Green.
 
-#### Edo Rian -- Undeath's lover and architect of the disaster. Now a writer in the city.
+#### [Edo Rian](/p/rian.md) -- Undeath's lover and architect of the disaster. Now a writer in the city.
 
 #### Silar -- Returning with the main army. He will help the party execute the rapists and assassins Puzer and Abram. Then Jet. If this is done, he will be elected Master.
 

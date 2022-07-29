@@ -1,6 +1,6 @@
 # Wes Harper  
 
-Orthodox but kind, he serves as deathmarker for much of the Kirkwalls. Wes is also interested in hiring them to
+Orthodox but kind, he serves as deathmarker for much of the Kirkwalls. Wes is also interested in hiring them to:
 
 1.  Go clean out a part of the old Coombs that have been invested.
     

@@ -15,7 +15,7 @@ The university is largely where the student body is kept. The upper houses are o
 ## The Fringe Colleges
 
 400 The Pact ~20k
-445 Golem Academy ~3k
+445 Golem Academy (now part of Forgers)
 817 Finder’s College ~1k
 1699 College of Spirits ~10k
 
@@ -25,7 +25,8 @@ The university is largely where the student body is kept. The upper houses are o
 1300 The Forgers Ring: Science and Technology, Ghouls and Golems
 Goldsmith’s Guild: Fine arts.
 
-## The Inner Colleges
+## The Inner Colleges 
+  ***The Host***
 
 Fleet School: ‘Ex Scientia Tridens’
 College of War: Officer school. Also includes several subgroups: Speculators, Innebrus (also called Couriers), and

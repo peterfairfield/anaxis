@@ -118,3 +118,5 @@ The Crittereon
 The Finders
 Places: The Alley, The University, The Market
 Before landing in Finder’s Bay, the ship Wave Finder took a massive prize — the Cresent Moon. They soon became the priciple families ruling the city of Obuean. They were disposed when the ancient alliances were restruck, and they now lick their wounds in the alleys.
+
+#NOTABENE: There is going to be a time in the trial, when Hackstaff will get to tell his story of bringing down the Prince of Cats. Here are the stat blocks for that #encounter #the_duel.

@@ -2,9 +2,9 @@
 
 ## Ram’s Shelf 
 
-Edo Rian – closeted Skum and master of mind control and transference. He can get them deepdraft. “For the right price” “What will you give me for it?”
+[Edo Rian](/p/rian.md) – closeted Skum and master of mind control and transference. He can get them deepdraft. “For the right price” “What will you give me for it?”
 
-Bols, pleeeease Bols – emergency control during the storm. He has caught several of the beasts and put their pelts out for sale.
+[Elara Whistle](/p/whistle.md) – emergency control during the storm. He has caught several of the beasts and put their pelts out for sale.
 
 Roma is there, and can purr them into talking to some of the townsfolk who saw what actually happened. 
 
@@ -34,13 +34,13 @@ The New in Towns – Fresh Meat – New Demons – these are recently lead by Fr
 
 The Prince’s Wolves – This guy is too cool to not be a main Character. Oh, this is Vamarm Silar Gloryshield, and he just crowned himself king. Silar will say “Well shoot, I’ve dabbled in fictions no more complicated than this”
 
-### Aunt Agnus Enters(/p/aunt_agnus.md)
+### [Aunt Agnus Enters](/p/aunt_agnus.md)
 
 When they meet her, she is unfortunately storming the shrine with a spider army of craboids. She is in a bad MLM and she needs a way out. She might be the only one in this scenario who can make the connection between the Kraken and the College. Agnus will move to take out what she sees as an element too close: Edo Nain. She blames him for brokering this alliance. Her primary goal is the dissolution of relationships between the Silverbloods and the University. Edo feels the same way, and they are on the lookout for each other.
 
 The Spirit holy cow this needs to be something from Aunt Agnus’s past. What is she (Aboleth)? How did she grow up? Was it rough? She is an old brain-eater. She knows her bread and butter. Aunt Elisa eats the past. The Kraken eats stories.
 
-### Edo Nain(/p/nain.md)
+### [Edo Nain](/p/nain.md)
 
 He will draw them back into the past, when a Danoi army stood waiting to fight for the Blood Throne. They had marched from the Upper Sea to the Lower Sea and they brought with them 13,000 hoplites. The mountain passes had been well repaired and there had been no-one to accost them as they crossed to the City. They faced the armies of the Hill People, he saw their determination, their might, their paths, there they fought the Hill People. And they won.
 

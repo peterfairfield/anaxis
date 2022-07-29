@@ -16,7 +16,7 @@ Lord Saxon Gabriel. In charge of the market place Kathkul. Saxon & his son, the 
 
 ## The Host
 
-Lord Saxon is already planning for the launch. He has developed the Hospitallers and the Bulls as possible marine troops. He also wants to pull the legions together locally and deliver more autonomoy to the Danoi and Erimesh. 
+Lord Saxon is already planning for the launch. He has developed the Hospitallers and the Bulls as possible marine troops. He also wants to pull the legions together locally and deliver more autonomoy to the [Danoi](/f/danoi.md) and [Erimesh](/f/the_erimesh.md). 
 
 He is spending most of his time arming the army. He likes nothing better than a bunch of buttered hoplites sparing in a chalk arena.
 
