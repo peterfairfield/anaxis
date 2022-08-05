@@ -139,6 +139,24 @@ Once they besiege the palace, they begin to encounter the Erimesh in force. Nota
 
 Some demon stats for the guards, or perhaps throw in something more thematic of what happens to Finders when they go bad.
 
+Big Fight
+
+The big fight is both inside and outside the palace.
+
+The PCs need to get inside, find the Finders and do something about them, unnoticed. The Finders will attempt to stop them, using their counter-sappers, their shape changers, assassins, and their own considerable skills. They also have a few fire-based monsters.
+
+They get inside and can't find the Finders until they find the "Last Stand" room.
+
+The PCs might have to fight the Garrison and the counter-sappers to get in.
+
+The PCs encounter the Erimesh in here. If they kill any of the Erimesh, they are in for it, even if they are outside the room. The Erimesh have a lot of powers to detect anyone outside the room, so they are going to find them.
+
+The Place
+
+The place is a palace, but it is also a fortress. The outside is covered by a strange substance that can turn your stuff to stone. The inside is a maze of switches and stone. Everything is stone.
+
+The Finders are inside. They will do anything to keep their secrets and to keep the PCs from getting at them.
+
 # The Bad Finder
 
 ~10th level shadow evoker. What is he doing here? #TBD
