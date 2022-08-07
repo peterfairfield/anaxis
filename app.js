@@ -11,7 +11,15 @@ var bodyParser = require('body-parser')
 app.use( bodyParser.json() );       // to support JSON-encoded bodies
 app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
   extended: true
-})); 
+}));
+
+
+
+const findLinks = (payload) => {
+  const linkRegex = /^\[([\w\s\d]+)\]\(((?:\/|https?:\/\/)[\w\d./?=#]+)\)$/g;
+  const payload.match(linkRegex)
+
+};
 
 var TurndownService = require('turndown')
 
@@ -75,6 +83,14 @@ app.get('*', (req, resp) => {
     const wf = form.replace(/TEXT/g, file)
     const wrapped = wrapper.replace(/BODY/g, data).replace(/FORM/g, wf);
     resp.send(wrapped);
+});
+
+
+let fulldoc = null;
+
+app.get('/search', (req, resp) => {
+  const search = req.params.q;
+  resp.send('OK')
 });
 
 app.listen(80);

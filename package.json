@@ -4,7 +4,9 @@
     "body-parser": "^1.19.2",
     "decode-html": "^2.0.0",
     "express": "^4.17.2",
+    "fuse.js": "^6.6.2",
     "markdown-it": "^12.3.2",
+    "nodemon": "^2.0.19",
     "turndown": "^7.1.1"
   },
   "nodemonConfig": {
