@@ -1,0 +1,1073 @@
+{
+  "app": {
+    "name": "markdown-json",
+    "cwd": "./p",
+    "src": ".",
+    "filePattern": "*.md",
+    "ignore": "*node_modules*",
+    "dist": "./output.json",
+    "metadata": true,
+    "server": false,
+    "port": 3001,
+    "deterministicOrder": false,
+    "version": "1.6.1"
+  },
+  "data": [
+    {
+      "id": "askhahale",
+      "contents": "<h1 id=\"askhahle\">Askha&#39;hle</h1>\n<p>He looks like Frederick Douglass, and is clearly of Erimesh stock, almost an icon, with a huge shock of white hair ringed by black.</p>\n<p>Arch-lich of the Society</p>\n<p>He is Arch-Lector at Natural College. He has done a lot of things, good and bad, but he is currently obsessed with the Moon and the Sun King and the Gyre. He will also quickly befriend Char if he meets him, and they play a private game that they have made up together. They call it <a href=\"/g/tuck_duck.md\">Tuck Duck</a>.</p>\n<p>If they contact him to try break in during the events of <a href=\"/t/the_stolen_texts.md\">The Stolen Texts</a>.</p>\n",
+      "excerpt": "<p>He looks like Frederick Douglass, and is clearly of Erimesh stock, almost an icon, with a huge shock of white hair ringed by black.</p>",
+      "meta": {
+        "relativePath": "askhahale.html",
+        "createdAt": "2022-07-18T00:04:24.173Z",
+        "lastModified": "2022-07-18T00:04:24.173Z",
+        "size": 593,
+        "formattedSize": "593 Bytes"
+      }
+    },
+    {
+      "id": "aunt_agnus",
+      "contents": "<h2 id=\"aunt-agnus\">Aunt Agnus</h2>\n<ul>\n<li>Agnatha</li>\n</ul>\n<p>She of fresh waters and hard scales. She brings many mighty gifts, and will not be deterred. Lamprey.</p>\n<h3 id=\"the-tower-of-aunt-agnus\">The Tower of Aunt Agnus</h3>\n<p>Big Tentacles, oh my. The island has a lake, and the lake is deep. There are tentacles in the lake. A huge monster tree. It tries to eat them, in a friendly way. It smells so sweet and it sings so gently. The island seems really pleasant, suddenly there are motes of light and everything sounds like it is far away. You can somehow see better, see clearer. The aboleth enters your mind for the first time. Agnus asks you what you most desire. You know you must tell the truth.</p>\n<p>This is when <a href=\"/p/rian.md\">Edo Rian</a> springs into action, if he’s still alive. He will mindblank them all with scrolls and then tells them to proceed as they wish. He will have the Spirit with him, if they let him have it, and maybe Option Bols, if he survived so far. Bols will meet Fred soon. That is going to be the tightest of bonds in the City, as it Changes. </p>\n<p>At the confrontation, if they can introduce to Agnus a solid connection within the Natural College, she will put off the war of succession. The seas can be at peace. It’ll be known as the 11 hours war. There was even a successful mutiny. Maybe the moon will come up. The Admiral’s College is in absolute uproar. Josriel is an Admiral and she will be running a squadrun of Host Ships to run them to ground, wherever they might be. This will come to be known as the First Fleet, as it is the first to go into the Moongate. When you go through, the boat is dumped upside down in the water, with you on the bottom. That’s about all. If the party is there, they get to meet the Sun King instead of Josriel. He will be swimming for his life off the Reed Island.</p>\n<p>Aftermath: someone was bound to slip up. Either they know more about Roma, Bore, Agnus, or Nain after this, or Silar will notice something and give them a mission to check up on, because he’s a smart guy. There is the mystery of the ship and of the disappearance of Saxon and Gladhand’s fleet.</p>\n",
+      "excerpt": "<p>She of fresh waters and hard scales. She brings many mighty gifts, and will not be deterred. Lamprey.</p>",
+      "meta": {
+        "relativePath": "aunt_agnus.html",
+        "createdAt": "2022-07-26T03:04:00.798Z",
+        "lastModified": "2022-07-26T03:04:00.798Z",
+        "size": 2079,
+        "formattedSize": "2.0 KB"
+      }
+    },
+    {
+      "id": "aunt_elsela",
+      "contents": "<h2 id=\"aunt-elsela\">Aunt Elsela</h2>\n<ul>\n<li>Shanty</li>\n<li>Mudder</li>\n<li>Nissa</li>\n<li>Lady of the Depths</li>\n<li><a href=\"https://aonprd.com/MonsterDisplay.aspx?ItemName=Veiled%20Master\">The Hagfish</a></li>\n<li>The <a href=\"/sb/bhole.md\">bhole</a></li>\n</ul>\n<p>Three lives of Elsie</p>\n<h2 id=\"professor-elisa\">Professor Elisa</h2>\n<p>She works in Bard&#39;s Library, and will be invaluable once they find her, +4 on most any check of anything. Also can get them discount godown etc.</p>\n<blockquote>\n<p>Whenever they are reallty in a tight spot, at least when it comes to research, she can send them a note or a book.</p>\n</blockquote>\n<h2 id=\"lamprey-salty-elisa\">Lamprey Salty Elisa</h2>\n<p>When <a href=\"/p/hatchaxel.md\">Hatchaxel</a> dumps the box in the depths, or the first time they head down even to the reff, she&#39;ll take a poke at them. She can take you to your box, since she just found it. If they shot to the bottom, this takes place over the box. Once she sees them in action, she doesn’t worry too much about taking them in and thanks them for rescuing her. She realizes she can help them and gives them a lift up to the surface. “Call me Aunt Elisa”, and “Don’t stay out of the water!” She shouts gleefully. </p>\n<h2 id=\"nissa-the-blue-dragon\">Nissa the Blue Dragon</h2>\n<p>Let them start speculating around the time they find out who <a href=\"/p/aunt_agnus.md\">Aunt Agnus</a> is. But she&#39;s as good at playing the Edo that they shouldn&#39;t be able to sort her out passively. Her tower is a plotty mess, it really seems like the penultimate scene there was the last, or just part of a short arc. She&#39;s also caught out on the salt here, so it&#39;s awkard for her, but she&#39;ll manage.</p>\n<h4 id=\"the-madman\"><a href=\"/p/madman.md\">The Madman</a>:</h4>\n<blockquote>\n<p>“inside this bottle is a whole other world! Look, tiny people walking around a tiny village saying hi to each other and bye mom and eat you damn food and all those nice things. If I set then down and I can get one other person to hold hands with me, and we jump down the bottle!” If someone does it, they smash the bottle, otherwise he will take the bottle back into the knapsack. He is very careful with his stuff.</p>\n</blockquote>\n<h4 id=\"the-salt-sea\">The Salt Sea</h4>\n<p>Forth from the depths.</p>\n<h4 id=\"aunt-elselas-tower\">Aunt Elsela’s Tower</h4>\n<p>Has been destroyed and defaced by the Lords and the Ladies, a nasty little group-for-hire and they are new in town. They have left a message: Heretic. There is also a warrent out for Professor Elsela. She has been accused of denouncing the grave.</p>\n<p>The Lair of an aboleth could be worse. There were 6 families living on the island, paid essentially to keep a really nice garden and fix things that broke. It has seen better days.</p>\n<p>The scribbling on the walls are words of the Lady of the Depths, also madness and everything being eaten by the water. The Kraken is rising again (for the last time).</p>\n<h4 id=\"eel-island\">Eel Island</h4>\n<p>They could really use some supplies, mostly facines of fuel, dung carts, and fine goods. They have a lot of eggs and milk stacking up, as well. This place has 4 large fishing boats, and is a <a href=\"/p/mushussu.md\">agricultural</a> powerhouse. Bolsingers uppergrads use this place to finish their projects and get a deep dive on the history of the harbor, or she will do a dramatized battle of the Pirate Kings, how they attacked and defeated 7 cities before coming to Eschar. Eschar stood with the sea, as it had always done, as the waters rose and fell of old. This is now the returning of the waters, not the rising.</p>\n<p>The drowned temple is hardly a secret, once you&#39;re on the island, you&#39;re on top of it. There are two main entrances on the island, the huge sea caves on the north side of the island and the temple in the centre. It is underwater.</p>\n",
+      "excerpt": "<p>Three lives of Elsie</p>",
+      "meta": {
+        "relativePath": "aunt_elsela.html",
+        "createdAt": "2022-07-07T02:34:21.299Z",
+        "lastModified": "2022-07-07T02:34:21.299Z",
+        "size": 3490,
+        "formattedSize": "3.4 KB"
+      }
+    },
+    {
+      "id": "ava",
+      "contents": "<h1 id=\"ava-gavin\">Ava Gavin</h1>\n<h2 id=\"university-college\">University College</h2>\n<p>A very talented fellow at the University College, she operates the Observatory. She doesn&#39;t trust Meatus, but thinks of him as a brute. She is an elf with extremely fine features. She doesn’t like how the security was breached by mynim working the old diamond mines. Inspection of the rooms of missing material can tell them that someone broke in from the inside first, destroyed the protective rooms. They can find trollsign, and maybe if they are good, where the troll drop landed.</p>\n<h2 id=\"lord-saxon\">Lord Saxon</h2>\n<p>She is worried that her employer, <a href=\"/p/lord_saxon.md\">Lord Saxon</a>, is going to use this to force her to accept security (read spies) at the Observatory. There is a bunch of other stuff that is missing as well, magical experiments she has been conducting with her students. She doesn’t want a bunch of bafoons running around the library. If they pull off the deal with Lord Sack, she will become helpful, otherwise, she tries to get rid of them. If they can reveal the scale of attack to her, she will start to move the books to the University. She can tell them stories of the book-burnings that were halted by her family, of the missing libraries and history of Acklan and how the books were smuggled out and saved by riding out the next 400 years in a barrel sealed with bitumen.</p>\n<h2 id=\"ymil\">Ymil</h2>\n<p>She isn’t as keyed into the who and what of the <a href=\"/f/ymil.md\">Ymil</a>, Society and BRC are up to, but she does know signals intelligence, and uses it to talk to <a href=\"/p/fred.md\">Fred</a>, with something she believes is the Moon Child. His dreams have been getting more and more worrisome for her, such that she’s considering a trip out to the island to find out what is going on. Her master of intelligence, <a href=\"/p/mushussu.md\">Musshuhu</a></p>\n<h2 id=\"finders\">Finders</h2>\n<p>Ava is an old family <a href=\"/f/the_finders.md\">Finder</a>, and has been told that she will find love among the first lords of the city. She has had 7 husbands, and they have all died.</p>\n<p>What is the source of this evil thing? A demon that comes and kills her husbands, or is it the City itself?</p>\n<p>Can we get a triangle between Parson, Ava and Fred? Straight choice, with maybe some mutual respect available to the players? Always present them with an easier choice if they betray the other. Ava might go looking for <a href=\"/p/fred.md\">Fred</a>. </p>\n<h2 id=\"fred-has-dissappeared\">Fred has dissappeared</h2>\n<p>About around time she decides to come looking, he wants to remain hidden. He will enter the city and it will Change, the three events that Change the City are: Queen, King, and Marriage. Fred will be opposed by the Finders, the Host and the Colleges.</p>\n<p>As the cards come up, there is a lean you can pull from each card (maybe the front side) the backside is all of the other rules. He is going to pull up and wreck some house. Fred Halfelven will hit all of the major trade goods, all guilds and and artisans. The triumph of the Egyptians over the sea peoples, the barbarians. The great and venereal society of the Most Ancient City. They are the ones trying to stab Fred in the back. The Opera will start this message, and imprint it in the minds of those. Fred has enemies among his own faction, those who are trying to rewrite history, and erase the phonetic sylvan.</p>\n<h2 id=\"screeds\">Screeds</h2>\n<p>Fred’ sacrifice is to die to allow the group of his own people who don’t want their written system eradicated. Fred begins to compose screeds that are wildly read throughout the Chippies and the Forest. He has some really good things to point out about what is going on. He is a Finder in name, and with the help of other Finders, the party might be able to bring the more radical elements to the table: perhaps a meeting between the Society and a Giver of Green?</p>\n<h2 id=\"rescriptivists-resurgent\">Rescriptivists Resurgent</h2>\n<p>The major texts are taken out by the bulldozers. They only came to smash, not to grab. This rubble can be reconstructed to find the life blood of information. They might meet Roma. “You know, the advantage of my line of work is, people can never be sure that it might not be the case that…  are working for me or with me? or not?” What is written and recorded about her movements. She is new chaos leaking off her.</p>\n<h2 id=\"second-reveals-the-same-as-the-first\">Second Reveal&#39;s the same as the first</h2>\n",
+      "excerpt": "<p>A very talented fellow at the University College, she operates the Observatory. She doesn&apos;t trust Meatus, but thinks of him as a brute. She is an elf with extremely fine features. She doesn&#x2019;t like how the security was breached by mynim working the old diamond mines. Inspection of the rooms of missing material can tell them that someone broke in from the inside first, destroyed the protective rooms. They can find trollsign, and maybe if they are good, where the troll drop landed.</p>",
+      "meta": {
+        "relativePath": "ava.html",
+        "createdAt": "2022-07-19T03:46:48.031Z",
+        "lastModified": "2022-07-19T03:46:48.031Z",
+        "size": 4221,
+        "formattedSize": "4.1 KB"
+      }
+    },
+    {
+      "id": "babbi_fran",
+      "contents": "<h1 id=\"chuck-babbi-malak-fran--nain\">Chuck Babbi Malak Fran  Nain</h1>\n<p>An apothecary, keeps a big shop and a small shop. Learn anything professor at Finder’s. He’s an old family Prince, the Cabin Boy of the Wind Finder, Raphael, the messenger. He can provide divination spells for favors or money. Almost any question, he has the price. Or he can give you a job. Some of his jobs will include looking into the missing texts, organic or otherwise. This is the guy they should come to before going to Fillstorm. He will try to warn them off, as best he can. He vanishes into a secret hatch as soon as the Bulls show up.  </p>\n<blockquote>\n<p>He knows a good deal about the Moon.<br>He knows about the Iron Road.\nJustice is meted out when he is observing.\nHe is Malak, Raphael the Messenger of the Sun King.</p>\n</blockquote>\n<h2 id=\"ghost-ship\">Ghost Ship</h2>\n<p>He is aprehensive about the texts and the ghost ship, since he knows that the Wind Finder hasn&#39;t been found, and Fillstorm isn&#39;t yet ready.</p>\n",
+      "excerpt": "<p>An apothecary, keeps a big shop and a small shop. Learn anything professor at Finder&#x2019;s. He&#x2019;s an old family Prince, the Cabin Boy of the Wind Finder, Raphael, the messenger. He can provide divination spells for favors or money. Almost any question, he has the price. Or he can give you a job. Some of his jobs will include looking into the missing texts, organic or otherwise. This is the guy they should come to before going to Fillstorm. He will try to warn them off, as best he can. He vanishes into a secret hatch as soon as the Bulls show up.  </p>",
+      "meta": {
+        "relativePath": "babbi_fran.html",
+        "createdAt": "2022-07-26T04:02:49.473Z",
+        "lastModified": "2022-07-26T04:02:49.473Z",
+        "size": 928,
+        "formattedSize": "928 Bytes"
+      }
+    },
+    {
+      "id": "belesys",
+      "contents": "<h2 id=\"belesys\">Belesys</h2>\n<p>Danoi governer of the Empire&#39;s closest providence. He is largely a figurehead and &quot;familiar face&quot; for the Empire. He is aware of the delicate situation he is in, and will probably go with whomever will give him the best chance of living.</p>\n<p>He is a hedonist and a sop. He will accept single to the death combat at any time.</p>\n<p>He can be won over by the ship building and the bitumen ships. He is interested immediately in bitumen. Then, as a afterthought, he will betray <a href=\"/p/iorek.md\">Iorek</a>:</p>\n<p>&quot;I regret to inform you that my associate, the Wizard Iorek, has contracted a disease of his people, and has decided to cast all reason to the wind. He has been abducting and traffiking in the people of the Media. He must be stopped. Here is the map to the cave where he collects these slaves.&quot;</p>\n<p>&quot;I would ask the University&#39;s opinion in the matter of leaving the Media to assault a University Fellow&#39;s research tower... But I prefer to do it this way!&quot;</p>\n<p>&quot;I wish to give you what my father gave me. Everything I needed to do my task and the answer to what the task was.&quot;</p>\n<p>&quot;I do wish for freedom, even at the expense of my own. The City will allow the enforcement of <a href=\"/f/the_defenders.md\">Defender</a> law to all citizens, and I will await the orders of the king.&quot;</p>\n<p>If he makes it out of the fall of Lakash alive, he will become an incredible asset and a genius of military strategy.</p>\n<p>He specializes in siege weaponry and arming and training units for a bit, but will soon take his place at the front of the next big fight they get into.</p>\n",
+      "excerpt": "<p>Danoi governer of the Empire&apos;s closest providence. He is largely a figurehead and &quot;familiar face&quot; for the Empire. He is aware of the delicate situation he is in, and will probably go with whomever will give him the best chance of living.</p>",
+      "meta": {
+        "relativePath": "belesys.html",
+        "createdAt": "2022-06-25T05:13:08.375Z",
+        "lastModified": "2022-06-25T05:13:08.375Z",
+        "size": 1556,
+        "formattedSize": "1.5 KB"
+      }
+    },
+    {
+      "id": "beruni",
+      "contents": "<h1 id=\"edo-beruni\">Edo Beruni</h1>\n<ul>\n<li>Newest initiate into the Presence.</li>\n</ul>\n<h2 id=\"deep-lord-of-the-lake\">Deep Lord of the Lake</h2>\n<p>Beruni as only recently ascended as Edo on Lagash. He has his agents in various roles spread throughout Eshar and the Tels.</p>\n<h3 id=\"eshar\">Eshar</h3>\n<ul>\n<li><a href=\"/p/tobit_drake.md\">Tobit Drake</a> Fellow at Forgers.</li>\n<li><a href=\"/p/kian_jan.md\">kian Jan</a> Beowulf Stablemaster --informent</li>\n</ul>\n<hr>\n<h3 id=\"lagash\">Lagash</h3>\n<ul>\n<li>...#TBD</li>\n</ul>\n<h3 id=\"theatre\">Theatre</h3>\n",
+      "excerpt": "<p>Beruni as only recently ascended as Edo on Lagash. He has his agents in various roles spread throughout Eshar and the Tels.</p>",
+      "meta": {
+        "relativePath": "beruni.html",
+        "createdAt": "2022-07-20T02:28:10.322Z",
+        "lastModified": "2022-07-20T02:28:10.322Z",
+        "size": 394,
+        "formattedSize": "394 Bytes"
+      }
+    },
+    {
+      "id": "boaz",
+      "contents": "<h1 id=\"jefth-boaz\">Jefth Boaz</h1>\n<ul>\n<li>Jonah Beached</li>\n</ul>\n<blockquote>\n<p>Factory Chief and President of Bolsingers College and Mecator’s Folly.</p>\n</blockquote>\n<h3 id=\"jefth-and-the-tome-of-bol\">Jefth and the Tome of Bol</h3>\n<p>He will pay them well to get a contact off of Itsalt Island, near off the coast of Lakash. The contact is the merchant Nain. Jefth will commission Captain <a href=\"/p/.md\">Buckfest</a>. Nain is a complete doucheweasel. He’s stolen the Tome from the Empire, and he’s kinda smug about it. They can find out that he somehow tricked the Regent of Lakash, in fact he used blackmail. He has an annoying habit of somehow knowing everything. He is always asking awkwardly personal questions and then following them up with shocking questions. He will tell them that he has enemies everywhere, and some point on the journey, he will become convinced that a sailor on the boat hates him and wants to kill him.</p>\n<p>The sailor on the boat hates him and is plotting to kill Farris, but they won’t reveal this until the rest of the crew can join them and take down the boat. The pirates come blasting out of the windward side of Kars Island, and bring a very large outrigger with aprox. 200 troops aboard. Buckfest makes a run for it, and he will reluctantly send up a signal for the Cutters, but it is too late, they cannot outrun the outrigger. The players may escape overboard, using their Deep Drafts, or they can stay and die. Buckfest will stay with the ship and will be most likely slain in the assault. If they escape, they will find the Docks and the Chippies swarming with agents of the Empire, mostly Erimesh who are mostly for hire, but also Ubiad agents. </p>\n<p>Skill challenge for the chase. Some Tearers add on, just for the Hunt. It is laundry day in the square, and soap gets everywhere. The horse-market is in full swing. A religious ceremony of worshippers of Obsidian blocks the path, or just a rundown Mammoth. If they are able to capture an Erimesh agent, he might be willing to tell him about his employers. The tome can be used to find an Isin artefact, the Lum, or small drinking pot, but it has to be translated, something the Empire wasn’t able to do, as it is written in Ramesh. In fact, there are few in the city who can read it and fewer who will admit it.</p>\n<p>They will have to go to ground, but if they go to Jefth’s it has been subverted, but that might not be obvious from the outside. They will have to find a place to go to ground. Farris will recommend the most obvious enemies of the Erimesh: the oldblood Esharites, or the Finders. If they don’t want to show this asshat the Bothy, they can stay with Lady Horne or Hiram, if they have good relations with them. At some point, things will get so dicey in the city that even these powerful allies will try to smuggle them out of the city. </p>\n<p>If they get out, or if they start to use the book (Finders, Ava, Bore can read it), it will lead them to Kess Island, and back into the Labyrinth, at which point the book should start to freak them out. It will take them through to the artefact, but they will run into some allies (hard to say, given where/when the artefact might be/be from) who want Farris dead and the book returned to their sactuary. They have a lodestone for the book. Before they can make friends or enemies, the Empire will catch up with them, and they’ll get jumped. Xorns, guys on horses, or ethereal spiders, something that can kinda run with the Tome. The players should have a chance to retrieve it, but if they don&#39;t the lodestone will guide them.</p>\n<h2 id=\"the-artefactcyst\">The Artefact/Cyst</h2>\n<p>They will need the book to get at the thing, but the Empire might have started on that before they arrive. This would be a good thing to expand on. Maybe Mushussu shows up and helps them?</p>\n<h2 id=\"inside-the-artefact\">Inside the Artefact</h2>\n<p>The tome and rest of the Empire solids.</p>\n",
+      "excerpt": "<p>Factory Chief and President of Bolsingers College and Mecator&#x2019;s Folly.</p>",
+      "meta": {
+        "relativePath": "boaz.html",
+        "createdAt": "2022-07-26T03:41:31.256Z",
+        "lastModified": "2022-07-26T03:41:31.256Z",
+        "size": 3774,
+        "formattedSize": "3.7 KB"
+      }
+    },
+    {
+      "id": "bols",
+      "contents": "<h2 id=\"option-harold-bols\">Option Harold Bols</h2>\n<p>An unstoppable force with a happy leap in his step. He has a lot on his plate, and he needs that plate cleaned and put back on the shelf.</p>\n<h3 id=\"the-iron-gate\"><a href=\"/l/the_iron_gate.md\">The Iron Gate</a></h3>\n<p>The main front door of the city. This is Bols’ headquarters. Some prisoners have things to say:</p>\n<ol>\n<li>A caught book thief Porter: “I’m ready to talk”, he can tell you about the next moves of the Society.</li>\n<li>A pirate goes wild and escapes.</li>\n<li>A prisoner who has seen a lot of people recently A lot of traffic by his cell.</li>\n<li>Assault on the Iron Gate, with Bols in command. This is during a panic, jailbreak, or other crisis. Valuable prisoners are probably kept within, or the Regent Yung himself.</li>\n<li>Sarl will try to charm, buy off pursuaede them from engaging in the crisis, or jump them if they are intent on following through.</li>\n</ol>\n<h3 id=\"tearer-training\"><a href=\"/f/the_tearers.md\">Tearer Training</a></h3>\n<p>The Tearers -- Often Citizen bands hired for a particular effort, usually civic and violent in nature. There are glass, clay, and paper Tearers, the last a use of mustering for militia. Glass – water related, or higher paying jobs. Clay, typically delivery or escort. Paper for large-scale jobs (public works) or wartime.  They are largely built of the hill people surrounding the city, ancient enemies, the dogs of the city. There are bands of well-trained Tearers for firefighting and mustering. Bells ringing triple-peals throughout the city signal a mustering.</p>\n<h3 id=\"intakeregistration\"><a href=\"/s/intake.md\">Intake/Registration</a></h3>\n<p>When he can get his hands on them, he want them to do a lot of things, in kinda an order:</p>\n<ol>\n<li>Get registered, give a name, get a chunk of clay.</li>\n<li>Get recruited (badass fight scene)<ol>\n<li>Investigate a bunch of missing books from the Bard’s Library on Broadstreet. </li>\n<li>Go tell those lads that if they are going to pluck a pheasant, they’d better get a pheasant plucker. (he throws the Pall Bears some fresh meat)</li>\n</ol>\n</li>\n<li>He is on the lookout for undead rumors and nasty stuff coming down. Find it!</li>\n<li>Take the Runestone and find out about the nasty stuff. He wants trophies, or whole corpses. Tainted pirates, diseased corpses, all these are welcome as well.</li>\n<li>If he feels that the Moshkans are getting out of hand, he’ll intervene peacefully, and make diplomatic overtures</li>\n<li>He wants you to go after something big.</li>\n<li>He is rounding up people and you are helping or on that list?</li>\n</ol>\n<h3 id=\"host-coverup\"><a href=\"/f/the_host.md\">Host Coverup</a></h3>\n<p>At this point, the Host will intervene and try to confiscate all of their evidence. If they resist the Tearers, they will be arrested, hopefully for something else they have done. If they allow themselves to be arrested, they can appeal to Bols, and if they manage to get an audience with him, but he’s likely to try to get them to do another  job.</p>\n<h3 id=\"the-moveable-library\"><a href=\"/s/university_library#moving.md\">The Moveable Library</a></h3>\n<p>While the Natural College Library is going into an expansion phase, probably taking in content from the two other damaged libraries in town. Lord Saxon wants them to help move certain texts securely. Also helping is Bols and Ava Gavin, if she has been reconciled to Saxon, or perhaps Captain Buckfest if they need a boat.</p>\n<h3 id=\"the-rock\"><a href=\"/l/the_rock.md\">The Rock</a></h3>\n<p>Bols has picked up Sarl, who was acting of a go-between for Mushussu, and has found out since the discovery of the forgeries that Mushussu (via Sarl) was using the Broken Leg as a deaddrop location. Sarl also had chalk, vellum and a flask of oil on him. Jobs might be:</p>\n<ol>\n<li>Go and asses the viabillity of a defunct keep or tower as a base of operations. A large subterrain space would be great.</li>\n</ol>\n<h3 id=\"kars-island\"><a href=\"/l/kars_island.md\">Kars Island</a></h3>\n<p>Forests hold sacred wood and even more importantly: spices and drugs. Bols is used to dealing with the locals respectfully but unknowns with extreme extradition. If there is a lull on Kars, Bols can show up and start searching door to door, with a band of Tearers. He has come overland from the other end of the iron road, and may meet them there, coming the opposite way. If the islands marines show up, they will halt in awe and Bols will move to assist them. Hiram&#39;s sailors he has little time for, but he WILL insist on registering all of the unregistered crew among them.</p>\n<p>Hiram will not be happy about Bols’ presence, but will try to move quickly to put the blame on the crones and frame their actions in the most dangerous light. They have made an infernal pact.</p>\n<h3 id=\"the-harbor-light\"><a href=\"/l/the_harbor_light.md\">The Harbor Light</a></h3>\n<p>Showdown between DeVerre and Philos, The Clerk. Bols is trying to prove he has the right to search the houses for Hatchaxel. DeVerre has to correct him, given the status of Orphanage “Keep no blood” qualifies as a Hospital, and outside 3 miles of the city.</p>\n<ul>\n<li>Bols has probably searched several houses by the time they stop him.</li>\n<li>Philos will interject that the canal allows a border search exception could allow them to search in hot pursuit.</li>\n<li>Bols will swat him down, he will mutter something to the tune of “and by the way, we have a probable suspicion that there is heroin in transit, by some ancient code or other, so they do have the right to examine the bowels of the islanders.</li>\n<li>DeVerre will point out that they are no longer, but if they could all get on with it, they could search the island together. In good faith, he will invite Bols to come with him.</li>\n</ul>\n<h3 id=\"during-riotinvasion\"><a href=\"/r/riot.md\">During Riot/Invasion</a></h3>\n<ol>\n<li>During crisis: there is a big fight here, it would be nice to have a map. Perhaps the cards are map tiles, with sigils on them. The fight should threaten the life or end the life of a close ally (Bols, for instance). Here are some examples<ol>\n<li>Transporting Prisoners – a cart of prisoners, perhaps the town council, maybe some enemies of the city?</li>\n<li>If Ava is part of the prisoners or conflict, she can tell them about the state of the attack that is going on. There are 2 attacks, the big loud one and the quieter one. She knows more about the big loud one and its characteristics.</li>\n<li>A total mistaken identity that is going to cause mayhem.</li>\n</ol>\n</li>\n</ol>\n<h3 id=\"acceptance-ceremoy\"><a href=\"/p/lord_bols.md\">Acceptance Ceremoy</a></h3>\n<p>An Acceptance ceremony, where a poor kid gets their acceptance from Natural College. When the Cursors and sent though, Bols will clear the streets, and if the players succeed in helping him prevent a stampede will get Tearer-points.</p>\n<h3 id=\"the-flint-house\"><a href=\"/l/flint_house.md\">The Flint House</a></h3>\n<p>They will run into Bors, and after ceding neutral territory. He will tell them that he’s worried about his superiors in the Host, and he is at a loss whom to trust.</p>\n<ol>\n<li>“Option Tyranny” Bols tells them that there are rumors that the Iron Gate is compromised, and there is a ton of powerful movement around his superiors. </li>\n<li>He suspects it is more like favors for information.</li>\n<li>A suspect in custody for trial (probably someone like Hatchaxel, Surl, or Porter), but there has been strange security changes.</li>\n<li>The security of Beowulf Castle has been tightened.</li>\n</ol>\n<p><a href=\"#events\">Events</a></p>\n",
+      "excerpt": "<p>An unstoppable force with a happy leap in his step. He has a lot on his plate, and he needs that plate cleaned and put back on the shelf.</p>",
+      "meta": {
+        "relativePath": "bols.html",
+        "createdAt": "2022-07-02T15:38:36.078Z",
+        "lastModified": "2022-07-02T15:38:36.078Z",
+        "size": 7037,
+        "formattedSize": "6.9 KB"
+      }
+    },
+    {
+      "id": "bore",
+      "contents": "<h1 id=\"executor-alain-bore\">Executor Alain Bore</h1>\n<h1 id=\"hadrad\">Hadrad</h1>\n<h3 id=\"the-pattern\">The Pattern</h3>\n<p>Whenever they first are arrested for anything bigish: Alain Bore would like to talk about the Pattern. He regrets their treatment heretofore from the Host, apologizes for his underlings behavior and openly berates his superiors. The Executor notices that you are from out of town and wants you input on the pattern of in particular the lost Ship. The attacks over the years from a <a href=\"/l/the_wave_finder.md\">ghost ship</a> that hits every 50 years. He suspects you might be off that ship.</p>\n<p>This is just a side project, he will get back to his real job unless he can tell them anything about a site they want invesigated, infiltrated, whathaveyou, those guys are bored, and I might have a job for you right now if you&#39;ve shown certain skills. </p>\n<h3 id=\"family\">Family</h3>\n<p>Bore is obsessed with being the usurper, illigimate. This might explain why he has constructed this whole &quot;Executor&quot; station. He can&#39;t escape his debt to his brothers and his horror at the thing he killed. The Demon who was about to marry Ava against her will. </p>\n<p>His belief has always been in the wellbeing of the city and all of it&#39;s peoples. He enfranchised the shakers and movers in the city in the University. </p>\n<blockquote>\n<p>considered historical because their names were taken from older lists that were kept for administrative purposes and could therefore be considered reliable. His solution to the reigns considered too long, then, was to argue that &quot;[t]heir occurrence in our material must be ascribed to a tendency known also among other peoples of antiquity to form very exaggerated ideas of the length of human life in the earliest times of which they were conscious.&quot;</p>\n</blockquote>\n<blockquote>\n<p>Did you fireball my men? Show me that again.</p>\n</blockquote>\n<blockquote>\n<p>Also, sometime he might mention something about the Lady of the Depths, he will then try to get them to help him take on an investigation in that arena.</p>\n</blockquote>\n<blockquote>\n<p>Ok, back to the pattern for a sec, look at these charts of the Islands of Kess &amp; Keers.</p>\n</blockquote>\n<blockquote>\n<p>Parting shot: Have you talked to the Madman?</p>\n</blockquote>\n<blockquote>\n<p>Scene: When the asteroid sent to destroy Kars Island lands, he should be looking out the balcony.</p>\n</blockquote>\n<h3 id=\"more-bore\">More Bore</h3>\n<p>In this case, he’d like the Bindstone, which has proof of the contract between himself and <a href=\"/p/roma.md\">Roma</a>, or perhaps something as important. He does want to bring Saad in to appear for trial, but knows that he might need to remain in the countryside. He does want to bring him back into the fold, and possibly rehire the entire Grey Clerics, if he can find something for them to do. He’s working on it. Once he gets a Ship of the Line made, he can crew it with Grey Clerics. In the meantime, he will give them a brig.</p>\n<h4 id=\"the-story-of-roma-and-bore\">The Story of Roma and Bore</h4>\n<p>They saved each other during a crisis. Bore wanted to get married, so she did, but forced him to sign a prenup, giving her essentially nothing. They cannot find the prenup in their records, so they’ve come to the library to find a way out of this.</p>\n<p>This is a bit of how it went down: <a href=\"/p/roma.md\">Roma</a> had inherited a huge amount of money from her parent’s land, it was completely full of bitumen.</p>\n<h3 id=\"executor\">Executor</h3>\n<p>Most people know that it&#39;s &quot;big shot&quot;, but there aren&#39;t a lot of famous ones. Seems like a new title. Some project between the naval colleges and Host.</p>\n<p>He&#39;s very young for the position, but it came up with a wave of retirements. For many in this rocky political terrian, Bore is their shelter from the storm, holding the city together. He will not hesitate to detain them if he needs them, or to search their stuff, with his agents or just himself.</p>\n<h2 id=\"missing-books-arc\">Missing Books Arc</h2>\n<p>Who is innocent of stealing the books, so knows for sure it wasn’t him. Iis going to come down on everyone like a ton of bricks. He is going to make the most of this bookhunt, grabbing books he wants, executing political rivals, cleaning house upstairs and downstairs, with a pile of burning books in the middle.</p>\n<h2 id=\"the-pattern-1\">The Pattern</h2>\n<p>Bore (as always) think these thefts have a pattern, once he hears of the book the Finders claim to be missing: <a href=\"/l/the_seawurm.md\">The Seawurm</a>’s Ship’s Logs.</p>\n<h2 id=\"anax-shoe\">Anax Shoe</h2>\n<p>Anytime they touch him, they will be recruited by <a href=\"/p/shoe.md\">Anax Shoe</a> – a High Tearer who works for Bore.</p>\n<p>the Firest Forest</p>\n<p>THe will feed them some information, and only if they make an effort.</p>\n<p>The givers of green are healers, with the Finders, somehow</p>\n<p>The Standing Stones are all over the Necropolis, and parts of the Chippies are built on the Standing Stones.</p>\n<p>The criminals in the city are retrained into the Host.</p>\n<p>People have been disappearing. There appears to be a pattern, and the Givers of Green seem to be really implicated, if he can lead them to their own conclusions, the better.\nHe wants to know what the Kracken is looking for.\nHe wants to know anything about the Natural College he can find.</p>\n",
+      "excerpt": "<p>Whenever they first are arrested for anything bigish: Alain Bore would like to talk about the Pattern. He regrets their treatment heretofore from the Host, apologizes for his underlings behavior and openly berates his superiors. The Executor notices that you are from out of town and wants you input on the pattern of in particular the lost Ship. The attacks over the years from a <a href=\"/l/the_wave_finder.md\">ghost ship</a> that hits every 50 years. He suspects you might be off that ship.</p>",
+      "meta": {
+        "relativePath": "bore.html",
+        "createdAt": "2022-07-07T03:19:58.726Z",
+        "lastModified": "2022-07-07T03:19:58.726Z",
+        "size": 4884,
+        "formattedSize": "4.8 KB"
+      }
+    },
+    {
+      "id": "buckfest",
+      "contents": "<h1 id=\"captain-buckfest\">Captain Buckfest</h1>\n<p>Brings extra surl, with a huge floppy hat and oilskins. Covered in salt. He does not like pirates or cutters. He knows the sea, weather and salt. He has spoken to the madman, as he ferried him over from the island. He has also seen the ghost ship, but doesn’t want to discuss it.</p>\n<p>Buckfest is an Edo of the long watches. He has seen much in his time, and it hasn&#39;t made him pleasant or hopeful. His affinity is for Aunt Elisa, but he is more active in his efforts to keep the </p>\n<h2 id=\"old-ways\">Old Ways</h2>\n<p>The more ancient Edo feel that there is too much compromised in the Mes debacle. They will attempt to use Intellect Devourers to inflitrate the University and conduct their business there??</p>\n<p>He likes knives and spirits. He hates the land, freshwater and rope. He has a sloop and a crew of 8 sailors. His crew also keeps several fishing trawlers. </p>\n<h2 id=\"salty-else\">Salty Else</h2>\n<p>He isn&#39;t nearly as reverent as the lesser Edo, but keep a respectful eye on her.</p>\n",
+      "excerpt": "<p>Brings extra surl, with a huge floppy hat and oilskins. Covered in salt. He does not like pirates or cutters. He knows the sea, weather and salt. He has spoken to the madman, as he ferried him over from the island. He has also seen the ghost ship, but doesn&#x2019;t want to discuss it.</p>",
+      "meta": {
+        "relativePath": "buckfest.html",
+        "createdAt": "2022-07-01T20:40:53.543Z",
+        "lastModified": "2022-07-01T20:40:53.543Z",
+        "size": 959,
+        "formattedSize": "959 Bytes"
+      }
+    },
+    {
+      "id": "char",
+      "contents": "<h2 id=\"char\">Char</h2>\n<p>And the entrance to the labyrinth. He will remember them as before, or not at all, at some point. If he is killed, the doors around him open. Meanwhile, he will go into town for fresh eggs, and open a woodshop in the Keep Grounds. The town around the keep are very well-to-do glassbowers. Deverre should have some close scrapes, but be a steadfast friend.</p>\n<p>He has in the satchel: </p>\n<ul>\n<li>The Scroll of Truth</li>\n<li>The Hinge of Dividing</li>\n<li>The Chalk of Creation</li>\n<li>Bahamut&#39;s Tooth</li>\n</ul>\n<p>Meanwhile Char has applied at the bar.</p>\n<p>“You found a way out! You! You did it! We are free! Look, if I ram my head into a wall, it hurts! He suffers a concussion and has to be carried. They find a cart, made for hauling  glass nearby. He wants food. Real food! I’ve got money! We can do this!”</p>\n<p>“Oh yeah, I grabbed some things. This place is so unexpected. I’ve got to talk to someone, I wonder if they speak our language?”</p>\n<p>“Are they even human? What are they gonna look like? Are we talkin’ fish things, rabbit peoples? We going whole hog on the “axolotls are more commonplace than we thought?” </p>\n",
+      "excerpt": "<p>And the entrance to the labyrinth. He will remember them as before, or not at all, at some point. If he is killed, the doors around him open. Meanwhile, he will go into town for fresh eggs, and open a woodshop in the Keep Grounds. The town around the keep are very well-to-do glassbowers. Deverre should have some close scrapes, but be a steadfast friend.</p>",
+      "meta": {
+        "relativePath": "char.html",
+        "createdAt": "2022-07-01T00:55:01.644Z",
+        "lastModified": "2022-07-01T00:55:01.644Z",
+        "size": 1105,
+        "formattedSize": "1.1 KB"
+      }
+    },
+    {
+      "id": "circe_moll",
+      "contents": "<h1 id=\"circe-moll\">Circe Moll</h1>\n<p>She’s been trying to get off the island for years, but has always found a reason to stay. She has apparently lived on the island her whole life, but she looks far older than she is.</p>\n<p>She may start to hide certain things that go on, and tries to keep them from finding the Experiment, including the personal hovels of the islanders. If this doesn’t work, she will distract them somehow:</p>\n<ol>\n<li><p>Porter’s notes carefully rehidden in his safe. They are intelligence reports about the island and it’s customs.The notes seem in proper order, but the man does not. He is addicted to a cocktail of Kars plants and fungus, 15 various hidden satchels they can find if they search the village, and appears to be mad. Porter is a very good spy for the Ymil (Roma or Bore) and their superiors in the Society. Circe knows of Porter’s role for the Ymil, but not anything of the Society project. He is there to whitewash intelligence.</p>\n</li>\n<li><p>Where the madman came from.</p>\n</li>\n<li><p>The ghost ship’s description and name.</p>\n</li>\n<li><p>If they do search the houses, they may notice that some of the beams of the houses are made of parts of the ship that Porter describes. Is he mocking them? Or has he met them before and makes it obvious in pantomime that he’s not a madman? He also is really fungus dependent.</p>\n</li>\n<li><p>House 1: a smoke house House 2: A domicile, circular with bunks. 3. Longhouse made of huge timbers 4. Another house, stone, with a cave. Some shacks.</p>\n</li>\n</ol>\n",
+      "excerpt": "<p>She&#x2019;s been trying to get off the island for years, but has always found a reason to stay. She has apparently lived on the island her whole life, but she looks far older than she is.</p>",
+      "meta": {
+        "relativePath": "circe_moll.html",
+        "createdAt": "2022-07-01T20:42:56.634Z",
+        "lastModified": "2022-07-01T20:42:56.634Z",
+        "size": 1473,
+        "formattedSize": "1.4 KB"
+      }
+    },
+    {
+      "id": "colt",
+      "contents": "<h1 id=\"nielsen-colt\">Nielsen Colt</h1>\n<ul>\n<li>Sapper Colt</li>\n</ul>\n<p>Taresh commander of the Host Corps. Divisions include, but not restricted to the following. If the circumstances allow it, they will build more specialized teams. </p>\n<h3 id=\"josiah-greazy\">Josiah Greazy</h3>\n<ul>\n<li>Hired out of the sappers to blow up Aunt Elsela&#39;s tower, during the Kars Island Horror Timeline.</li>\n</ul>\n<ul>\n<li>Host corps</li>\n<li>Sappers and counter sappers. </li>\n<li>Engineers</li>\n<li>Specialized Tearer Militias</li>\n</ul>\n",
+      "excerpt": "<p>Taresh commander of the Host Corps. Divisions include, but not restricted to the following. If the circumstances allow it, they will build more specialized teams. </p>",
+      "meta": {
+        "relativePath": "colt.html",
+        "createdAt": "2022-07-07T01:42:20.994Z",
+        "lastModified": "2022-07-07T01:42:20.994Z",
+        "size": 416,
+        "formattedSize": "416 Bytes"
+      }
+    },
+    {
+      "id": "dern",
+      "contents": "<h1 id=\"dugma-dern\">Dugma Dern</h1>\n<h2 id=\"the-harbor-master\">The Harbor Master</h2>\n<p>He does keep a network of Natural College sponsors in the Harbor, namely <a href=\"/p/sargent.md\">Sargent Horne</a>.</p>\n",
+      "excerpt": "<p>He does keep a network of Natural College sponsors in the Harbor, namely <a href=\"/p/sargent.md\">Sargent Horne</a>.</p>",
+      "meta": {
+        "relativePath": "dern.html",
+        "createdAt": "2022-07-01T20:45:04.989Z",
+        "lastModified": "2022-07-01T20:45:04.989Z",
+        "size": 150,
+        "formattedSize": "150 Bytes"
+      }
+    },
+    {
+      "id": "deverre",
+      "contents": "<h2 id=\"philip-deverre\">Philip Deverre</h2>\n<ul>\n<li>Philos Pred</li>\n</ul>\n<p>The owner of the island, a Finder with little care for the city, but mostly ignorant of the outside world. He keeps a strange menagerie of pets, including a Hippo. He is indulgent, friendly and a little debauched. He has heard of a great family treasure hidden on the island, or even within the keep. If he learns that it has opened up, he will want to investigate. He has no authority over the guards, but he will try to appeal to Hatchaxel, who is a newcomer. If he is killed and they go through his collection there are bound to be books to return to Bard’s or University Libraries. Some of them would enhance their collection, and be worth a pretty finder’s fee. He is obviously an old believer.</p>\n",
+      "excerpt": "<p>The owner of the island, a Finder with little care for the city, but mostly ignorant of the outside world. He keeps a strange menagerie of pets, including a Hippo. He is indulgent, friendly and a little debauched. He has heard of a great family treasure hidden on the island, or even within the keep. If he learns that it has opened up, he will want to investigate. He has no authority over the guards, but he will try to appeal to Hatchaxel, who is a newcomer. If he is killed and they go through his collection there are bound to be books to return to Bard&#x2019;s or University Libraries. Some of them would enhance their collection, and be worth a pretty finder&#x2019;s fee. He is obviously an old believer.</p>",
+      "meta": {
+        "relativePath": "deverre.html",
+        "createdAt": "2022-07-02T00:11:31.966Z",
+        "lastModified": "2022-07-02T00:11:31.966Z",
+        "size": 741,
+        "formattedSize": "741 Bytes"
+      }
+    },
+    {
+      "id": "doctor_lund",
+      "contents": "<p>Doctor Lund</p>\n<p>Walking along the road, TP comes upon a <a href=\"/p/aunt_agnus.md\">old woman</a>, doing laundry by a wide pool with a stream. She can tell you some things, but she will ask you who you are and where you are going. If you show her your acceptance letter into the Natural College, she will at first indulgently jibe you for taking her for a rube, but if she gets a look at it, she&#39;ll tell you to put it away and be careful who you show before you get to the city. She asks where you&#39;re from.</p>\n<p>&quot;Nununa, huh, wise choice. You should know that it&#39;s dangerous to flash that around anywhere. You shouldn&#39;t share certain things with strangers. But let me introduce myself.&quot;</p>\n<p>&quot;My name is Aunt Agatha. What is yours?&quot;</p>\n<p>&quot;I have a lot of laundry to do, and more tommorrow, most likely. They say that Doctor Lund of the Natural College is coming to stay at the Pearled Pig. I&#39;ve actually heard good things about him, unlike some of that order.&quot;</p>\n<p>After you load the stuff on the cart, she will call her donkey: Ghoti. He will appear from the pool and dance around her. He is a <a href=\"https://aonprd.com/MonsterDisplay.aspx?ItemName=Enisysian\">eel</a> creature who has formed a bond with Ghoti</p>\n<p>&quot;He does have his ecccentricities however, you&#39;ll see what I mean. It is unusual, but not unheard of to have a great wizard visit. For many years, Tercal Tower was home to Doctor Fillstorm, and much of the bounty of the surrounding hillsides comes from his agronomy work.&quot;</p>\n<p>Once TP finds the Pearled Pig, it will be packed. Farmers coming to town with food, merchants coming to trade, people coming out of the woods, off the river. The new threshing barn has become a common room still has place for the night.</p>\n<p>Staying on the treshing floor are:</p>\n<ol>\n<li><a href=\"/p/madman.md\">The Madman</a>, Idim Wayth. He has not yet seen Aos, but knows he is searching for something important. He will ask TP for help. He is throwing salt and drawing circles on the ground to protect himself.</li>\n<li>Johan Smith: He&#39;s working, watching over the carnival, he&#39;s rented out his house to a wealthy merchant, and his stables to a dragon prince. He knows the madman from relatives, and thinks he needs some help, or at least to let his family know where he is.</li>\n<li>Meribeth Hammel: She is the owner of the Pearled Pig, and is staying here as well</li>\n<li>Roberto Chandler: a halfling candlemaker, in town to keep the place lit!</li>\n<li>Alan Ash: aka Alain Bore: Standing in as a guard that Meribeth has hired. Came with trustworthy City credentials. Not many words, but concerned that bad things are going to happen.</li>\n<li>The Cider and the cider makers (there are 4 Cheeries)<ul>\n<li>Brewer Savern Cheery</li>\n<li>Cooper Bully</li>\n<li>Farmer Nell</li>\n<li>Server Maude</li>\n</ul>\n</li>\n</ol>\n<p>Then Doctor Lund&#39;s mystery tour arrives.</p>\n<p>Madness:</p>\n<p> &quot;The ship that has lain in gold will find the waves again.&quot;</p>\n<p> &quot;The <a href=\"/p/parson.md\">Sun King</a> will return!&quot;</p>\n<p> &quot;The Dragons will return! Hark, the tribes of Dan are gathered! The Death of Seven Husbands shall be Queen!&quot;</p>\n<p>Who steps in to take over Lund? Who rubs his nose in it? That doesn&#39;t seem worthwhile.</p>\n<p>What are in the 3 ships at Barrum? The Treasure, the Kraken and the Library.</p>\n<p>The Wind Finder</p>\n<p>A black hulled ship with a bright yellow sail. Inside is a huge horde of fake coins (mostly wooden tokens covered in yellow paint and glitter). </p>\n<p>The Face Hugger</p>\n<p>The bed of the Kraken. </p>\n<p>The Observers</p>\n",
+      "excerpt": "<p>Doctor Lund</p>",
+      "meta": {
+        "relativePath": "doctor_lund.html",
+        "createdAt": "2022-04-08T03:19:11.350Z",
+        "lastModified": "2022-04-08T03:19:11.339Z",
+        "size": 3392,
+        "formattedSize": "3.3 KB"
+      }
+    },
+    {
+      "id": "eduward",
+      "contents": "<h1 id=\"prime-eduward\">Prime Eduward</h1>\n<p>Principle of Fleet School, a damn charming man. His mistress is likely the thrower of acid.</p>\n<p>Theatre.</p>\n",
+      "excerpt": "<p>Principle of Fleet School, a damn charming man. His mistress is likely the thrower of acid.</p>",
+      "meta": {
+        "relativePath": "eduward.html",
+        "createdAt": "2022-07-20T02:13:26.657Z",
+        "lastModified": "2022-07-20T02:13:26.657Z",
+        "size": 118,
+        "formattedSize": "118 Bytes"
+      }
+    },
+    {
+      "id": "elb",
+      "contents": "<h2 id=\"joanna-elb\">Joanna Elb</h2>\n<p>Lake merchant, has the most difficult position of having to work with the City and with Koinsung</p>\n",
+      "excerpt": "<p>Lake merchant, has the most difficult position of having to work with the City and with Koinsung</p>",
+      "meta": {
+        "relativePath": "elb.html",
+        "createdAt": "2022-04-08T03:19:11.358Z",
+        "lastModified": "2022-04-08T03:19:11.356Z",
+        "size": 115,
+        "formattedSize": "115 Bytes"
+      }
+    },
+    {
+      "id": "ella",
+      "contents": "<p>The Chosen</p>\n<p>She is named Ella Henning. She knows she wants to go all the way, but she is afraid of overstreching her resources. Her visions are clear: the Ocean must claim it’s own. They must return from whence they came. She has enchanted and imprisoned an Owlbear.</p>\n",
+      "excerpt": "<p>The Chosen</p>",
+      "meta": {
+        "relativePath": "ella.html",
+        "createdAt": "2022-04-08T03:19:11.367Z",
+        "lastModified": "2022-04-08T03:19:11.360Z",
+        "size": 275,
+        "formattedSize": "275 Bytes"
+      }
+    },
+    {
+      "id": "esme",
+      "contents": "<h1 id=\"esme-thornshield\">Esme Thornshield</h1>\n<h2 id=\"esme-thornshield---the-exploding-town\">Esme Thornshield  &amp; The Exploding Town</h2>\n<p>Warband leader of the Prince’s Wolves. Her home town exploded and there was only one survivor. She is sure the Host is behind the attacks, and sends them to the Iron Gate to see what information they can gather. Also, there was a survivor of the explosion, being held by the <a href=\"/f/moska.md\">Moska</a>, and she wants to spring the survivor who is kept at the Bog Dogs. \n“This won’t be boring”.</p>\n<h2 id=\"the-bog-dogs\"><a href=\"/f/the_bog_dogs.md\">The Bog Dogs</a></h2>\n<p>They will have a tough time breaking in, but with some contacts and moving the right pieces, they should be able to at least get access to the survivor. Esme might come along with them in disguise. Otherwise, they are to deliver her to Esme’s estate on Sheep Island. Either way, the Sappers catch up with them.</p>\n<h2 id=\"the-siege-of-sheep-island\">The Siege of Sheep Island</h2>\n<p>Two words: white phosphorus fire. The <a href=\"/f/def\">Mynim</a> light the place up and send a fireboat to shore. The Clinkers run up the beach, forcing a melee, veterans and rogues. The bring mastiffs, a ton of them. There are some ancient blooded enemies of the Thornshields, and band called Blood Gang.</p>\n<p>The whole wood catches in fire. The attack is more than overwhelming, it obviously involves several coordinated groups, a difficult-to-put-together mismash. Someone with very deep pockets indeed. The Blood Gang is out there to kill Esme, if they rescue her, the prisoner is re-captured, otherwise, they bear the brunt of an insane amount of Tearers before they slink off.</p>\n<p>Falstaff will arrive and tell them how they can counter-track the prisoner. This might be because he had been approached, he discloses as much as he trusts them with. But they can track the prisoner. It is a tearer stronghold, the Breighton Brothers. They will have some work cut out for them. </p>\n<h2 id=\"throw-me-in-honey\">Throw me in Honey</h2>\n<p>The Tearer militia called &quot;The Brothers&quot; are the most closeted bunch you’ve ever met, think Proudboys who are allowed circlejerks. You probably <em>have</em> to kill these guys. For me. If they do so, Bore will have had time to get in and out and destroy evidence. If they get done too quickly, he will send someone to show up with a group of soldiers and wipe the place. If they are really sneaky sneaky they can get some compromat on Bore.</p>\n<p>What does compromat on Bore look like? Well, for one, he was working for the Host.</p>\n<p>While Saad Khan was first given command, he was assigned the </p>\n",
+      "excerpt": "<p>Warband leader of the Prince&#x2019;s Wolves. Her home town exploded and there was only one survivor. She is sure the Host is behind the attacks, and sends them to the Iron Gate to see what information they can gather. Also, there was a survivor of the explosion, being held by the <a href=\"/f/moska.md\">Moska</a>, and she wants to spring the survivor who is kept at the Bog Dogs. \n&#x201C;This won&#x2019;t be boring&#x201D;.</p>",
+      "meta": {
+        "relativePath": "esme.html",
+        "createdAt": "2022-07-17T03:03:35.864Z",
+        "lastModified": "2022-07-17T03:03:35.864Z",
+        "size": 2442,
+        "formattedSize": "2.4 KB"
+      }
+    },
+    {
+      "id": "fallstaff",
+      "contents": "<h1 id=\"shawen-fallstaff\">Shawen Fallstaff</h1>\n<p>The keeper of the brains. With <a href=\"/p/lamark.md\">Lamark</a>, the co-founder of the College of the Mind at Bolsigners.</p>\n<h2 id=\"college-of-the-mind\">College of the Mind</h2>\n<p>If the compromise over text is reached, the Society will allow the elevation of the College of the Mind to a High College. It will take on students of the Society and several professors from Bolisingers and the Natural College.</p>\n<h2 id=\"introspection\">Introspection</h2>\n<p>Wherein the mind does examine itself.</p>\n",
+      "excerpt": "<p>The keeper of the brains. With <a href=\"/p/lamark.md\">Lamark</a>, the co-founder of the College of the Mind at Bolsigners.</p>",
+      "meta": {
+        "relativePath": "fallstaff.html",
+        "createdAt": "2022-08-05T01:10:37.557Z",
+        "lastModified": "2022-08-05T01:10:37.557Z",
+        "size": 451,
+        "formattedSize": "451 Bytes"
+      }
+    },
+    {
+      "id": "farris",
+      "contents": "<h1 id=\"farris\">Farris</h1>\n<p><a href=\"/f/danoi.md\">Danoi</a> Villian. He was once the quartermaster for danoi infantry within the defenders, but he has been moved to training the </p>\n",
+      "excerpt": "<p><a href=\"/f/danoi.md\">Danoi</a> Villian. He was once the quartermaster for danoi infantry within the defenders, but he has been moved to training the </p>",
+      "meta": {
+        "relativePath": "farris.html",
+        "createdAt": "2022-04-08T03:19:11.394Z",
+        "lastModified": "2022-04-08T03:19:11.388Z",
+        "size": 151,
+        "formattedSize": "151 Bytes"
+      }
+    },
+    {
+      "id": "fred",
+      "contents": "<h2 id=\"fred-deverre\">Fred Deverre</h2>\n<ul>\n<li><p>Glassmaker</p>\n</li>\n<li><p>His boat: &quot;The slow clock&quot;</p>\n</li>\n<li><p>Finder heir (human)</p>\n</li>\n<li><p>He has an affection for Porter, as they have taken the fall and murdered their own father to save his. </p>\n</li>\n<li><p>Bore is the cupbearer who brought the Lighthouse back into position. He has restored the Finders to thier proper place on the three councils. You&#39;ll find they avail themselves of every seat at every meeting. They also have 3 ways to weasel seats that they&#39;ve come up with over the years. The goal here is to get the pirates and the city people to agree to use their strenths together. Create a weasel-house for the weasels to have weasel dances (it is practically a school of martial arts). Then there are 2 other chambers that allow for actual deliberation on these fronts: Defense &amp; Offense. If you are in the wrong house, you get expelled to the other one.</p>\n<p>The University was an idea drawn from the unification of several houses of learning, </p>\n<p>Here is the story of his birth and his father. When the Host moved the Navy to Hook Island, there were workers from the Hill people brought in to build the infrastructre, farming patties, canals and bridges. Some of these hill people were highly skilled in these things and prominent amoung then was Tomas, Fred&#39;s father. He gave away all of his wealth to the less fortunate and lived by gifts from the community. King Solen began a decree that the bodies of the dead were to be brought to the necropolis and buried in the Hadrad style. It became illegal to burn corpses in the hill people style, or to leave them out for the birds. </p>\n</li>\n</ul>\n<p>His father began burning the corpses of friends and family, and also people found him, asking to be allowed to pay to have their loved one burn, but once he knew of a body, he would go and burn it, so long as it was of the hill people. </p>\n<p>Then he was banished to the hills and all of his household moved to Tel Kur, but even there he was harried by the Host until he and his wife found a hut in the wilderness.  </p>\n<p>The Hadrad were driven from the city and from the right and left resevoirs. King Solen was slain by his sons, and the twins fled to Silver Mountain. The Youngest son inherited the position as Leader of Hosts. </p>\n<p>He hired Tomas&#39; brother Deverre to oversee the rebuilding (The Current Lord Deverre&#39;s adoptive father) of the city. He invited Tomas to return and reestablish his place in the City, but he returned to Tell Kur and made a safe place for the hill people there.</p>\n<p>The Lords of the City sent a man to kill Tomas, but Tomas was able to convince him that he was innocent of the plot he was accused of, and they were able to fake his death.</p>\n<p>His son was sent to Deverre for safekeeping, and to remove suspicion. Fred grew up by the lighthouse, best friends with Deverre&#39;s son, John.</p>\n<p>There is something Babbi Fran has revealed to Tomas that will cure Ava of her curse. It may have to do with the wolf blood. It may actually be driving out a demon, or something like that.</p>\n<p>Fred: I&#39;m not here to take your city away. I&#39;m here to make sure you have a home to come back to, Keep no Blood.</p>\n",
+      "excerpt": "<p>Glassmaker</p>",
+      "meta": {
+        "relativePath": "fred.html",
+        "createdAt": "2022-07-14T04:02:15.966Z",
+        "lastModified": "2022-07-14T04:02:15.966Z",
+        "size": 3115,
+        "formattedSize": "3.0 KB"
+      }
+    },
+    {
+      "id": "hamfast",
+      "contents": "<h2 id=\"hamfast-salavar\">Hamfast Salavar</h2>\n<ul>\n<li>Hamfist &amp; worse</li>\n</ul>\n<p>Owner of several workshops in the Factory, he also has the position of Factor within the Host, and also teaches at Beowulf. He knows of the iron road, and of the mining possibilities of the coast. His interest is the well-being of Host operations along the coast, and wants the party to find a missing merchant, Roberto Milano. Finding the merchant will make him happy. Once he has maps and funding he will need bodyguards.</p>\n<p>Bodyguards</p>\n<p>He needs some all of a sudden, and you find that Saad Khan has escaped the Iron Gate. He knows a lot a lot, and was able to take down Saad with a real case, but left out the part about framing Saad. </p>\n<p>Immediate Dangers to the City, according to Hamfast</p>\n<p>There are 2 principle weaknesses he is aware of, the Chosen of Tiamat, of the Shadow Government, Lakesh peoples, and they elect a Queen. The current queen is behaving very unqueen, and there are very strange things going on in the Chosen. She is very young, and she believes she has visions and dreams, and seems to take certain historical interpretations of texts literally. So far, she has had success on success in her judgements. Her followers have started dressing in bright colors and </p>\n<p>Half Shield the King-in-exile of the Erimesh.</p>\n<blockquote>\n<p>He knows that Bore knows about the Orc attacks. The Iron Road to the North is blocked.</p>\n</blockquote>\n<blockquote>\n<p>He is Ironfolk, of the Silver Mountain. He is trying to get into building boats, and needs some contact with the water folks.</p>\n</blockquote>\n<blockquote>\n<p>Bore wants something found.</p>\n</blockquote>\n",
+      "excerpt": "<p>Owner of several workshops in the Factory, he also has the position of Factor within the Host, and also teaches at Beowulf. He knows of the iron road, and of the mining possibilities of the coast. His interest is the well-being of Host operations along the coast, and wants the party to find a missing merchant, Roberto Milano. Finding the merchant will make him happy. Once he has maps and funding he will need bodyguards.</p>",
+      "meta": {
+        "relativePath": "hamfast.html",
+        "createdAt": "2022-04-08T03:19:11.401Z",
+        "lastModified": "2022-04-08T03:19:11.399Z",
+        "size": 1545,
+        "formattedSize": "1.5 KB"
+      }
+    },
+    {
+      "id": "harper",
+      "contents": "<h1 id=\"wes-harper\">Wes Harper</h1>\n<p>Orthodox but kind, he serves as deathmarker for much of the Kirkwalls. Wes is also interested in hiring them to:</p>\n<ol>\n<li><p>Go clean out a part of the old Coombs that have been invested.</p>\n</li>\n<li><p>Flush out <a href=\"/p/kessler.md\">Kessler</a>, first encounter with him?</p>\n</li>\n<li><p>Flush out <a href=\"/p/obel.md\">Obel</a>, working for the Theatre.</p>\n</li>\n<li><p>Flush out <a href=\"/p/mushussu.md\">Musushu</a></p>\n</li>\n<li><p>Bring down <a href=\"/p/kale.md\">Kale</a>.</p>\n</li>\n<li><p>Find the <a href=\"/i/dragonwood.md\">Dragonwood</a>.</p>\n</li>\n</ol>\n",
+      "excerpt": "<p>Orthodox but kind, he serves as deathmarker for much of the Kirkwalls. Wes is also interested in hiring them to:</p>",
+      "meta": {
+        "relativePath": "harper.html",
+        "createdAt": "2022-07-20T02:17:08.351Z",
+        "lastModified": "2022-07-20T02:17:08.351Z",
+        "size": 466,
+        "formattedSize": "466 Bytes"
+      }
+    },
+    {
+      "id": "hatchaxel",
+      "contents": "<h2 id=\"hatchaxel\">Hatchaxel</h2>\n<p>-- Head first</p>\n<hr>\n<hr>\n<blockquote>\n<h2 id=\"beowulf-enforcer\">Beowulf Enforcer</h2>\n<p><em>Taresh Captain</em></p>\n<hr>\n<ul>\n<li><strong>Armor Class</strong> 20</li>\n<li><strong>Hit Points</strong> 82 ()</li>\n<li><strong>Speed</strong> 30ft.</li>\n</ul>\n<hr>\n<table>\n<thead>\n<tr>\n<th align=\"center\">STR</th>\n<th align=\"center\">DEX</th>\n<th align=\"center\">CON</th>\n<th align=\"center\">INT</th>\n<th align=\"center\">WIS</th>\n<th align=\"center\">CHA</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"center\">16 (+3)</td>\n<td align=\"center\">13 (+1)</td>\n<td align=\"center\">15 (+3)</td>\n<td align=\"center\">13 (+2)</td>\n<td align=\"center\">20 (+5)</td>\n<td align=\"center\">18 (+4)</td>\n</tr>\n<tr>\n<td align=\"center\">___</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\">- <strong>Condition Immunities</strong> None</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\">- <strong>Senses</strong> passive Perception 18</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\">- <strong>Languages</strong> Eschar, Taresh</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\">- <strong>Challenge</strong> 5</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\">___</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\">### Abilities</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"center\"><strong><em>Eschar Guard.</em></strong> Advantage if adjacent to another guard.</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n</tbody></table>\n</blockquote>\n<blockquote>\n<h3 id=\"actions\">Actions</h3>\n<p><strong><em>Attack.</em></strong> <em>Maul:</em> +6 to hit, reach 5ft., two attacks. <em>Hit</em> 1d6 + 3<br><strong><em>Attack</em></strong> <em>Halberd:</em>  +6 to hit, reach 10 ft., two attacks. <em>Hit</em> : 1d10 + 3 slashing damage.</p>\n</blockquote>\n<blockquote>\n<p><strong><em>Abjure Enemy.</em></strong> Paladin feature\n<strong><em>Divine Sense.</em></strong> Paladin feature\n<strong><em>Lay on hands.</em></strong> Paladin feature</p>\n</blockquote>\n<blockquote>\n<h3 id=\"bonus-actions\">Bonus Actions</h3>\n<p><strong><em>Vow of Emnity.</em></strong> Paladin feature</p>\n</blockquote>\n<h3 id=\"kess-isand\">Kess Isand</h3>\n<p>He’ll try to use the confusion of their arrival to snatch the valuables and run it. He’ll have paid the <a href=\"/f/ymil.md\">Ymil</a> for a boat and supplies. He will deliver the books/and or gold into the boat and meet up with them on Crow Island. He can get the gold to the harbor via a the old canal. Anyone noticing this detail will have to be jumped on by <a href=\"/p/porter.md\">“Porter”</a> and convinced that he had nothing to do with it, he was just following old protocols. He will try to slip in and snatch the books if Hatchaxel can’t get them out, if he can do without blowing cover.</p>\n<h2 id=\"running-down-hatchaxel\">Running down Hatchaxel</h2>\n<p>Running down with Fred. If they&#39;ve gotten Fred&#39;s dingy &quot;The Slow Clock&quot;, Hiram may pick them up on the other side of the island. <a href=\"/p/hiram.md#hunting-hatchaxel\">See Hunting Hatchaxel</a></p>\n<h3 id=\"the-trial\">The Trial</h3>\n<p>The Rat Hunt -- an annual event held by House Beowulf to ferret out the Rats of the city. This was a juballee round-up an internal housekeeping of the Tearers. During this rat hunt, a BRH member, Sorrel was goading the Tearers into indescretion and Hatchaxel showed up just when the shit hit the fan and several people ended up killed.</p>\n<h3 id=\"they-jump-off-their-ship\">They Jump Off Their Ship</h3>\n<blockquote>\n<p>“Oi! This place looks like the sky-god sons of nurtured sons, run by a sun-god king!”  </p>\n<p>“No, look, they got paper. They have enough trees to.. To… fix the boat!”</p>\n</blockquote>\n<blockquote>\n<p>“Awe, they have figs too! What do these people know?”</p>\n</blockquote>\n<blockquote>\n<p>“They are going to die, and their city will fall, and the statue of the sky-god will decorate the prow of the boat.”</p>\n</blockquote>\n<blockquote>\n<p>“That was so long ago! We were kids!”</p>\n</blockquote>\n<blockquote>\n<p>“We didn’t even know what to do?”<br>“But now!”<br>“NOW!”</p>\n</blockquote>\n<blockquote>\n<p>“Let’s party!”</p>\n</blockquote>\n<p>Bruce has a story for you. He has seen most everyone he grew up with die violently. He’d kinda expected to have a village, get to know his 500 people, then get kids, get a garden. Boy that sort of thinking has been out the window, for, like a long long time. He is pushing 40 and looking awesome. He wants to know if there are any girls there.</p>\n<p>They are super friendly and highly volatile and unbearable. They try to light the sewer on fire, then they sneak into the gardens to hunt exotic animals.</p>\n<p>They will tell you when they join the BRH they learned some upsetting things that <a href=\"/p/bore.md\">Bore</a> could use to shore up the defenses of the city. He is probably 2 steps ahead of them on most and too many steps behind on:</p>\n<ol>\n<li><p>The water situation.</p>\n</li>\n<li><p>The salt situation.</p>\n</li>\n<li><p><a href=\"/e/black_ships.md\">The black ships</a> issue.</p>\n</li>\n<li><p>The Silver Mountain.</p>\n</li>\n<li><p>The Depths issue</p>\n</li>\n<li><p>BRH private secret.</p>\n</li>\n</ol>\n",
+      "excerpt": "<p>-- Head first</p>",
+      "meta": {
+        "relativePath": "hatchaxel.html",
+        "createdAt": "2022-07-01T02:03:12.873Z",
+        "lastModified": "2022-07-01T02:03:12.873Z",
+        "size": 3556,
+        "formattedSize": "3.5 KB"
+      }
+    },
+    {
+      "id": "hiram",
+      "contents": "<h1 id=\"hiram-naxas\">Hiram Naxas</h1>\n<p>Is intense. If he hears that Hatchaxel is on the run, he will run them down with his seawolves. He will overtake the yacht, take her or sink her. His mania and ship cojoin in such beauty, you realize he a thing of the sea itself, a spirit of thunder and lightening, waves and wind.</p>\n<h3 id=\"sea-caves\">Sea Caves</h3>\n<h3 id=\"cutter-hiram-naxas\">Cutter Hiram Naxas</h3>\n<p>Pirate and Sealord, a servant of Edo. He has been behind most of the attacks, so far. He will probably attack the party and maybe ask questions later, if he finds them tough to crack.</p>\n<h3 id=\"giver-of-green\">Giver of Green</h3>\n<p>He is determined to use the chaos created by the ghost ship to his advantage. He wants his marines to take the settlement and force the crones to convene the Game. He suspects someone is manipulating them, or somehow keeping them captive. He doesn’t know that Bore is using him. He will probably kill Porter if we figures out what he is doing there.  </p>\n<p>He will not be happy about Bols’ presence, but will try to move quickly to put the blame on the crones and frame their actions in the most dangerous light.</p>\n<h3 id=\"hunting-hatchaxel\">Hunting Hatchaxel</h3>\n<p>He want them to raise sails fore and aft. He explains running-rigging like this “you have to feel which way the rope doesn’t want to go and make it go.”</p>\n<p>He then later, when the weather does a crazy turn. Square sails! Every inch up top! And take down the gaff. She likes flying straight over the ways, Keep an eye on your lines!“ And he spins the wheel, ties it to a rope around his foot and jumps to the rescue. He is clearly awesome.</p>\n<p>He is going to have them run forward and raise a top-gallant. Even if it is raining, they might be able to spot the ettercaps amoung the crew, or notice that some of the spars are tightened with a find monofiliment thread, and sealed with resin. If they can get the topgallant up, they or if they botch the gaff, he&#39;ll just dump them in the ocean and toss them potions.</p>\n<p>Then he tosses them each a godown potion, while they stand in the sudden calm of the deck. All of the hands are scrambling down to war positions. As they jettison the evidence, Hiram is watching on the telescope. Hiram tells them, “Shuck over m’lads, get that strongbox and we’ll be back for ye in an hour, and stay under until you can breathe the air. </p>\n<p>Buey, rope, anchor, he tosses it at the centre of the splash. There isn’t much wind, Hiram knows that they can outsail him for a bit, but when they out of the lee of the horn, the wind will open up. He promises to be back in an hour when the potion wears off and tells him he needs every sailor aboard to handle the ship.</p>\n<blockquote>\n<p>If they have the artifacts with them when Hiram takes control of the situation, he will certainly raise an eyebrow at the satchel, but he won&#39;t push them about the contents. He&#39;ll be sure to escort </p>\n</blockquote>\n<h2 id=\"down-in-the-depths\">Down in the Depths</h2>\n<p>The line pays way way out. They are finally far enough out to meet the Kraken’s people. They have the box and merely want to talk to you about it before you go. Skum look mostly human, but they are capable of stripping down and turning into Slimefish.</p>\n<p>They are the hagfish people, and can bring a wash stream of slime twisting all around you, while their friends finish you off. Then sahaguin attack, pinging the water with electric pulses and with a stun and finish attack. They are insanely deady and only with the healing of the Slimy Druidess do they make it through, if they have left her alive.</p>\n<h3 id=\"edo-hiram\">Edo Hiram</h3>\n<p>He has made the deal with the depths.</p>\n",
+      "excerpt": "<p>Is intense. If he hears that Hatchaxel is on the run, he will run them down with his seawolves. He will overtake the yacht, take her or sink her. His mania and ship cojoin in such beauty, you realize he a thing of the sea itself, a spirit of thunder and lightening, waves and wind.</p>",
+      "meta": {
+        "relativePath": "hiram.html",
+        "createdAt": "2022-07-02T14:23:33.412Z",
+        "lastModified": "2022-07-02T14:23:33.412Z",
+        "size": 3469,
+        "formattedSize": "3.4 KB"
+      }
+    },
+    {
+      "id": "holden",
+      "contents": "<h1 id=\"yuri-holden\">Yuri Holden</h1>\n<p>Beowulf student, in training under <a href=\"/p/inajon.md\">Teledice</a>.</p>\n",
+      "excerpt": "<p>Beowulf student, in training under <a href=\"/p/inajon.md\">Teledice</a>.</p>",
+      "meta": {
+        "relativePath": "holden.html",
+        "createdAt": "2022-04-08T03:19:11.426Z",
+        "lastModified": "2022-04-08T03:19:11.421Z",
+        "size": 77,
+        "formattedSize": "77 Bytes"
+      }
+    },
+    {
+      "id": "horne",
+      "contents": "<p>Sargent Horne</p>\n<p>He is an old Sargent. Dirty as the day is long, absolutely indispensable, he works for everyone and has a price for anything. He only works for the Ymil more than anyone else because he is afraid of them. He is sweet on Roma and works his tush off to impress her.</p>\n<p>Lady Horne and the Painting of the Windfinder</p>\n<p>He is of <a href=\"/f/chondros.md\">Chondros</a>, a brisk <a href=\"/f/danoi.md\">Danoi pirate</a>.</p>\n<p>There is a exhibition of art at the Fleet School Keep, and the Lady Horne has invited the public to come and view them. The pieces are from most of the finest artists, living and dead. They depict the history of Eshar, from the fall of the old city (now <a href=\"/l/tell_kalam.md\">Tell Kur</a>) , the drowned city <a href=\"/l/eabakzu.md\">Eabakzu</a>, and the city of the Sun. Then: the Windfinder coming into the city in tatters, and the coming of the Danoi and the Silvermen. Lady Horne is of an old Esherite blood, he is her cousin, but a very different kind of Horne.</p>\n<p><a href=\"/f/darker_faire.md\">The Festival</a></p>\n<p>Event: Revellers visit, overdressed, and dump their coats and stuff in a makeshift coat closet, leaving a drunken team of guards.</p>\n<p>Event: Dancing and music, there are several people to meet here:</p>\n<blockquote>\n<p>Admiral Josriel</p>\n</blockquote>\n<blockquote>\n<p>Hiram Naxas – dances with Lady Horne</p>\n</blockquote>\n<blockquote>\n<p>Fat Mat – catering?</p>\n</blockquote>\n<blockquote>\n<p>Nobles: </p>\n<ul>\n<li>Prime Eduward</li>\n<li>Philip&gt;  Deverre</li>\n<li>Yuri Holden</li>\n<li>Duchess Vaunne of Beowulf</li>\n<li>Lord Saxon</li>\n<li>Many lesser lights</li>\n</ul>\n</blockquote>\n<blockquote>\n<p>The non-nobles seem to know to stay away from the party.</p>\n</blockquote>\n<p>Event: A servent or someone throws nitric acid on Lady Horne</p>\n<p>Event: The servent is arrested, but she obviously seems confused. She keeps talking about they painting of the Windfinder.</p>\n<p>Event: They catch up with the painter, and something goes down, if they fail, a large portion of the city is destroyed.</p>\n",
+      "excerpt": "<p>Sargent Horne</p>",
+      "meta": {
+        "relativePath": "horne.html",
+        "createdAt": "2022-07-02T01:17:37.713Z",
+        "lastModified": "2022-07-02T01:17:37.713Z",
+        "size": 1829,
+        "formattedSize": "1.8 KB"
+      }
+    },
+    {
+      "id": "inajon",
+      "contents": "<h1 id=\"inajon-teledice\">Inajon Teledice</h1>\n<p>The Catlord. He works in the cellars of most of the data-heavy buildings in the City. He excells at pest removal and milk-delivery.</p>\n",
+      "excerpt": "<p>The Catlord. He works in the cellars of most of the data-heavy buildings in the City. He excells at pest removal and milk-delivery.</p>",
+      "meta": {
+        "relativePath": "inajon.html",
+        "createdAt": "2022-06-14T02:45:53.206Z",
+        "lastModified": "2022-06-14T02:45:53.206Z",
+        "size": 156,
+        "formattedSize": "156 Bytes"
+      }
+    },
+    {
+      "id": "iorek",
+      "contents": "<h1 id=\"iorek\">Iorek</h1>\n<p>Iorek conducts research for Edo Rian. He wants to experiment on people, and the plague is an exellent oppurtunity. </p>\n<h2 id=\"thronshields-blood\">Thronshield&#39;s Blood</h2>\n<p>He has a vial of it, but it is no longer living. He has learned much from it, and has been trying to piece together a cure for the plague.</p>\n<p>First really really corrupt Wizard they meet. He is always looking for new blood and pays a premiem for it. He has been buying Erimesh slaves and testing them for resistance to the disease. He has contracted the disease and lived, but the only slave that lived has turned out to be his bastard son.</p>\n<p>He has been working with the <a href=\"/f/the_erimesh.md\">Erimesh</a> on the digsite and has been helping transcribe the language into Eshar. But something isn&#39;t fitting into the syntax.</p>\n<p>This piece of human garbage has been buying slaves from all markets and infecting them with black. He has tried to reduce the dosage, but as it is an infection, they have all succumbed to it.</p>\n<h2 id=\"encounter-with-the-hadra\">Encounter with the Hadra</h2>\n<p>He was trying to find out what staved off the curse after his beloved and her family died of the black, but his son survived. He&#39;d been trying to find out how to pass the blood though to blood. This bound them back to their animal forms. </p>\n<p>If they are not able to wring this confession from him, <a href=\"/p/fallstaff.md\">Fallstaff</a> can later, in a more pitiful if not humorous scene:</p>\n<p>You can start as an interrogated prisoner, and creschendo toward the end.</p>\n<p>&quot;Before you kill me there is something more important than either of our lives I must tell you!&quot;</p>\n<blockquote>\n<p>He was a very tall man, clad in steel mail finer than I have ever seen. It moved like rough cloth and covered his neck. It was dyed or stainded or powder-coated in something that made it really red. In his hands he held a helmet of horns, which he sat down and bid me and Erwin to sit next to. When he motioned, I could see that could see that there were 15 more tall figures all clad in green... And so I sat. He sat then and asked me: &quot;Do you know why we are here?&quot; -- I said it couldn&#39;t be all that bad, with trade and whatnot and how&#39;s about the higher learnin&#39; and all Que Lorisumpisuemus he&#39;s talkin&#39; Urchar. He askes me about the Pacts and I tells him some things he didn&#39;t know and pretty quick he&#39;s sent his army, (cause there was more than 16) back North, but he&#39;s put on his hat. Run away!&quot;</p>\n</blockquote>\n<p>Then, because this guy is such a jerk he always keeps something back, if they convince him further:</p>\n<p>&quot;And then he and his 5 generals gathered. I thought at first they were generals. But I realize now that I&#39;d taken the badge of reds vs greens vs blacks as ranks: Red was commanders? Blacks were scouts, Greens were heavies.</p>\n<p>But.. that wasn&#39;t how it worked. The ranks kinda followed those lines, but the colors didn&#39;t really mean anything at all -- there was no rank difference between them.</p>\n<p>But they kept separated from the others. I was with that army for 5 hours while they got on the kinda horseflesh you&#39;d shiv two biddies for. </p>\n<p>Well, then I figured as much, and then they all took off.</p>\n<p>And so I think you should and so do you?</p>\n<p>You think you&#39;ve figured me out! I&#39;m a bad guy! Look at what I&#39;ve learned from this, then decide if you want to kill me! Let me be on trial!</p>\n<p>This will be a particularily sweet moment if they are using Aunt Agnus or her saltboxes, when she sails into the room or (if they bring him back) into the courtbench. Or if they bring him back, Fallstaff. Maybe, every time they use the spell, he is there somehow, in the background, hidden like an octopus, watching in the waters. &quot;I don&#39;t think it&#39;s my fault, that this is where I live?&quot; The minds reach out and follow their prey.</p>\n<p>His eyes snap open, and hope quickens his lips:</p>\n<p>&quot;There she is, my dark lady! How&#39;re you, Auntie? Did I run an rum game?&quot;</p>\n<p>yes -- and no</p>\n<p>&quot;Well, I have tucked away behind my ear? What is this? OH!&quot;</p>\n<p>And the cowbird lands on your shoulder. It&#39;s name is Chill.</p>\n<p>&quot;Oh and it&#39;s name is Chill, goodnight, sweetheart, I still believe in you!&quot;</p>\n<p>If any Aunt is nearby, she can render him to the abyss.</p>\n<p>This guy filibusters, beatboxes, tells his life story, he rebuilds a D&amp;D campaign, he sharadazes it until they finally trap his brain. This might be how they Meat Aunt Agnus for nicers the second time, and establish a relationship. If she helps them escape and peg this fuckmonkey, </p>\n",
+      "excerpt": "<p>Iorek conducts research for Edo Rian. He wants to experiment on people, and the plague is an exellent oppurtunity. </p>",
+      "meta": {
+        "relativePath": "iorek.html",
+        "createdAt": "2022-07-17T03:27:50.251Z",
+        "lastModified": "2022-07-17T03:27:50.251Z",
+        "size": 4392,
+        "formattedSize": "4.3 KB"
+      }
+    },
+    {
+      "id": "javier",
+      "contents": "<h1 id=\"javier\">Javier</h1>\n<h2 id=\"quartermaster-javier-of-port-thunder\">Quartermaster Javier of Port Thunder</h2>\n<p>He has been horribly in love with <a href=\"/p/aunt_elsela.md\">Shanty</a> his whole life. He has worked with her on 2 occasions, once when he was elected quartermaster and then again after the fleet action when the Empire tried to retake the Outer Islands. </p>\n<p>The first time, he had been running his ex-bosun to ground, after he&#39;d run from an embessiblement investigation. He was at a loss for how to prove his bosun innocent until Professor Elsela showed the council what she&#39;d been working on; the first godown. She was able to show him to the wreck of the ship and he was able to retrieve the ships logs.</p>\n<p>He will show them the ships logs, they are open on his desk.\n  &quot;11th of May.. We recieved visitors today from the Hands of Baele, they wanted to renegotiate hunting grounds. We took them on as scrub crew, they seem a sour lot, but very famliar about ship.&quot;</p>\n<p>I was never able to run down the whole crew of the Hands of Baele, but I was able to catch the few I could in the various weirs of Thunder.</p>\n<p>The second time was during the defense of the city. He was trying to get the western tower operational and she had shown up as Salty Elisa, and had sung the blues out of the tower, and he was able to retake the tower and repell the rest of the fleet from the harbor.</p>\n<p>He is delighting to talk the history and topology of Thunder Port, including the older ruin the imperial capital was built on. He has some rubbings he took off Fat Rat Island in an unknown language.</p>\n<p>He has read everything that hes been able to glean about Shanty and has connected her enough to Nissa to know when to stop looking. In particular, if he&#39;s asked about the blues, he appears confused for a while and then moves on in another direction.</p>\n",
+      "excerpt": "<p>He has been horribly in love with <a href=\"/p/aunt_elsela.md\">Shanty</a> his whole life. He has worked with her on 2 occasions, once when he was elected quartermaster and then again after the fleet action when the Empire tried to retake the Outer Islands. </p>",
+      "meta": {
+        "relativePath": "javier.html",
+        "createdAt": "2022-06-26T14:48:20.809Z",
+        "lastModified": "2022-06-26T14:48:20.809Z",
+        "size": 1788,
+        "formattedSize": "1.7 KB"
+      }
+    },
+    {
+      "id": "jet",
+      "contents": "<h1 id=\"jet-\">Jet ...</h1>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "jet.html",
+        "createdAt": "2022-07-14T04:47:20.422Z",
+        "lastModified": "2022-07-14T04:47:20.422Z",
+        "size": 9,
+        "formattedSize": "9 Bytes"
+      }
+    },
+    {
+      "id": "josiah_greazy",
+      "contents": "<h1 id=\"josiah-greazy\">Josiah Greazy</h1>\n<p>Probably going to betray you.</p>\n<p>Great candidate for one of those &quot;now we take you out&quot; strike teams.</p>\n<p>He will strike:</p>\n<p> * </p>\n",
+      "excerpt": "<p>Probably going to betray you.</p>",
+      "meta": {
+        "relativePath": "josiah_greazy.html",
+        "createdAt": "2022-07-14T03:54:03.950Z",
+        "lastModified": "2022-07-14T03:54:03.950Z",
+        "size": 144,
+        "formattedSize": "144 Bytes"
+      }
+    },
+    {
+      "id": "josriel",
+      "contents": "<h2 id=\"josriel-gladhand-of-the-upper-halls\">Josriel Gladhand of the Upper Halls</h2>\n<h3 id=\"upper-halls\">Upper Halls</h3>\n<h3 id=\"the-holy-city\">The Holy City</h3>\n<p>Older Commander of Upper Halls forces. Concerned with business and trade in the city. He can quickly tell when something is unusual. Factions showing up where they don’t have any business being there, the crystal vials, the new Tearer contracts. He doesn’t know about the library attacks, but he can tell them about movements of the Erimesh and the Empire. The Emperor’s name is Narsel, for instance, and he has moved very quickly in the last few years to consolidate a trade Empire and establish a route across the mountains.</p>\n",
+      "excerpt": "<p>Older Commander of Upper Halls forces. Concerned with business and trade in the city. He can quickly tell when something is unusual. Factions showing up where they don&#x2019;t have any business being there, the crystal vials, the new Tearer contracts. He doesn&#x2019;t know about the library attacks, but he can tell them about movements of the Erimesh and the Empire. The Emperor&#x2019;s name is Narsel, for instance, and he has moved very quickly in the last few years to consolidate a trade Empire and establish a route across the mountains.</p>",
+      "meta": {
+        "relativePath": "josriel.html",
+        "createdAt": "2022-07-18T00:22:25.104Z",
+        "lastModified": "2022-07-18T00:22:25.104Z",
+        "size": 620,
+        "formattedSize": "620 Bytes"
+      }
+    },
+    {
+      "id": "keen",
+      "contents": "<p>Marius Keen\nHospitaller, half-Erimesh and Danoi.     </p>\n",
+      "excerpt": "<p>Marius Keen\nHospitaller, half-Erimesh and Danoi.     </p>",
+      "meta": {
+        "relativePath": "keen.html",
+        "createdAt": "2022-04-08T03:19:11.455Z",
+        "lastModified": "2022-04-08T03:19:11.448Z",
+        "size": 53,
+        "formattedSize": "53 Bytes"
+      }
+    },
+    {
+      "id": "kian_jan",
+      "contents": "<h1 id=\"kian-jan\">Kian Jan</h1>\n<p> <strong><em>Stablemaster</em></strong><br> <strong><em>Torn Heel</em></strong></p>\n<h2 id=\"master-of-the-stables\">Master of the Stables</h2>\n<p>The stables are his domain, he has long kept a secret, which Tobit has been using to blackmail him. So far, this has largely been an information gathering role. Bore&#39;s network is dangerously close here, but the Stables have been a \nThis that and the other</p>\n<h2 id=\"more-roles\">More roles</h2>\n<p>More roles text.</p>\n<blockquote>\n<p>Event</p>\n<ol>\n<li>sequence</li>\n<li>Of </li>\n<li>Events</li>\n</ol>\n</blockquote>\n<h3 id=\"topic-environment\">Topic, Environment</h3>\n<p>Topic text</p>\n<hr>\n",
+      "excerpt": "<p> <strong><em>Stablemaster</em></strong><br> <strong><em>Torn Heel</em></strong></p>",
+      "meta": {
+        "relativePath": "kian_jan.html",
+        "createdAt": "2022-07-19T04:01:07.590Z",
+        "lastModified": "2022-07-19T04:01:07.590Z",
+        "size": 477,
+        "formattedSize": "477 Bytes"
+      }
+    },
+    {
+      "id": "king_pyre",
+      "contents": "<h1 id=\"king-pyre\">King Pyre</h1>\n<ul>\n<li>The Lion (after Narses)</li>\n</ul>\n<p>Leader of the assault on </p>\n<p>He wants to meet their king, when he mistook some professors for ambassadors, they said something and he immediately moved on Silver Mountain. Fallstaff reminds you now how much you need the <a href=\"/c/mind.md\">CoTM</a>.</p>\n<p>He is now intent on freeing the mountain, once he has discovered that the volcanoes are going to go off. He sends his army to Ahshura.  He and his team of Hadrad then head into the heart of the volcano.</p>\n<h2 id=\"professor-iorek\"><a href=\"/p/iorek.md\">Professor Iorek</a></h2>\n<p>He will tell the story thusly, and hopefully pre-posthumonously: encounter with the Hadrad</p>\n<h2 id=\"the-first-hatchling-of-the-king\">The First Hatchling of the King</h2>\n<p>Once he has bathed in the reignited fires of Silver Mountain, He comes forth declaring that the Messanger of the King is coming very soon, so they should be prepared! He brings nickle iron, silver, and gold immesurable. These events the founding of the College of the Mind could coincide exactly at the same time. Parson is worried about the effects on the economy of so much gold. He does know about the gold-hungry Hadrad Empire is on the point of attacking. He does also know of the coming of the Black Queen. &quot;My tentacles are like hair? I Guess? I&#39;m into it, by the way?&quot; </p>\n<blockquote>\n<p>Meanwhile:\nIf the Dwarves haven&#39;t managed to get the Wheels moving, then the mines will be flooded with lava and completely ruined, ya jerks.</p>\n</blockquote>\n<blockquote>\n<p>Perhaps Parson hires them for this one? And he comes along? An Escort quest -- uikes.</p>\n</blockquote>\n<blockquote>\n<p>At the same time, the College of the Mind will quickly find out where the people who are shielded are? They recruit the Hospitallers to start to help. Clerics going around casting detect thoughts on people? Standard procedure. When they find Parson, they will probably try to arrest him. Again? or is this part of what escalates a friendly visit into a full out throw down?</p>\n<p>Why can&#39;t Bahamut do it by himself at that point? He hasn&#39;t hatched. He a sky god.</p>\n</blockquote>\n<h2 id=\"the-red\">The Red</h2>\n<p>His Seconds:</p>\n<ul>\n<li>Undeth -- probably going to stop him. Paladin</li>\n<li>Sorcel -- will certainly try to stop him. Wizard</li>\n<li>Kranti -- Has his back no matter what. Assassin + whatever hurts worse. Def a bit of Ranger fighter rogue</li>\n</ul>\n",
+      "excerpt": "<p>Leader of the assault on </p>",
+      "meta": {
+        "relativePath": "king_pyre.html",
+        "createdAt": "2022-07-26T04:11:32.353Z",
+        "lastModified": "2022-07-26T04:11:32.353Z",
+        "size": 2191,
+        "formattedSize": "2.1 KB"
+      }
+    },
+    {
+      "id": "king_solen",
+      "contents": "<h1 id=\"king-solen\">King Solen</h1>\n<ul>\n<li><p>The Black Emporer</p>\n<p>He first became a soldier, and fought in the human wars, and later in the Blood Empires. He then became a pirate king and established Lakash. He has never travelled to Eshar, as there is a bitterness there and grief that makes the place unapprochable, all of the lost knowledge of the lost world gathered as if in a tomb. He is too addicated to pain to allow himself to remember where to go. He thinks that what is happening to the greens is an exploitable resource instead of a final skin shedding. &quot;do you think we could hang out in a bar while looking like a giant lizard all the time? Ever seen the seating conditions at the Opera?&quot;</p>\n<p>He began to see the changes spread, and he saw the potential in the trapped refugees to build something. -- shit.</p>\n<p>He will do everything in his power to stay. They will not be able to pursuade him otherwise. The clearest enemies of the Empire are the Reds, but there is a cadre of the white, the Kegia, who are going to be a real problem.</p>\n<p>He helped the first White Dragons pupa emerge and kept them from being slain as witches. They form the core of his power, but he also has the widespread support of the other Black Dragons. </p>\n<p>The Black Emporer. He will be devoted to Aunt Agnus and Undeth if they ever meet. He&#39;ll let her know how the assassination attempts went. Mostly they got him, and then he didn&#39;t die. And it was really painful while it happened, and once he lost all his hair. He really wants his catch-phrase to be &quot;Sleep!&quot;. He is a font of information, and if there is a military, he&#39;s probably served in it and knows their commanders status and foibles.</p>\n<p>He will maintain his ambitions and black network, using his mind. Once he meets Porter, he will unfurl his role as the Proclaimer, and name Porter to be the Elect. How do I get all of the things to happen to Fred? And do they happen before or after the Sun King gets them? Is that beside the point? He&#39;s the return Captain, no?P</p>\n</li>\n</ul>\n",
+      "excerpt": "<p>The Black Emporer</p>",
+      "meta": {
+        "relativePath": "king_solen.html",
+        "createdAt": "2022-07-14T04:01:35.258Z",
+        "lastModified": "2022-07-14T04:01:35.258Z",
+        "size": 1997,
+        "formattedSize": "2.0 KB"
+      }
+    },
+    {
+      "id": "kisi",
+      "contents": "<p>Kisi &quot;Urine Pot&quot; </p>\n",
+      "excerpt": "<p>Kisi &quot;Urine Pot&quot; </p>",
+      "meta": {
+        "relativePath": "kisi.html",
+        "createdAt": "2022-04-08T03:19:11.474Z",
+        "lastModified": "2022-04-08T03:19:11.469Z",
+        "size": 21,
+        "formattedSize": "21 Bytes"
+      }
+    },
+    {
+      "id": "kranti",
+      "contents": "<h1 id=\"kranti\">Kranti</h1>\n<p>Assassin for <a href=\"/p/king_pyre.md\">King Pyre</a>. Stat block <a href=\"/sb/assassin.md\">here</a>.</p>\n",
+      "excerpt": "<p>Assassin for <a href=\"/p/king_pyre.md\">King Pyre</a>. Stat block <a href=\"/sb/assassin.md\">here</a>.</p>",
+      "meta": {
+        "relativePath": "kranti.html",
+        "createdAt": "2022-07-17T04:54:34.379Z",
+        "lastModified": "2022-07-17T04:54:34.379Z",
+        "size": 90,
+        "formattedSize": "90 Bytes"
+      }
+    },
+    {
+      "id": "lady_horne",
+      "contents": "<h1 id=\"lady-horne\">Lady Horne</h1>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "lady_horne.html",
+        "createdAt": "2022-06-21T02:26:55.290Z",
+        "lastModified": "2022-06-21T02:26:55.290Z",
+        "size": 16,
+        "formattedSize": "16 Bytes"
+      }
+    },
+    {
+      "id": "lamark",
+      "contents": "<h1 id=\"lamark\">Lamark</h1>\n<h2 id=\"house-beowulf\">House Beowulf</h2>\n<p>Lamark, is an oldblood Beowulf, wears a Lord’s Ring. He has an idea of who stole the book: The Host. He is, of course, partially right. The security surrounding the brains was obscurity, and he is quick to point out his innocence by trying his best to help them. Lamark is hiding something, however, he has imprinted several of the brains on himself and is slowly going mad, remembering stuff from the Flint House attack, and things from the diary. He is also not a real Beowulf, but is a Finder playing Hal from the Host, who need him badly. He doesn’t want them to find that out, but he&#39;s bad at keeping secrets, so he just keeps his mouth shut sometimes.</p>\n<h2 id=\"private-collector\">Private Collector</h2>\n<p>He is a collector and professor at Beowulf. Lamark began with Fallstaff at Natural College, but was hired by The Host to begin development a College of the Mind at Beowulf.</p>\n<h2 id=\"archeology\">Archeology</h2>\n<p>Lamark will invite them to do something for house <a href=\"/l/beowulf_castle.md\">Beowulf</a>, he might offer them a lesson in brain-archeology. His madness is mitigated by a ticture of fish guts, which he says clears his head. While they are meeting with him, he will be assassinated, and in way that will be highly suspicious. There will be warrents out all over the city. The party will look incredibly guilty and <a href=\"/p/nate.md\">Nate Hound</a> will come after them hard.</p>\n<h2 id=\"the-party-hunt\">The Party Hunt</h2>\n<p>First, if they go charging after the assassins, please let them randomly run into a pile of <a href=\"/f/the_tearers.md\">Tearers</a>, out for some blood for some reason or other. They pretty much cut loose. They will take this oppurtunity to put the players down. This could be a humorous fight until the bloodshed spreads and spreads as more Tearers join the fight. At some point, when actual Options start showing up, they will hopefully call it quits and flee.</p>\n<h2 id=\"paper-muster\">Paper Muster</h2>\n<p>Then it&#39;s a paper muster and patrols and the City goes haywire. First signs point them to Bolsinger&#39;s and professor <a href=\"/p/tobit_drake.md\">Tobit Drake</a>. If they go in guns blazing, they will find ample evidence that he&#39;s been spying on the Natural College and Falstaff&#39;s work. He will appear dead. If they are too agressive, his Deep Lord will protect him – maybe with enslaved guardsmen. If defeated, his spellbook and stuff are spectacular, but they will have a tough time with the <a href=\"/p/fallstaff.md\">Kraken</a> if they kill him. He does keep notes of the people who assassinated Lamark, however.</p>\n<p>If this goes well for them, throw the next encounter at them willy-nilly.</p>\n<h2 id=\"tobit-drake\">Tobit Drake</h2>\n<p>If they seem reasonable, he will talk to them, but they will be interuptted by House Beowulf bruisers looking for answers with this lead they&#39;ve just been given by the assassins. They will come in at totally the wrong moment and ruin everything. Especially once they see what Tobit has been doing.</p>\n<h2 id=\"edo-doubletap\">Edo Doubletap</h2>\n<p>Meanwhile they&#39;ve heard of another killing in the same Oevre as the assassins. It was another Edo, this should be one of the Edo insiders, possibly <a href=\"/p/reggie_the_lame.md\">Reggie</a>, more likely <a href=\"/p/beruni.md\">Beruni</a>, and probably killed down in the <a href=\"/l/harbor.md\">Harbor</a>. They find enough to identify him as a gravedigger for Lamark, and an Edo if they know what to look for. If they linger over the body, <a href=\"/p/siobane.md\">Siobane</a> will come over and offer to do a card reading. She slights the cards in a particular manner, denoting death rogue knight tower sun. They silver her, or perhaps she curses them?</p>\n<h2 id=\"to-the-house-of-pain\">To the House of Pain</h2>\n<p>The next place is the only place in town that fit the Oevre perfectly at this point: Fillstorm. They will find him frantically working on this new animal he has found: an intellect devourer. He tells them that Lamark threatened to syc his Beowulf grunts on him unless he handed it over. He threatens him with retribution from the Kraken folks if he doesn&#39;t comply. As Prime Edo, Parson knows that this guy is from Aunt Agnus. </p>\n<p>&quot;He threatened everyone here. He said if I didn&#39;t have this to him tonight that I could look forward to a visit from the Beeves.&quot;</p>\n<p>He might give them clues to send them straight at Aunt Agnus, if he&#39;s worried about her, or have them take off after the assassins, but before he can those Beowulf Beefs show up. Ibid</p>\n<h2 id=\"moske-hideout\">Moske Hideout</h2>\n<p>The assassins have been trying to get to Shawn, but so far, just been picking at its agents. </p>\n<p>Showdown O&#39;clock, when they go after the Moske hideout. There are some reasonable people there who try to talk to them about what happened, but then the assassins show up in force.</p>\n<p>Falstaff&#39;s house is burning, probably the Flint House. If they find Falstaff he will say that this is all a cleanup on behalf of some higher-ups. He can tell them where those guys are, but they aren&#39;t going to like it.</p>\n<p>The Rock: and killing a lot of the right people. Some of them probably get away.</p>\n",
+      "excerpt": "<p>Lamark, is an oldblood Beowulf, wears a Lord&#x2019;s Ring. He has an idea of who stole the book: The Host. He is, of course, partially right. The security surrounding the brains was obscurity, and he is quick to point out his innocence by trying his best to help them. Lamark is hiding something, however, he has imprinted several of the brains on himself and is slowly going mad, remembering stuff from the Flint House attack, and things from the diary. He is also not a real Beowulf, but is a Finder playing Hal from the Host, who need him badly. He doesn&#x2019;t want them to find that out, but he&apos;s bad at keeping secrets, so he just keeps his mouth shut sometimes.</p>",
+      "meta": {
+        "relativePath": "lamark.html",
+        "createdAt": "2022-07-18T04:27:19.852Z",
+        "lastModified": "2022-07-18T04:27:19.852Z",
+        "size": 4879,
+        "formattedSize": "4.8 KB"
+      }
+    },
+    {
+      "id": "lesure",
+      "contents": "<p>Admiral Lesure</p>\n",
+      "excerpt": "<p>Admiral Lesure</p>",
+      "meta": {
+        "relativePath": "lesure.html",
+        "createdAt": "2022-06-21T23:38:27.252Z",
+        "lastModified": "2022-06-21T23:38:27.252Z",
+        "size": 14,
+        "formattedSize": "14 Bytes"
+      }
+    },
+    {
+      "id": "lord_saxon",
+      "contents": "<h1 id=\"lord-saxon\">Lord Saxon</h1>\n<p>  <strong><em>Gabriel</em></strong><br>  <strong><em>The Head of Hospital School</em></strong><br>  <strong><em>Master Of Ceremonies of Darker Faire</em></strong><br>  <strong><em>Patron of the Theatre</em></strong></p>\n<h2 id=\"the-protector\">The Protector</h2>\n<p>The Protection of the City and the maintenance of the Legions. </p>\n<h2 id=\"quartermaster\">Quartermaster</h2>\n<p>Lord Saxon Gabriel. In charge of the market place Kathkul. Saxon &amp; his son, the miscreant <a href=\"/p/nate.md\">Nate Hound</a>, and he leads the Host, but doesn&#39;t seem to mind Roma.</p>\n<blockquote>\n<p>The high-caste Hadrad will need to be sought out and met with, hopefully without anyone dying. They are mostly greens and reds.</p>\n</blockquote>\n<h2 id=\"the-host\">The Host</h2>\n<p>Lord Saxon is already planning for the launch. He has developed the Hospitallers and the Bulls as possible marine troops. He also wants to pull the legions together locally and deliver more autonomoy to the <a href=\"/f/danoi.md\">Danoi</a> and <a href=\"/f/the_erimesh.md\">Erimesh</a>. </p>\n<p>He is spending most of his time arming the army. He likes nothing better than a bunch of buttered hoplites sparing in a chalk arena.</p>\n<hr>\n<h3 id=\"events\">Events</h3>\n<blockquote>\n<p>Lord Saxon will be involved in the Mes papri debacle. The Edos will ask for a seat at the table (A college and a seat in the University). Bolsingers elevated? Who will they elect? Parson. What is the exchange exactly?</p>\n</blockquote>\n<blockquote>\n<p>Ava is worried that her employer, Lord Saxon, is going to use this to force her to accept security (read spies) at the Observatory.</p>\n</blockquote>\n",
+      "excerpt": "<p>  <strong><em>Gabriel</em></strong><br>  <strong><em>The Head of Hospital School</em></strong><br>  <strong><em>Master Of Ceremonies of Darker Faire</em></strong><br>  <strong><em>Patron of the Theatre</em></strong></p>",
+      "meta": {
+        "relativePath": "lord_saxon.html",
+        "createdAt": "2022-07-20T02:24:32.092Z",
+        "lastModified": "2022-07-20T02:24:32.092Z",
+        "size": 1362,
+        "formattedSize": "1.3 KB"
+      }
+    },
+    {
+      "id": "lucan",
+      "contents": "",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "lucan.html",
+        "createdAt": "2022-07-01T20:18:58.642Z",
+        "lastModified": "2022-07-01T20:18:58.643Z",
+        "size": 0,
+        "formattedSize": "n/a"
+      }
+    },
+    {
+      "id": "madman",
+      "contents": "<p>The Madman</p>\n<ul>\n<li>Idim Wayth</li>\n</ul>\n<p>He wants to know about you and what you have seen. He only claims to have seen Aos, and he can&#39;t talk about it. What if it happened to you while you were talking to him, what if you suddenly realized that he was, while you were listening to him? A Messiah without a complex. The only thing to do? Do you want to kill him? I will tell you this; if you do try it, the results will be surprising. Do you want him to pretend to be nearly dangerous to his mind? Ask him what your greatest terror in the world is, he will play that thing and tempt you to look after it, like an organism that has grasped for prey again and again. To talk to them that have not only conquered worlds, but that do not want to be seen, the ones who have always left nothing of themselves behind? If they have left something behind, it most certainly is a trap. A dupe left behind to lie to them as much as possible, to tell him that he&#39;s on their side, and will ride or die! Well, let&#39;s begin the confidence game, cause this isn&#39;t my first rodeo baby! Also I have a job for you.</p>\n<p>Before seeing Aos, he was a trapper in <a href=\"/l/barrum.md\">Barrum</a>.</p>\n",
+      "excerpt": "<p>The Madman</p>",
+      "meta": {
+        "relativePath": "madman.html",
+        "createdAt": "2022-04-08T03:19:11.507Z",
+        "lastModified": "2022-04-08T03:19:11.499Z",
+        "size": 1149,
+        "formattedSize": "1.1 KB"
+      }
+    },
+    {
+      "id": "magnus",
+      "contents": "<h1 id=\"magnus-freeman\">Magnus Freeman</h1>\n<p>He is the Theatre operative in charge of finding out what they know about the missing books. He will give them a lesson in subterfuge if they give him information as well.</p>\n<pre><code>Wide sensual mouth with rich lips. He talks quickly and to the point. Magnus adds gravitas.</code></pre><p>This is what he has to share:</p>\n<ol>\n<li>The book was the original diary of <a href=\"/p/keesler.md\">Keesler</a> during the defense of the Flint House.</li>\n<li>There were a lot of strange drawings and sigils which were never transcribed out of the book for print editions.</li>\n<li>If they fight well when he jumps them, he will help them out, seemly out of goodwill? Perhaps he thinks they are up to something else, and wants to check them out.</li>\n<li>His training will give you a 1d4 bonus on persuasion checks with Nobles.</li>\n<li>He knows about the Pyramid and what the Natural College is doing. Something is obviously wrong with the information coming back from his agent.</li>\n<li>He does not work for the Moshka.</li>\n<li>The Moshka don’t funnel all information in the city down a gigantic tube and feed it to order for high prices.</li>\n<li>He doesn’t know who he really works for, but he’s willing to do a job now and again to put on a new Opera.</li>\n<li>We are going to call this, “The Skinflayer Betrayer” or “Love on the Water” “Fyre Upon The Skyye”</li>\n</ol>\n",
+      "excerpt": "<p>He is the Theatre operative in charge of finding out what they know about the missing books. He will give them a lesson in subterfuge if they give him information as well.</p>",
+      "meta": {
+        "relativePath": "magnus.html",
+        "createdAt": "2022-07-01T19:35:29.763Z",
+        "lastModified": "2022-07-01T19:35:29.763Z",
+        "size": 1323,
+        "formattedSize": "1.3 KB"
+      }
+    },
+    {
+      "id": "meatus",
+      "contents": "<h2 id=\"scibere-maws-meatus\">Scibere Maws Meatus</h2>\n<h4 id=\"bards-library-corner-of-scholars-hall-and-broadstreet\"><a href=\"/l/bards_library.md\">Bard’s Library</a>, corner of Scholar’s Hall and Broadstreet</h4>\n<p>Music history, musical instruction, also has a lot of books on all other subjects. The book that has been taken is “Historical Geo. Charts 113-189”, two entire shelves of books. The librarians can also tell them about the other major book theft in town: A crypt at the <a href=\"/p/the_observatory.md\">Observatory</a> has been broken into and looted. They don’t know anything about why the heavy involvement of the Theatre.</p>\n<p><a href=\"/f/beef_rake_hats.md\">Beek Rake Hats</a></p>\n<p>Scibere Meatus, who also works as a chef at the Beef Rake Hats. He is also a martial trainer for St. Andreas. He can become large, he has two modes IN and OUT. </p>\n<p>He knows that the <a href=\"/l/observatory.md\">Observatory Library</a> is under the protection of <a href=\"/f/st_andreas.md\">St. Andreas</a> and they will be looking into it, and would likely be capable of accepting help if approached in the right way. If, however <a href=\"/p/bore.md\">Bore</a> wants someone to knock heads with, he’ll find good company. They might be able to find out from him that several newcomers have been coming to the library, but no one of any particular note.</p>\n",
+      "excerpt": "<p>Music history, musical instruction, also has a lot of books on all other subjects. The book that has been taken is &#x201C;Historical Geo. Charts 113-189&#x201D;, two entire shelves of books. The librarians can also tell them about the other major book theft in town: A crypt at the <a href=\"/p/the_observatory.md\">Observatory</a> has been broken into and looted. They don&#x2019;t know anything about why the heavy involvement of the Theatre.</p>",
+      "meta": {
+        "relativePath": "meatus.html",
+        "createdAt": "2022-07-18T00:01:27.294Z",
+        "lastModified": "2022-07-18T00:01:27.294Z",
+        "size": 1206,
+        "formattedSize": "1.2 KB"
+      }
+    },
+    {
+      "id": "mesius",
+      "contents": "<h1 id=\"professor-human-mesius\">Professor Human Mesius</h1>\n<p>Warlock of the Pact A very studious man, a mediocre speaker, but he ignites audiences with his writing. His “Laws of the City” in which he points out that there are 4 systems of law in the city, and they should be applied geographically, rather than they are now. His system is widely read and referenced by Judges in the city. He is a Lich, and a Fellow of the Society, but he does have a passion for the <a href=\"/f/the_pact.md\">Pact</a>. The Pact enables the river trade on the Cedar river.</p>\n<h2 id=\"secretary-for-askhahle\">Secretary for <a href=\"/p/askhahale.md\">Askha&#39;hle</a></h2>\n<p>Archlich of the <a href=\"/f/the_stigian_society.md\">Society</a></p>\n",
+      "excerpt": "<p>Warlock of the Pact A very studious man, a mediocre speaker, but he ignites audiences with his writing. His &#x201C;Laws of the City&#x201D; in which he points out that there are 4 systems of law in the city, and they should be applied geographically, rather than they are now. His system is widely read and referenced by Judges in the city. He is a Lich, and a Fellow of the Society, but he does have a passion for the <a href=\"/f/the_pact.md\">Pact</a>. The Pact enables the river trade on the Cedar river.</p>",
+      "meta": {
+        "relativePath": "mesius.html",
+        "createdAt": "2022-07-17T23:55:40.634Z",
+        "lastModified": "2022-07-17T23:55:40.634Z",
+        "size": 620,
+        "formattedSize": "620 Bytes"
+      }
+    },
+    {
+      "id": "milano",
+      "contents": "<h1 id=\"roberto-milano\">Roberto Milano</h1>\n<p>Lumber &amp; tool merchant. Pulleys, block and tackle, and fine wood for furniture. He owns 5 wagons and a sloop.  Travels with his son, Gillamo. He has a strange medical condition that gives him chronic fevers. He keeps to the road to bring lumber from the center of the island, but he has observed the burning of several villages during his last run. He has knowledge of tides and weather from his contacts with the fisherfolk, but he hasn’t been able to locate his sloop, and suspects that it is laying low. Because ghosts.</p>\n<p>Later, he will give them some important jobs:</p>\n<ol>\n<li><p>Deal with some roughs, bring them to Jail.</p>\n</li>\n<li><p>Escort him to an Island. Meet a real sea captain.</p>\n</li>\n<li><p>Take and set up the rigging for the The Tar Hulk, the spider ship. First assault prototype.</p>\n</li>\n</ol>\n<p>He has talked to several people who claim to have seen Death stalking the island.</p>\n<p>Hamfist Salavar</p>\n<ul>\n<li>most of his work is with Hamfast</li>\n<li>he does also keep chickens, and ducks.</li>\n</ul>\n<p>His son has an incredible magical aptitude and could be recruited for College. He can form some protection spells innately. He works sometimes for Hamfast but also has an independent spice trading license.</p>\n",
+      "excerpt": "<p>Lumber &amp; tool merchant. Pulleys, block and tackle, and fine wood for furniture. He owns 5 wagons and a sloop.  Travels with his son, Gillamo. He has a strange medical condition that gives him chronic fevers. He keeps to the road to bring lumber from the center of the island, but he has observed the burning of several villages during his last run. He has knowledge of tides and weather from his contacts with the fisherfolk, but he hasn&#x2019;t been able to locate his sloop, and suspects that it is laying low. Because ghosts.</p>",
+      "meta": {
+        "relativePath": "milano.html",
+        "createdAt": "2022-06-29T23:42:54.559Z",
+        "lastModified": "2022-06-29T23:42:54.559Z",
+        "size": 1190,
+        "formattedSize": "1.2 KB"
+      }
+    },
+    {
+      "id": "millhouse",
+      "contents": "<p>Moshka Millhouse<br>He is the Executor’s handler and caretaker to the madman. He is a healer and primary care-giver to those who hurt themselves. He has a lot to do. There have been 2 other copycats in the town and he could use help fetching them.</p>\n<p>He can provide helpful information about the madman and help record his ravings. He also makes note of the comings and goings of the Host to the party, whether his motives come from helping the Moshka or from a desire to oppose the Host, it isn’t clear till they see him at the Society Graduation. Aew guys, I thought you knew! All that stuff before, all made up! I have spoken to the madman! That was a ruse, all you’ve heard has been trickery! The truth is I am Aos, back from the dead!</p>\n",
+      "excerpt": "<p>Moshka Millhouse<br>He is the Executor&#x2019;s handler and caretaker to the madman. He is a healer and primary care-giver to those who hurt themselves. He has a lot to do. There have been 2 other copycats in the town and he could use help fetching them.</p>",
+      "meta": {
+        "relativePath": "millhouse.html",
+        "createdAt": "2022-04-08T03:19:11.543Z",
+        "lastModified": "2022-04-08T03:19:11.540Z",
+        "size": 742,
+        "formattedSize": "742 Bytes"
+      }
+    },
+    {
+      "id": "mushussu",
+      "contents": "<h1 id=\"mushussu\">Mushussu</h1>\n<p>He is a cat. He has taken a position at the Natural College Library, and has been making forgeries of ancient texts and replacing them. He has gotten sloppy and some of the originals have been discovered. The texts he was modifying have to do with the Trial.</p>\n<p>If they search his desk: They find forgery kits and cartography tools. He has been taking his lunch at Ten Pins, which is a decent misdirection if they want to pursue the Givers of the Green, or the rest of the <a href=\"/e/leaf_game.md\">Leaf Game</a>. The Leaf Game has a surprise for everyone: an ancient elemental who is about to level the Chippies.</p>\n",
+      "excerpt": "<p>He is a cat. He has taken a position at the Natural College Library, and has been making forgeries of ancient texts and replacing them. He has gotten sloppy and some of the originals have been discovered. The texts he was modifying have to do with the Trial.</p>",
+      "meta": {
+        "relativePath": "mushussu.html",
+        "createdAt": "2022-07-07T03:06:56.836Z",
+        "lastModified": "2022-07-07T03:06:56.836Z",
+        "size": 616,
+        "formattedSize": "616 Bytes"
+      }
+    },
+    {
+      "id": "nain",
+      "contents": "<h1 id=\"edo-nain\">Edo Nain</h1>\n<ul>\n<li>Beruni</li>\n</ul>\n<p>Link to the past. One of long and confused memory, if memory it could be called. He tells stories. They sometimes go like this:</p>\n<p>Pull along the strands, keep up your pulling, pullers! He has been put together can be put together again!</p>\n<p>Whever I&#39;ve been, whatever I&#39;ve done. Nothing&#39;s quite like that first step back on land from the sea!</p>\n<p>&quot;Silver and Gold and precious here, I&#39;m told!&quot; -- But he&#39;s fussy, not imperial. Adem: remember he is only acting to be imperial and fussy to mask himself.</p>\n<p>&quot;Between the ships and the castles? I&#39;ve heard you actually use gavels in Eshar, I&#39;ve always wanted to see!&quot;</p>\n<p>#NOTABENE: this should involve taking a &quot;negative&quot; side of someone in a story. Nain can play the fool card, or show it to them. </p>\n<p>&quot;Defense of Secrets! That&#39;s what I see here! Architecture without appeal to snake or eel!&quot;</p>\n<p>&quot;I jest, my brothers, breathereens, breeeoooao. Where are we going?&quot;</p>\n<p>&quot;You are bound for the Cellblocks of the Rock itself, and will stand judgement before the University!&quot; Hiram steps in and calms the Hordle Twins from jumping him. &quot;Edo Nain! You old scrap of leather! What are you mucking about for!&quot;</p>\n<p>Nain attempts to buy passage from the PCs, but Hiram insists that he escort Nain back to the rock. If they appeal they can make a check, but if they mention his debt to them for the boat, which he has probably &quot;impounded&quot; again... </p>\n<p>Naim goes aboard the stag, with the players on board. This is about a munity on board a ship.</p>\n<p>That ship was set upon him and mutinied. He was able to make it to shore and hustled into a building along the street. From there, they were set upon by wolves of Beowulf who will take him into custody.</p>\n<p>This is what he wants to hear from you: I understand that there exists a world in which it is possible that you trust him. Do you trust him?</p>\n<p>They are then taken on board the ship. On board, he tells them the story of <a href=\"/p/boaz.md\">Jefth and the Tome of Bol</a></p>\n<p>They make it to the city, once he reaches that part of the story, they are turning him over to Beowulf guards.</p>\n",
+      "excerpt": "<p>Link to the past. One of long and confused memory, if memory it could be called. He tells stories. They sometimes go like this:</p>",
+      "meta": {
+        "relativePath": "nain.html",
+        "createdAt": "2022-07-26T03:43:51.910Z",
+        "lastModified": "2022-07-26T03:43:51.910Z",
+        "size": 2090,
+        "formattedSize": "2.0 KB"
+      }
+    },
+    {
+      "id": "narses",
+      "contents": "<h1 id=\"general-narses\">General Narses</h1>\n<p>If there are near the pit, the return of Narses will trigger some tentacular action otyughs etc. Narses communicates via anepigraphic tags. They may be able to tell that these sigils are similar to those found at the House of Mushussu inTuskharbor. If they head that way, the trolldrops begin in earnest. The sigils are written primarily in ancient Eschar, but they occasionally go off in a language that is similar to Hill speak, render phonetically.</p>\n",
+      "excerpt": "<p>If there are near the pit, the return of Narses will trigger some tentacular action otyughs etc. Narses communicates via anepigraphic tags. They may be able to tell that these sigils are similar to those found at the House of Mushussu inTuskharbor. If they head that way, the trolldrops begin in earnest. The sigils are written primarily in ancient Eschar, but they occasionally go off in a language that is similar to Hill speak, render phonetically.</p>",
+      "meta": {
+        "relativePath": "narses.html",
+        "createdAt": "2022-07-16T00:07:14.428Z",
+        "lastModified": "2022-07-16T00:07:14.428Z",
+        "size": 475,
+        "formattedSize": "475 Bytes"
+      }
+    },
+    {
+      "id": "nate",
+      "contents": "<h1 id=\"nate-hound\">Nate Hound</h1>\n<p>Son of Lord Saxon, Half-finder Danoi. He is a captain in the Bulls, graduating from House Beowulf. He has fallen in with the more unsavory elements of the Eschar underground. He has attempted to join the Moshka and BRH, but his association with his father has crippled his efforts in those direction.</p>\n<h2 id=\"the-trial\">The Trial</h2>\n<p>He is friends with Hatchaxel, and was there during the Rat Hunt. </p>\n<h2 id=\"the-host\">The Host</h2>\n<p>There are many allies within the Host who believe that Nate is the future of the Host. He has largely abdicated the positions thrust on him, perferring the company of lowlives and crimminals.</p>\n",
+      "excerpt": "<p>Son of Lord Saxon, Half-finder Danoi. He is a captain in the Bulls, graduating from House Beowulf. He has fallen in with the more unsavory elements of the Eschar underground. He has attempted to join the Moshka and BRH, but his association with his father has crippled his efforts in those direction.</p>",
+      "meta": {
+        "relativePath": "nate.html",
+        "createdAt": "2022-04-08T03:19:11.559Z",
+        "lastModified": "2022-04-08T03:19:11.557Z",
+        "size": 611,
+        "formattedSize": "611 Bytes"
+      }
+    },
+    {
+      "id": "niflar",
+      "contents": "<h1 id=\"niflar-halfshield\">Niflar Halfshield</h1>\n<h2 id=\"boxer\">Boxer</h2>\n<p>Prince in-exile of the <a href=\"/f/the_silvermen.md\">Silvermen</a>. Currently working as a ring-fighter pit-fighter at The Beef Rake Hats. They kinda like him, and haven’t tried to get him killed, seriously. They don’t really know his position in the Erimesh, but they know something is up with him. </p>\n<pre><code>If the party befriends him, he may ask them to send a message to his half brother Gloryshield. </code></pre><h3 id=\"tel-kur\">Tel Kur</h3>\n<p>When the mines have a <a href=\"/e/king_pyre.md\">complete breakdown</a> and Eschar sends someone to find out about it.</p>\n<p>Everyone from Eshar thinks that the disruption at Tell Kur is <a href=\"/p/esme.md\">Esme</a>, who has protested them using the mines at Tell Kur, as they are sacred ground to his people. This is not the case, and Niflar will protest his brother&#39;s innocence to the player.</p>\n",
+      "excerpt": "<p>Prince in-exile of the <a href=\"/f/the_silvermen.md\">Silvermen</a>. Currently working as a ring-fighter pit-fighter at The Beef Rake Hats. They kinda like him, and haven&#x2019;t tried to get him killed, seriously. They don&#x2019;t really know his position in the Erimesh, but they know something is up with him. </p>",
+      "meta": {
+        "relativePath": "niflar.html",
+        "createdAt": "2022-07-16T02:25:32.186Z",
+        "lastModified": "2022-07-16T02:25:32.186Z",
+        "size": 831,
+        "formattedSize": "831 Bytes"
+      }
+    },
+    {
+      "id": "obel",
+      "contents": "<h2 id=\"dorian\">Dorian</h2>\n<h3 id=\"theatre-assassin\">Theatre assassin.</h3>\n<p>He’ll be part of the handoff of the Egg, or the Dagger. He will enjoy trying to figure out who they are, but usually goes with the most ridiculous theories. He will</p>\n<p>Hand off a fake.\nThey will set him up to plant a tracer on him.\nVerify their bona fides and then attack.\nThey will be employed by the <a href=\"/f/the_beef_rake_hats.md\">Beef Rake Hats</a> to take him out.\nSell them what they were actually looking for.</p>\n<p>He is a very good assassin, not as smart as he thinks you are.</p>\n<h3 id=\"saad-khan\"><a href=\"/p/saad.md\">Saad Khan</a></h3>\n<p>An agent of Masque, Dorian Obel. gets caught up in this, trying to set up and betray Saad and the Chosen at the same time. Capturing this guy alive wins big warbucks, especially if they can take him alive. Bore will use him to crack the Masquerade like an egg.</p>\n",
+      "excerpt": "<p>He&#x2019;ll be part of the handoff of the Egg, or the Dagger. He will enjoy trying to figure out who they are, but usually goes with the most ridiculous theories. He will</p>",
+      "meta": {
+        "relativePath": "obel.html",
+        "createdAt": "2022-06-22T00:25:23.425Z",
+        "lastModified": "2022-06-22T00:25:23.425Z",
+        "size": 822,
+        "formattedSize": "822 Bytes"
+      }
+    },
+    {
+      "id": "parson",
+      "contents": "<h2 id=\"chuck-parson-fillstorm\">Chuck Parson Fillstorm</h2>\n<ul>\n<li>Captain Fillstorm</li>\n<li><a href=\"/p/utu-lugal.md\">Utu-lugal</a></li>\n</ul>\n<p>If they ever get really sick: Healer in the Firest Forest, his blood as pure as the hills, he works to heal everyone he can. He is a very grumpy gnome. Many people dying unexpectedly in the city usually die on their way here, or not at all. Also bones that are found outside the city. This latest disaster has:</p>\n<p>he has some things to show you about the bones:</p>\n<pre><code>They are human\nThey are not affected by any magic.\nThey are covered in sap.</code></pre><p>There was a time in his life when he could bind another&#39;s will to his. He bound millions, and lost them all to the hordes of the Hadrad Empire.</p>\n<p>If there are any in the group who want to join the Natural College, he will help them with the paperwork. He has been a professor there for a long time.</p>\n<p>Hook: <a href=\"/f/the_stigian_society.md\">The Society</a>: Find out what is going on\n<a href=\"/f/the_host.md\">The Host</a>: Find out and put it out.</p>\n<p>Hook: <a href=\"/p/fallstaff.md\">The Kracken</a>: </p>\n<p>They will save him from an attack, he will give them a writ to invite them to the college. </p>\n<p>At some other time he can tell them</p>\n<ul>\n<li>The tattoos on the bloodmen that attacked them were of Hozenah she of the Depths, the Tree of the Oak.</li>\n<li>A Fellow of the <a href=\"/f/natural_college.md\">Natural College</a> has gone missing. There has been an earthquake and it has opened up something in the bay near where they jumped in. </li>\n<li>They have to go back and see their Aunt Elisa. Chuck Parson is pretty clear she is actually his aunt. He uses “aunt” if they push him.</li>\n</ul>\n<p>Coming Back to Parson, looking for Elisa:</p>\n<p>He can tell them, and he won’t lie to them if he knows them:</p>\n<ul>\n<li>He doesn’t believe the <a href=\"/f/natural_college.md\">Natural College</a> is involved (false)</li>\n<li>He is glad that the <a href=\"/l/ten_pins.md\">Ten Pins</a> has cleared it’s good name (false, he is glad they got clear)</li>\n<li>He has found out where the Deep is. (true)</li>\n<li>THere is an artifact of Water that has come to the city.</li>\n<li>The Natural College doesn’t know where it is. He thinks to look down the Hole. </li>\n</ul>\n<p>He will give them potions of godown, no questions, no payment.</p>\n<p>Coming Back for the intellect devourer</p>\n<ul>\n<li>He will tell them that under no circumstances will he give up the devourer. </li>\n<li>The Bulls demand that everyone leave the premises and report outside. </li>\n<li>The entire city is shut down and martial law has been declared by the council. This is partially true, but the Host is in arms. </li>\n<li>This might be when the secret garrisons come forth. THat would be super exciting.</li>\n</ul>\n<p>The Beowulf Bulls coming – they will be attacked. Parson goes on the offensive, but does not aim to kill until the Bulls escalate, which they do immediately. They don&#39;t respond well to resistance. If <a href=\"/p/nate.md\">Nate Hound</a> is amoung them, he will attack, but balk at actually putting anyone down permanently.</p>\n<p>This is how Parson delivers his plea for help to escape the City (hopefully during a riot or some other form of martial law).</p>\n<ul>\n<li><p>He insists that they head over the mountains to see the other side and rescue what culture and art they have before it is swept away by the Mes. </p>\n</li>\n<li><p>This isn&#39;t an invasion, it&#39;s a cultural rescue mission. He&#39;ll want to head straight for the capital?</p>\n</li>\n<li><p>He may start on a run for <a href=\"/l/the_silver_mountain.md\">Silver Mountain</a>, but once he figures out what is going on there, he will want to head for Alam and then <a href=\"/f/the_empire.md\">Altir</a> itself.</p>\n<p>Early on, he will seek them out and berate them about how things are going. He says that the Deep Law cannot be accepted until the seven slots are filled, and the lighthouse is the last slot. This means, if old Deverre dies, the last slot will be filled.</p>\n<p>They run a tourney. This can only be the work of some insane connessieur of brains. There are 200 youths chosen each year to be taken as tribute </p>\n</li>\n</ul>\n",
+      "excerpt": "<p>If they ever get really sick: Healer in the Firest Forest, his blood as pure as the hills, he works to heal everyone he can. He is a very grumpy gnome. Many people dying unexpectedly in the city usually die on their way here, or not at all. Also bones that are found outside the city. This latest disaster has:</p>",
+      "meta": {
+        "relativePath": "parson.html",
+        "createdAt": "2022-07-07T01:48:04.194Z",
+        "lastModified": "2022-07-07T01:48:04.194Z",
+        "size": 3877,
+        "formattedSize": "3.8 KB"
+      }
+    },
+    {
+      "id": "pole_bear",
+      "contents": "<h1 id=\"new-page\">New Page</h1>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "pole_bear.html",
+        "createdAt": "2022-04-08T03:19:11.599Z",
+        "lastModified": "2022-04-08T03:19:11.597Z",
+        "size": 10,
+        "formattedSize": "10 Bytes"
+      }
+    },
+    {
+      "id": "porter",
+      "contents": "<h1 id=\"porter\">Porter</h1>\n<ul>\n<li>Yarvick</li>\n<li>Josiah</li>\n<li>Erin</li>\n</ul>\n<p>He is there after the same clues as the party, or is there for the books – or to keep an eye on <a href=\"/p/hatchaxel.md\">Hatchaxle</a>, perhaps to aid him in his escape? Hatchaxel has gotten permission from the Ymil that he is to be allowed to escape. Thence the Host gets to sweep his testimony under the rug, and the Ymil get the books. They will find these books or not, depending on how far Hatchaxel gets. Porter brings a pleasure yacht for this one, posing as a nobleman’s TBD servant. He is travelling under the name “Porter” “Iorick’, “Yarvik”, “Aos”. He is using his cover as curator of the University Library, under Lord Saxon. He will tip them off to some of the Orc activities or anything obviously threatening to the Society.</p>\n<h2 id=\"half-the-trouble-with-porter\">Half the Trouble with Porter</h2>\n<p>There are twins to start off with. And they are changlings. And their aliases are already in a spysphere that allows them to &quot;jump&quot; into a deep cover to fulfill their mission without losing their cover up.</p>\n<p>They are Josiah and Erin Bore. Their father was the Vizier to the Black Pharoah. They killed him when he was taken by a brain eater. They have been hunting the brain eaters ever since, but they take odd jobs in the city.</p>\n<p>1:19 And when one of the Ninevites went and complained of me to the king, that I buried them, and hid myself; understanding that I was sought for to be put to death, I withdrew myself for fear.</p>\n<p>1:20 Then all my goods were forcibly taken away, neither was there any thing left me, beside my wife Anna and my son Tobias.</p>\n<p>1:21 And there passed not five and fifty days, before two of his sons killed him, and they fled into the mountains of Ararath; and Sarchedonus his son reigned in his stead; who appointed over his father’s accounts, and over all his affairs, Achiacharus my brother Anael’s son.</p>\n",
+      "excerpt": "<p>He is there after the same clues as the party, or is there for the books &#x2013; or to keep an eye on <a href=\"/p/hatchaxel.md\">Hatchaxle</a>, perhaps to aid him in his escape? Hatchaxel has gotten permission from the Ymil that he is to be allowed to escape. Thence the Host gets to sweep his testimony under the rug, and the Ymil get the books. They will find these books or not, depending on how far Hatchaxel gets. Porter brings a pleasure yacht for this one, posing as a nobleman&#x2019;s TBD servant. He is travelling under the name &#x201C;Porter&#x201D; &#x201C;Iorick&#x2019;, &#x201C;Yarvik&#x201D;, &#x201C;Aos&#x201D;. He is using his cover as curator of the University Library, under Lord Saxon. He will tip them off to some of the Orc activities or anything obviously threatening to the Society.</p>",
+      "meta": {
+        "relativePath": "porter.html",
+        "createdAt": "2022-04-27T03:53:50.065Z",
+        "lastModified": "2022-04-27T03:53:50.065Z",
+        "size": 1873,
+        "formattedSize": "1.8 KB"
+      }
+    },
+    {
+      "id": "raphael",
+      "contents": "<h1 id=\"the-helper\">The Helper</h1>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "raphael.html",
+        "createdAt": "2022-04-08T03:19:11.613Z",
+        "lastModified": "2022-04-08T03:19:11.611Z",
+        "size": 12,
+        "formattedSize": "12 Bytes"
+      }
+    },
+    {
+      "id": "reggie",
+      "contents": "<p>Reggie the Lame</p>\n<p>Disfigured by the experiment, grotesquely larger on his left side. He struggles with bouts of rage, but wants to get news to the Leaf Game, and doesn’t understand why it hasn’t started. He doesn’t know about Porter or the Crones. He won’t trust anyone who isn’t in the leaf game. He might just try to eat them, if he can’t sort it out. Reggie likes a good show of strength and a bit of the old stabby stabby.</p>\n",
+      "excerpt": "<p>Reggie the Lame</p>",
+      "meta": {
+        "relativePath": "reggie.html",
+        "createdAt": "2022-04-08T03:19:11.617Z",
+        "lastModified": "2022-04-08T03:19:11.614Z",
+        "size": 441,
+        "formattedSize": "441 Bytes"
+      }
+    },
+    {
+      "id": "reggie_the_lame",
+      "contents": "<h1 id=\"reggie-the-lame\">Reggie the Lame</h1>\n<h2 id=\"\"></h2>\n<h3 id=\"kess-island\">Kess Island</h3>\n<h3 id=\"kers-island\">Kers Island</h3>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "reggie_the_lame.html",
+        "createdAt": "2022-04-08T03:19:11.626Z",
+        "lastModified": "2022-04-08T03:19:11.619Z",
+        "size": 62,
+        "formattedSize": "62 Bytes"
+      }
+    },
+    {
+      "id": "rian",
+      "contents": "<h1 id=\"edo-rian-sama\">Edo Rian Sama</h1>\n<ul>\n<li>The Pen of Eschar</li>\n<li></li>\n</ul>\n<h2 id=\"discoverer-of-the-city-beneath-the-waves\">Discoverer of the City beneath the waves</h2>\n<h2 id=\"archeologist\">Archeologist</h2>\n<p>He is a fellow of the Natural College, and has dabbled in brains and other things. He is aware of some of the things going on in the Natural College, he is most concerned about the Maw of the Gyre and is frequently found on the Eye. There are some theories about un-limited energy and it has got him a bit worried. He could push them into infilatrating the Natural College to check up on his suspicions. </p>\n<h2 id=\"infiltrating-the-natural-college\">Infiltrating the Natural College</h2>\n<p>This is down in the Harbor, if they contact <a href=\"/p/askhahale.md\">Askha&#39;hale</a> he will be happy to show them the back door, but warns that nothing comes for free in the Natural College.</p>\n<p>Coming in the front: Skill Challege A Natural College fellow will \nComing in the back: Riding the Remoraz.</p>\n<p>Also by the harbor: Bolsigners and Aunt Elisa&#39;s tower. Here they will find a very powerful ally: Aunt Elisa. She will be very critical of anything about them she doesn&#39;t like, but with the abiding caring of an aunt. She is also very concerned about the Gyre, and wants to find out more, and thinks the Eye is the place to search, after the Natural College itself. Someone is currently in charge of harmixing the storm, but she can&#39;t find out who it is, and she knows that some day, whomever is doing it is going to mess up and hurt a lot of people. Elisa will arm them up with enough stuff to fuck up a demon army and insist they wear all of it.</p>\n<p>She may also mention that Fallstaff was once a fellow. She&#39;s probably put her memories in a jar somewhere. Lamark will know quite a bit, as he&#39;s been spying on the Natural College this whole time.</p>\n<p>She sends the Pale Bears with them, wherere they may go.</p>\n<p>The Harbor, regardless which way they pick is alive with the eyes of the Natural College, if they know Ask or another member, they will let them know that the place is a hotbed of sycophants and spies. They actually aren&#39;t all nearly that bad. Someone might suggest using the rivally between Bolsingers and Natural, which would lead them to Aunt Elisa.</p>\n<h2 id=\"dugma-dern\"><a href=\"/p/dern.md\">Dugma Dern</a></h2>\n<p>Doorkeeper for the Natural College. If they come without introduction, he will pass them off to a student to give them a tour of the place. She is a young girl called Hannah. She is certain that they are here to try to do something illegal and can&#39;t stop ribbing them about it. She introduces them to the 3 Basic Orders and their various labs and lecture halls. </p>\n<h2 id=\"the-usual-suspects\">The Usual Suspects</h2>\n<ul>\n<li>The Cook: Brother Gurth -- he isn&#39;t too involved, but is easily controlled through his girlfriend.</li>\n<li>Nym. hehehe -- Finder, and they don&#39;t really know what he wants.</li>\n<li>Bookbinder Oksana</li>\n<li>Mayhe Samson -- clearly Silverfolk</li>\n<li>Cheres Naxas -- alchemist &amp; keeper of the Halfhouse</li>\n<li>Ask?</li>\n</ul>\n<p>If pushed to the question they will have some lies lined up that seem real reasonable.</p>\n<p>Random Encounters in the Natural College:</p>\n<ol>\n<li>Danoi Enclave: They will complain about what they call &quot;Golddiggers&quot; and deplore their behavior. They will start to argue about which language they were using to talk to each other privately, some of them guessing Erimesh, others some Silver dialect.</li>\n<li>The Kitchens: They have been recieving a large amount of boxes and deliveries through the wagons.</li>\n<li>Attempts to poison them.</li>\n<li></li>\n</ol>\n<h2 id=\"the-maw\">The Maw</h2>\n<p>He has witnessed people using it and thinks the effects are too dangerous. He dissapproves of it&#39;s usage within the city, at least.</p>\n<h2 id=\"writer\">Writer</h2>\n<p>Although not a Judge himself, Rian&#39;s works are widely read by the judges of the city. He writes of </p>\n<h2 id=\"hier-of-silver\">Hier of Silver</h2>\n<h2 id=\"whale-oil\">Whale Oil</h2>\n<p>Useful to keep troops marching through the marsh. Prevents trench foot.</p>\n",
+      "excerpt": "<p>He is a fellow of the Natural College, and has dabbled in brains and other things. He is aware of some of the things going on in the Natural College, he is most concerned about the Maw of the Gyre and is frequently found on the Eye. There are some theories about un-limited energy and it has got him a bit worried. He could push them into infilatrating the Natural College to check up on his suspicions. </p>",
+      "meta": {
+        "relativePath": "rian.html",
+        "createdAt": "2022-07-16T00:11:46.347Z",
+        "lastModified": "2022-07-16T00:11:46.347Z",
+        "size": 3745,
+        "formattedSize": "3.7 KB"
+      }
+    },
+    {
+      "id": "roland",
+      "contents": "<h1 id=\"rhodes\">Rhodes</h1>\n<h3 id=\"master-of-the-theatre\">Master of the Theatre</h3>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "roland.html",
+        "createdAt": "2022-07-20T02:31:04.803Z",
+        "lastModified": "2022-07-20T02:31:04.803Z",
+        "size": 37,
+        "formattedSize": "37 Bytes"
+      }
+    },
+    {
+      "id": "roma",
+      "contents": "<h1 id=\"ahsa-roma\">Ahsa Roma</h1>\n<h3 id=\"namesnames\"><a href=\"#hidden\">Names</a>{#names}</h3>\n<p>Oley Bae, Natasha, </p>\n<h3 id=\"kars-island\"><a href=\"/l/kars_island.md\">Kars Island</a></h3>\n<p>Asha has a deal with the Inner Circle of the <a href=\"/f/green\">Green</a> &quot;<strong>This</strong>: is tooo cool. What if it is pretty big? how big does it get?&quot;.md). \nBore’s experiment and Roma’s to clean up, a nice [Fellowship] ceremony might clear things up.</p>\n<h3 id=\"hector-yung\"><a href=\"/p/yung.md\">Hector Yung</a></h3>\n<h3 id=\"scibere-meatus\"><a href=\"/p/meatus.md\">Scibere Meatus</a></h3>\n<p>If the players want to go back to Bard’s Library and use this information to narrow the list down, they can talk to Meatus. </p>\n<p>Meatus tells them that <a href=\"/p/porter.md\">Porter</a> (or and Edo impersonating him) is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.</p>\n<p><strong>Why did Roma want to have someone follow <a href=\"/p/kessler.md\">Kessler</a>? How did she find out? What does she think of Meatus?</strong></p>\n<p>They could as well be against the University Library. There are two that  Roma suspects of being bad actors, the Curates Olara#tmp and Glavel#tmp. They have worked at the University Library for many many years, and they&#39;ve had the job of preservation and transport of artefacts for the archives.</p>\n<h3 id=\"sargent-horne\"><a href=\"/p/sargent.md\">Sargent Horne</a></h3>\n<p>He is an old Sargent. Dirty as the day is long, absolutely indispensable, he works for everyone and has a price for anything. He only works for the Ymil more than anyone else because he is afraid of them. He is sweet on Roma and works his tush off to impress her. He&#39;s also known as Bosun, down at the docks. There isn&#39;t anyone he can&#39;t make friends with.</p>\n<h3 id=\"the-stolen-texts\"><a href=\"/t/the_stolen_texts.md\">The Stolen Texts</a></h3>\n<p>The major texts are taken out by the bulldozers. They only came to smash, not to grab. This rubble can be reconstructed to find the life blood of information. They might meet Roma. </p>\n<p>“You know, the advantage of my line of work is, people can never be sure that it might not be the case that… \n ... are working for me or with me? or not?” </p>\n<p> What is written and recorded about her movements. She is new chaos leaking off her.</p>\n<p>“I’m a spy for the biggest, most nefarious organization you can imagine, by like 1 billion times, or some big big number. Sorry I’m babbling. You must understand, that is one damn good cover (wink).”</p>\n<p>“Do you know who you work for. Maybe: do you know who you work for?”</p>\n<p>“Are you insulted by the question?”</p>\n<p>“I think we might be able to work together” Iron. Iron until 500 years ago we had iron. There is an <a href=\"/l/the_iron_gate.md\">Iron Gate</a> to the city. We were pulling up raw nickel iron from a vein, and that built the steel of the city. But then came cheaper iron, found everywhere. Cheap iron. Anyone with cash could summon an unstoppable army, and oh look someone did. I’m working on behalf of the people who would try to make things more pleasant for everyone.”</p>\n<p>“Speaking of which, gotta work, I’ll see you guys in my offtime, you seen like a real nice bunch, but gotta, gotta go…”</p>\n<p>“Call me Queen, I like it!”</p>\n<p>The choice in the city is whether to unite the reactive elements (the <a href=\"/f/ymil.md\">Ymil</a> vs the Witches, and yes she is working for both), <a href=\"/p/bore.md\">Bore</a> has just been promoted to President of the <a href=\"/f/war_college.md\">War College</a>, and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.</p>\n<h3 id=\"hello-im-natasha-roma\">Hello, I&#39;m Natasha Roma</h3>\n<p>The first time the party needs to clean up something pronto, they bring in a pro: She knows a few things, but they are very dangerous. She wields them for maximum carnage. For you:</p>\n<ul>\n<li>The phases of the Moon corresponds to the ship attacks. The Keepers of the Moon have not been helpful, she could use someone higher up in the Upper Halls, which they might have made contact through their work with Kirkhalls.</li>\n<li>She will not work directly with the Host, as most of her contacts/contracts are directly under Host persecution. </li>\n<li>She appears to be in love with Allan.</li>\n<li>She is terrified of Bees.</li>\n<li>She has been studying bones, she has been noticing bones of a people who have lived here before.</li>\n</ul>\n<h4 id=\"handlers\">Handlers</h4>\n<blockquote>\n<p><strong>Moska</strong>: Mal the Tongue, he looks like the witcher, only a lot worse.</p>\n</blockquote>\n<blockquote>\n<p><strong>Navy</strong>: <a href=\"/p/lady_horne.md\">Lady Horne</a>, of course.</p>\n</blockquote>\n<blockquote>\n<p><strong>Ymil</strong>: Professor <a href=\"/p/fallstaff.md\">Shawn Fallstaff</a></p>\n</blockquote>\n<h3 id=\"rams-shelf\"><a href=\"/l/rams_shelf.md\">Ram&#39;s Shelf</a></h3>\n<p>This is a well-to-do district associated with university professors and higher-kirkhall prelates.</p>\n<p>Roma is there, and can purr them into talking to some of the townsfolk who saw what actually happened. This appears to be:</p>\n<blockquote>\n<p>&quot;Have you ever wondered why all house mistresses have the same demeanor? It&#39;s because it&#39;s easier to sub them out, you see.&quot;</p>\n</blockquote>\n<blockquote>\n<p>&quot;I do actually work here, occasionally. And the clientle are very, very talkative. But usually I just come here for the vacation and mountain air.&quot;</p>\n</blockquote>\n<blockquote>\n<p>There are some people who might be willing to talk, in particular one of the younger clans: The Prince&#39;s Wolves. She is actually going to paint them in rose colors, as she blames them for her loss of position.</p>\n</blockquote>\n<p>Niama can tell them: </p>\n<ul>\n<li>Hysterics, “The Shrine of the Moon” and “The Bishop&#39;s Hide”</li>\n<li>There is a really hot-headed <a href=\"/p/tyrejere.md\">Prince</a> on the premises.</li>\n<li>And he might start murdering people.</li>\n<li>His name is <a href=\"/p/silar.md\">Silar Gloryshield</a> </li>\n<li>Edo Rian has been destroying evidence. Burning a lot of paper.\nEventually, Rian will have to go with the desires of his heart: the transference to werewolf without danger to his life, and loyalty to his mistress in the upcoming battle with Aunt Agnus, who is coming with her sahagin army to put the Kraken down, before it destroys the world.</li>\n</ul>\n<h3 id=\"aunt-agnus\"><a href=\"/p/aunt_agnus.md\">Aunt Agnus</a></h3>\n<p>When they meet her, she is unfortunately storming the shrine with a spider army of craboids. She is in a bad MLM and she needs a way out. She might be the only one in this scenario who can make the connection between the Kraken and the College. Agnus will move to take out what she sees as an element too close: Edo Nain. She blames him for brokering this alliance. Her primary goal is the dissolution of relationships between the Silverbloods and the University. Edo feels the same way, and they are on the lookout for each other.</p>\n<p>The Spirit holy cow this needs to be something from Aunt Agnus’s past. What is she (Aboleth)? How did she grow up? Was it rough? She is an old brain-eater. She knows her bread and butter. Aunt Elisa eats the past. The Kraken eats stories. The ants pick up the rest, and the <a href=\"/r/rest.md\">ants pick up the rest</a></p>\n<h3 id=\"edo-nain\"><a href=\"/p/nain.md\">Edo Nain</a></h3>\n<p>He will draw them back into the past, when a Danoi army stood waiting to fight for the Blood Throne. They had marched from the Upper Sea to the Lower Sea and they brought with them 13,000 hoplites. The mountain passes had been well repaired and there had been no-one to accost them as they crossed to the City. They faced the armies of the Hill People, he saw their determination, their might, their paths, there they fought the Hill People. </p>\n<h3 id=\"the-garden-path\"><a href=\"/r/the_garden_path.md\">The Garden Path</a></h3>\n<p>If they go to the meeting, no-one but the old-bloods will try to murder them. Sing them a <a href=\"/r/swan_song.md\">swan song</a>.</p>\n<h3 id=\"the-shrine-of-the-moon\">The Shrine of the Moon</h3>\n<p>They meet these groups in a wild concert of violence, they might be dancing? Posturing?</p>\n<hr>\n<p><strong>Jat and his gang of Silverbloods.</strong></p>\n<p>These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.</p>\n<p>There aren’t a lot of Silverblood family here, but they are quite quick, like weasels. Some might be other well known <a href=\"/a/assassins.md\">assassins</a>.</p>\n<p><strong>The Broken Ones</strong>\n A band of Hill people with carnival like deformities, but they become something beautiful when they shift. Half are Moska. Roma is their leader.</p>\n<p> The Moska The Moska are coming to pay their respects to their great friend, the spirit of the thing that is going to kill them all.</p>\n<p><strong>The New in Towns</strong>\n – Fresh Meat – New Demons – \nYou&#39;ve run into these guys before, but huh, no faces you recognise.  Roma usually reserved this for the dumbest of the dumb, and it usually kept them out of trouble, and still entertained: Ram&#39;s Shelf.</p>\n<p>Typically, these guys are all brand new and running around like puppies.</p>\n<p>Something has changed in their demeanor this year. these are recently lead by Fred, many of them work at the Natural College, if you have an eye for that.</p>\n<p>You meet Jat and Roma, arguing but ultimately agreeing to share power when the others submit. He is a big fat lyre, his tunes obsequies, but his intentions murderous. If Roma joins, the rest of the packs will submit -- they don&#39;t have any unity. He may even point this out to Roma, to try and catch her in something, perhaps it&#39;s about how she ran off to the city, and only comes home for family ceremonies. He promises her half power, as defined in the laws ex ramis. And that&#39;s it, if she looks up those laws, she will regret kiling him. But at this point, it could go either way.</p>\n<p>Roma doesn’t believe this lie for a second, but she is watching for this to <a href=\"/r/play_out.md\">play out</a></p>\n<p>They are met with in force by Fred and the New Pups. Things are going to get a little tense. When the party shows up, Jat make take the opportunity to accuse Roma of stabbing him in the back and attack. Or he might be talked down, if he thinks there is still time to get further public. If the Game is back on, the Primals will now hit, otherwise, it’s just Agnus’s crew, with everything she can muster off The Shudder Cudder, a newly made ancient sea folk sloop.</p>\n<p>The reward for brokering peace and getting the succession worked out is 1 week of foreknowledge.  +1 CHA The chaos is deep and tasty.</p>\n<p>They hoist sail, and go howling on longships after the sloop, and they are attacked by pirates.</p>\n<h3 id=\"the-spirit-itself\"><a href=\"/p/raphael.md\">The Spirit Itself</a></h3>\n<p>The Prince’s Wolves – This guy is too cool to not be a main Character. Oh, this is Vamarm Silar Gloryshield, and he just crowned himself king. Silar will say “Well shoot, I’ve dabbled in fictions no more complicated than this” He is the emissary, and he brings a message for the King. (is this some psy-ops? Roma cannot figure this guy out?)</p>\n<p>The Tower of Aunt Agnus\nBig Tentacles, oh my. The island has a lake, and the lake is deep. There are tentacles in the lake. A huge monster tree. It tries to eat them, in a friendly way. It smells so sweet and it sings so gently. The island seems really pleasant, suddenly there are motes of light and everything sounds like it is far away. You can somehow see better, see clearer. The aboleth enters your mind for the first time. Agnus asks you what you most desire. You know you must tell the truth.</p>\n<p>This is when <a href=\"/p/nain.md\">Edo Nain</a> springs into action, if he’s still alive. He will mindblank them all with scrolls and then tells them to proceed as they wish. #TODO He will have the Spirit with him, if they let him have it, and maybe Option Bols, if he survived so far. Bols will meet Fred soon. That is going to be the tightest of bonds in the City, as it Changes. </p>\n<p>At the confrontation, if they can introduce to Agnus a solid connection within the Natural College, she will put off the war of succession. The seas can be at peace. It’ll be known as the 11 hours war. There was even a successful mutiny. Maybe the moon will come up. The Admiral’s College is in absolute uproar. Josriel is an Admiral and she will be running a squadrun of Host Ships to run them to ground, wherever they might be. This will come to be known as the First Fleet, as it is the first to go into the Moongate. When you go through, the boat is dumped upside down in the water, with you on the bottom. That’s about all. If the party is there, they get to meet the Sun King instead of Josriel. He will be swimming for his life off the Reed Island.</p>\n<p>Aftermath: someone was bound to slip up. Either they know more about Roma, Bore, Agnus, or Nain after this, or Silar will notice something and give them a mission to check up on, because he’s a smart guy. There is the mystery of the ship and of the disappearance of Saxon and Gladhand’s fleet.</p>\n",
+      "excerpt": "<p>Oley Bae, Natasha, </p>",
+      "meta": {
+        "relativePath": "roma.html",
+        "createdAt": "2022-07-26T02:43:13.193Z",
+        "lastModified": "2022-07-26T02:43:13.193Z",
+        "size": 12653,
+        "formattedSize": "12.4 KB"
+      }
+    },
+    {
+      "id": "saad",
+      "contents": "<h1 id=\"saad-khan\">Saad Khan</h1>\n<p>Former Kirkhall Warden Saad Khan has been imprisoned for plotting against the Upper Halls. </p>\n<p>He is actually innocent, but the hard evidence has certain forgeries on his person. He isn’t so much interested in clearing his name, but in getting out of the city in a hurry. He will work with Bore if any jobs present themselves. He resides in the desert, in exile.</p>\n<p>If they can bring him to report to Bore, that will win some warbucks. The Grey Clerics will be put on a boat prototype as Marines.</p>\n<h3 id=\"general-khan\">General Khan</h3>\n<p>A missapplied title to the warhero of countless exchanges with the Empire. He has held a ragged front in the mountains, forging alliances with some Erimesh tribes and some older Empire families. He has many enemies amoung all factions and will pretty much be the butt of every intrigue that can take place.</p>\n<p>His first post, Laguard was under immenent attack by the Erimesh, while they were settling into the Tels. They asked for land and he entreated with Bore to allow their inclusion as citizens. Bore decided to refuse their request, partly because he assumed that they wouldn&#39;t attack Saad, given his ties to the Erimesh and his knowledge of their customs.</p>\n<p>He assumed wrong. They laid ancient claim to Tel Kur and invaded the city. Lakguard bore the greatest part of the assault. He held his post to the end, and finally surrendered when his men were clearly overmatched. He was spared and escaped to the city.</p>\n<p>Bore had a tough decision: how to keep Saad useful? He incorporated the entire army and granted citizenship to all Erimesh. He granted them their ancenstral</p>\n<p>He had not counted on Saad&#39;s pride. Saad&#39;s popularity in the city grew, supported largely by old families of Eshar and the credubility of the sincerety of his defense. Rather than spreading rancor, the new citizens enthusiastically supported the man who had defended his city so abely against them. Public opinion soon found a culprit, perhaps due to Saad&#39;s testimony </p>\n<p>Bore lost his consolship and took a fellowship at War College &amp; Bolsingers. Saad became Warden of the Kirkhalls, and immediately raised an army of Silvermen and Danoi to oppose the return of the Black Emporer.</p>\n<p>He has since returned to the city for two events: the </p>\n",
+      "excerpt": "<p>Former Kirkhall Warden Saad Khan has been imprisoned for plotting against the Upper Halls. </p>",
+      "meta": {
+        "relativePath": "saad.html",
+        "createdAt": "2022-07-17T03:22:30.880Z",
+        "lastModified": "2022-07-17T03:22:30.880Z",
+        "size": 2261,
+        "formattedSize": "2.2 KB"
+      }
+    },
+    {
+      "id": "sargent",
+      "contents": "<h1 id=\"sargent-horne\">Sargent Horne</h1>\n<h2 id=\"harbormaster\">Harbormaster</h2>\n<h2 id=\"the-danoi\"><a href=\"/f/the_danoi.md\">The Danoi</a></h2>\n<h2 id=\"natural-college\"><a href=\"/f/natural_college.md\">Natural College</a></h2>\n<h2 id=\"bolsingers\"><a href=\"/f/bolsingers.md\">Bolsingers</a></h2>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "sargent.html",
+        "createdAt": "2022-05-21T02:02:11.280Z",
+        "lastModified": "2022-05-21T02:02:11.280Z",
+        "size": 155,
+        "formattedSize": "155 Bytes"
+      }
+    },
+    {
+      "id": "sarl",
+      "contents": "<h1 id=\"sarl-agab\">Sarl Agab</h1>\n<p>Tribune of Lagash, brother to Sire Jan.</p>\n<p>He has been instrumental in keeping Silar from dissapation and medicating him for his madness. He is worried about Silar&#39;s death, and has been keeping tabs on <a href=\"/p/niflar.md\">Nilfar</a>.</p>\n",
+      "excerpt": "<p>Tribune of Lagash, brother to Sire Jan.</p>",
+      "meta": {
+        "relativePath": "sarl.html",
+        "createdAt": "2022-07-16T02:24:25.335Z",
+        "lastModified": "2022-07-16T02:24:25.335Z",
+        "size": 240,
+        "formattedSize": "240 Bytes"
+      }
+    },
+    {
+      "id": "sickman",
+      "contents": "<h2 id=\"alex-sickman\">Alex Sickman</h2>\n<blockquote>\n<p><strong>Sir Charles Antony Richard Hoare</strong></p>\n<blockquote>\n<p>*“I call it my billion-dollar mistake.</p>\n</blockquote>\n</blockquote>\n<p>Seargent of <a href=\"/f/beowulf.md\">House Beowulf</a>. :warning:</p>\n<p><a href=\"https://github.com/grantwinney/BlogCodeSamples/issues\">Issues</a></p>\n<p><img src=\"https://i.imgur.com/v8IVDka.jpg\" alt=\"m&#39;lady\"></p>\n",
+      "excerpt": "<p><strong>Sir Charles Antony Richard Hoare</strong></p>",
+      "meta": {
+        "relativePath": "sickman.html",
+        "createdAt": "2022-04-08T03:19:11.675Z",
+        "lastModified": "2022-04-08T03:19:11.666Z",
+        "size": 306,
+        "formattedSize": "306 Bytes"
+      }
+    },
+    {
+      "id": "silar",
+      "contents": "<p>The Erim</p>\n<p>The Silvermen believe in two things, Iron and Horses. They are also taken with how well slavery works for them. They are very reasonable people otherwise, and can actually get together an army’s supply lines. They are used to building large armies and staging 3 year sieges to assault their enemies. The Orcs have long threatened them, and they look forward to using their allies to deliver them a powerful blow. This will be a good central conflict for levels 10-15. Niflar Halfshield, his half brother Silar Gloryshield is willing to join up and will even begrudgingly follow orders if the Stone King arrives. But he’s right about making an assault on the Horde. If the Sea People can be convinced to join, and if he can get Bore to let him establish a shipyard on the Long Lake, Gloryshield (Vamarm) will lead the Erim against the Orcs.</p>\n<p>Lagash is a settlement the silvermen have established for themselves. Along the sea coast, riddled with ruined settlements, this one has survived the last Opening and is now establishing caravan routes between the rivers. A caravan route is also being tunneled through the mountains. Silar also has been building boats in Lagash. It has also become a huge illicit trade hub and the silvermen are fast becoming the largest slaver market on the coast. They have become too large a target to be ignored for the Orcs. They will be prepared for the Second Gift, or swept away by it, depending on whether they are able to make the changes to reconnect with Eschar. </p>\n<p>The Baynas</p>\n<p>To the east and west of the long sea, there are 2 ancient reservoirs build long ago. They have excellent spillways and drain into the Long Sea, or can be dumped into the mountain. There have been cuts put into to increase the drainage of the Long Sea during drought, these are dangerous during spate and will need to be corrected or will flood the city.</p>\n",
+      "excerpt": "<p>The Erim</p>",
+      "meta": {
+        "relativePath": "silar.html",
+        "createdAt": "2022-04-08T03:19:11.680Z",
+        "lastModified": "2022-04-08T03:19:11.677Z",
+        "size": 1890,
+        "formattedSize": "1.8 KB"
+      }
+    },
+    {
+      "id": "siobane",
+      "contents": "<h1 id=\"siobane\">Siobane</h1>\n<h2 id=\"the-spider\">The Spider</h2>\n<h2 id=\"the-misrayim\"><a href=\"/f/the_mizrayim.md\">The Misrayim</a></h2>\n<h2 id=\"the-green\"><a href=\"/f/green.md\">The Green</a></h2>\n<h2 id=\"the-moska\">The Moska</h2>\n<h2 id=\"the-host\">The Host</h2>\n<h2 id=\"the-players\">The Players</h2>\n<p>She will read for them, but you should select what she reads ahead of time, then cheat the cards to the top of the deck. If your slight of hand is bad, just tell everyone that you shuffled. The order can be taken from what you&#39;ve already seen or they can represent her agenda. Whatever scares them the most.</p>\n",
+      "excerpt": "<p>She will read for them, but you should select what she reads ahead of time, then cheat the cards to the top of the deck. If your slight of hand is bad, just tell everyone that you shuffled. The order can be taken from what you&apos;ve already seen or they can represent her agenda. Whatever scares them the most.</p>",
+      "meta": {
+        "relativePath": "siobane.html",
+        "createdAt": "2022-04-08T03:19:11.691Z",
+        "lastModified": "2022-04-08T03:19:11.682Z",
+        "size": 458,
+        "formattedSize": "458 Bytes"
+      }
+    },
+    {
+      "id": "skyre_gowan",
+      "contents": "<h1 id=\"skyre-gowan-roan\">Skyre Gowan Roan</h1>\n<p>When asked about the ghost ships:</p>\n<ul>\n<li><a href=\"/p/aunt_elsela.md\">Aunt Elisa</a> has been spending a lot of time in the depths and going deeper and deeper  </li>\n<li>Elisa sometimes gets too obsessed and in too deep with things.    </li>\n<li>She has a knack for showing up at just the wrong time with the right motivations, but sometimes she does the opposite.</li>\n</ul>\n<p>Later, when they can tell what she is Haggity hag swamp hag: </p>\n<ul>\n<li>That the givers of green don’t really have any hierarchy, but they do not ever move on their own, there must be three giver. (She was involved with Hiram’s takeover of the Island and the new beginning of the game)   </li>\n<li>She will offer whatever <a href=\"/p/bore.md\">Bore</a> offered and more. She knows <a href=\"/p/roma.md\">Roma</a>.   </li>\n<li>She has some research on the Stigians, if she feels they are safe enough. This is very cryptic.  </li>\n<li>She doesn’t know that the Edo are behind this, she knows some of them, and is surprised they are mixed up in this, if they tell her about <a href=\"/p/parson.md\">Parson</a> Fillstorm.    </li>\n<li><a href=\"/p/aunt_elsela.md\">Aunt Elisa</a> has had an old tower in Finder’s Cove for a long time, somewhere belowthe observatory. Perhaps the city lights are why the people there keep dark streets, around the observatory “For the Lady in the Tower” they will kiss their hands and wave to <a href=\"/p/ava.md\">Ava</a></li>\n<li>They may have to go into the <a href=\"/f/the_beef_rake_hats.md\">Beef Rake Hats</a> and beat some information out of them. It’s called “parley”</li>\n</ul>\n<p>Once the City Changes, Skyre will be given a pile of free power from somewhere, and starts to freak out/ become wary. She starts to see things, but her powers can be augmented by forming a coven. So this or Elisa or <a href=\"/p/ava.md\">Ava</a> or Roma, some of the Players?</p>\n<p>Who is the bad guy that Skyre Gowan needs to hunt down? A bunch of Empire Oni-cronies? The Game? We need more Game. Wraiths, Shadows, showdowns, excitement. Is it the Empress come to claim the Sun King as her consort? Or maybe someone claiming Bore as a ersatz Roma?</p>\n",
+      "excerpt": "<p>When asked about the ghost ships:</p>",
+      "meta": {
+        "relativePath": "skyre_gowan.html",
+        "createdAt": "2022-04-08T03:19:11.700Z",
+        "lastModified": "2022-04-08T03:19:11.693Z",
+        "size": 2030,
+        "formattedSize": "2.0 KB"
+      }
+    },
+    {
+      "id": "surl",
+      "contents": "<p>Surl is this guy</p>\n",
+      "excerpt": "<p>Surl is this guy</p>",
+      "meta": {
+        "relativePath": "surl.html",
+        "createdAt": "2022-04-08T03:19:11.703Z",
+        "lastModified": "2022-04-08T03:19:11.701Z",
+        "size": 16,
+        "formattedSize": "16 Bytes"
+      }
+    },
+    {
+      "id": "telman",
+      "contents": "<h1 id=\"harper-helman\">Harper Helman</h1>\n",
+      "excerpt": "",
+      "meta": {
+        "relativePath": "telman.html",
+        "createdAt": "2022-06-21T18:57:37.213Z",
+        "lastModified": "2022-06-21T18:57:37.213Z",
+        "size": 15,
+        "formattedSize": "15 Bytes"
+      }
+    },
+    {
+      "id": "the_crones",
+      "contents": "<p>The Island Crones<br>Three crones attend the pots and cook for the village. They don’t seem to leave the campfire. Their soup has been poisoned, but not by them, by Porter, in advance of the attack:</p>\n<ol>\n<li><p>They will tell you a story (fight scene)</p>\n</li>\n<li><p>They will tell you something about the Sun King: He will be a shaper of glass.</p>\n</li>\n<li><p>They also saw the ghost ship. They can back up Porter’s story and probably add details.</p>\n</li>\n<li><p>They need more stuff from the forest, be a dearie and fetch it?</p>\n</li>\n<li><p>They can tell you where the merchant ship’s logs are. (yes, the ship of Captain Fillstorm, and the attack of the ghost ship that happened 50 years ago)</p>\n</li>\n<li><p>They are givers of the green – the crazy kind? </p>\n</li>\n<li><p>They have recently been offered a way for them to proceed with the protection of their island with an offer of the deed from the Natural College, if they do not take their turn in the Game. It has been 7 years since their last move, and everything has been deadlocked.</p>\n</li>\n<li><p>They have decided to destroy the city and will not begin the leaf game. The other leaf players cannot move until they make their move.</p>\n</li>\n<li><p>They can fly, and eat babies.</p>\n</li>\n</ol>\n<p>Resolutions for this drawing:</p>\n<p>If the party can get a contact in the Natural College higher up and introduce them to a contact of the Leaf Game, they will resolve this overarching conflict. The Natural College will get a move in the Game and the Game will go on. Otherwise, Hiram’s actions block them, although at the cost of Magd.</p>\n<p>Hesitations: </p>\n<p>If there is lull, Bols can show up and start searching door to door, with a band of Tearers. He has come overland from the other end of the iron road, and may meet them there, coming the opposite way. If the marines show up, they will halt in awe and Bols will move to assist them. The sailors he has little time for, but WILL process all of the unregistered crew among them.</p>\n<p>There is a Smokehouse it holds secrets</p>\n<ol>\n<li><p>Salt, rocks and coal.</p>\n</li>\n<li><p>Some notes stuffed behind an old brick. A ship’s log.</p>\n</li>\n<li><p>Some normal looking byproduct of the experiment. The corpse on an Elf.</p>\n</li>\n<li><p>The key to the circle.</p>\n</li>\n<li><p>Bide a while. Smoke. They are Inner Circle, but will not convene. This is so they can continue the experiment, and build power through influence with the Society. As this is Bore’s experiment and Roma’s to clean up, a nice Fellowship ceremony might clear things up.</p>\n</li>\n</ol>\n",
+      "excerpt": "<p>The Island Crones<br>Three crones attend the pots and cook for the village. They don&#x2019;t seem to leave the campfire. Their soup has been poisoned, but not by them, by Porter, in advance of the attack:</p>",
+      "meta": {
+        "relativePath": "the_crones.html",
+        "createdAt": "2022-04-08T03:19:11.713Z",
+        "lastModified": "2022-04-08T03:19:11.705Z",
+        "size": 2464,
+        "formattedSize": "2.4 KB"
+      }
+    },
+    {
+      "id": "the_sun_king",
+      "contents": "<h2 id=\"the-sun-king\">The Sun King</h2>\n<p>Gifts of the Circle King</p>\n<ul>\n<li>First Gift: <a href=\"/i/gold.md\">Gold</a>.</li>\n<li>Second Gift: The flanking <a href=\"/f/the_empire.md\">Oni</a> assault.</li>\n<li>Third Gift: <a href=\"/p/the_kraken.md\">The Kraken</a>.</li>\n</ul>\n<h3 id=\"the-return\">The Return</h3>\n<ul>\n<li>Drug in kicking and screaming</li>\n</ul>\n<h3 id=\"the-fullfillments\">The Fullfillments</h3>\n<ul>\n<li>Plant the iron rose</li>\n<li>Bring the moon back</li>\n<li>Slays the dragon.</li>\n<li>Rescues the princess.</li>\n</ul>\n<h3 id=\"the-secrets\">The Secrets</h3>\n<h3 id=\"speeches\">Speeches</h3>\n<p>When he returns, he will have one speech, the Greeting and then the Pronunciation, and then the Charter. </p>\n<h4 id=\"the-greeting\">The Greeting</h4>\n<p>253 years ago, I first stepped on this land. I was in a terrible pickle, with enemies quickly hunting me. Climbing up the cliff face where I now stand, I beheld the sun set upon the Long Lake, and my heart was lifted by the sight of the Akaerak Poles. There surrounding the lake were fishing poles and there rested the fishermen of Cham, hailing this ragged stranger standing on their slopes. They fed me and showed me how to fish in the Binding Lake for my supper.</p>\n<p>Later, these people took me to their sacred island which they once called the Eye. They showed me how to read the runes, and showed me how I might retake Isin. I called for clay and quill and wrote The City. Our last act before leaving the Far Shore had been to recapture the looted library of The Mind. We carefully translated these texts into Clay and founded the Universities. In 50 years we’d built the cities and roads. Then in 100 we conquered all the land around us, and freed their people to rule under their own leadership. 50 years ago, our policies with the Northern Alliance led to our partnership. What this all led to was the creation of the greatest army I have ever seen. Those fishermen, those northern traders, of cedar and silver. Those Keepers of the Chest of Tiamat.</p>\n<p>Now must I come to the matter at hand: so long as the moon holds the sky, the sea-road to Esh will remain open. This moon will not last long, perhaps 20 years. We will not leave these lands undefended. If we were to withdraw all armies at once, the chaos sewn in the outer reaches of the empire would be catastrophic, and the Northern Kingdoms would probably rebel. (Cheers) But I will only be taking half of all forces with me when I depart in 6 months. The rest of them will have their hands full rearming and training the next 39 waves of fleets.</p>\n<p>These will be very difficult years, for all of us, but the fate of those going in the ships will be worse. They will face foes unimaginable, and hordes innumerable. Isin has once again gone into a horrible Expansion, and has determined that this world will become subsumed. It’s mind and will have bent our way, and only through its own weapons do we dare oppose it. There will not sail a ship without a Bindstone aboard.</p>\n<p>Have you not felt the tug of Isin on your soul? A fatigue, a soullessness, that Mask of despair. Here I will  plant the first Iron Rose, to grow here from the city and provide it with Rose Iron. I will bind it with a blade crafted by my hand, the green glass.</p>\n<p>The ships I have brought were built in Isin. They are lined with gold, which is more easily available there.</p>\n<p>The first gift is gold &amp; economic collapse. The second is the invasion of the Empire. The third is the corruption of the Kraken.</p>\n<p>I have brought with me too much gold to put on the market all at once. Please let me know if you want to get into safely offloading a lot of gold. The first groups of people and any of their friends who are caught trying to get the gold, are going on the first ships that will begin to sail next week. The Deep and the Green are with us!</p>\n<p>When they step up to the flint house, they see the same sight. The sun setting, the fishermen, the island. Make that experience of the Adventure to the Eye, perhaps with silly details. The King, after all, is a fool.</p>\n",
+      "excerpt": "<p>Gifts of the Circle King</p>",
+      "meta": {
+        "relativePath": "the_sun_king.html",
+        "createdAt": "2022-04-08T03:19:11.723Z",
+        "lastModified": "2022-04-08T03:19:11.715Z",
+        "size": 3848,
+        "formattedSize": "3.8 KB"
+      }
+    },
+    {
+      "id": "the_yeti",
+      "contents": "<h4 id=\"yeti-backstory\">Yeti Backstory</h4>\n<p>They are the reincarnated spirits of those who have been evil and died. Closer to the <a href=\"/e/missing_prophet.md\">truth</a>, they are tourists and you are the <a href=\"/f/natural_college.md\">Time Police</a>. No one further in than you are.</p>\n<p>What do you do about Yetis that don&#39;t die?</p>\n",
+      "excerpt": "<p>They are the reincarnated spirits of those who have been evil and died. Closer to the <a href=\"/e/missing_prophet.md\">truth</a>, they are tourists and you are the <a href=\"/f/natural_college.md\">Time Police</a>. No one further in than you are.</p>",
+      "meta": {
+        "relativePath": "the_yeti.html",
+        "createdAt": "2022-04-08T03:19:11.729Z",
+        "lastModified": "2022-04-08T03:19:11.724Z",
+        "size": 294,
+        "formattedSize": "294 Bytes"
+      }
+    },
+    {
+      "id": "theodora",
+      "contents": "<h2 id=\"theodora\">Theodora</h2>\n<p>The Goddess of the Sea People. While the Empire has been building the legions, the Sea People have become the highest military caste. Think Prussians mixed with Spartans. Hoplites, men with swords and horses and iron. They are overwhelmingly integrated, as administration and military excellence.</p>\n",
+      "excerpt": "<p>The Goddess of the Sea People. While the Empire has been building the legions, the Sea People have become the highest military caste. Think Prussians mixed with Spartans. Hoplites, men with swords and horses and iron. They are overwhelmingly integrated, as administration and military excellence.</p>",
+      "meta": {
+        "relativePath": "theodora.html",
+        "createdAt": "2022-04-08T03:19:11.736Z",
+        "lastModified": "2022-04-08T03:19:11.731Z",
+        "size": 311,
+        "formattedSize": "311 Bytes"
+      }
+    },
+    {
+      "id": "tobit_drake",
+      "contents": "<h1 id=\"tobit-drake\">Tobit Drake</h1>\n<ul>\n<li>Professor at Forger&#39;s</li>\n</ul>\n<p>He has infiltrated the College of the Mind (or Falstaff&#39;s coterie beforehand) and has secured a lot of information for a his <a href=\"/p/beruni.md\">master</a> -- a lord of the Deep. He had previously been looking into a fellowship at the Natural Collete, but two years ago he shifted his focus to Fallstaff himself. He has invested in <a href=\"\">Lamark&#39;s parents</a> as patrons, and |</p>\n<h3 id=\"ava-gavin\"><a href=\"/p/ava.md\">Ava Gavin</a></h3>\n<p>Ava has been following up a chain towards <a href=\"/p/beruni.md\">Beruni</a>, and has a lot of information on him. She knows that something of his is hidden in the stables, but </p>\n",
+      "excerpt": "<p>He has infiltrated the College of the Mind (or Falstaff&apos;s coterie beforehand) and has secured a lot of information for a his <a href=\"/p/beruni.md\">master</a> -- a lord of the Deep. He had previously been looking into a fellowship at the Natural Collete, but two years ago he shifted his focus to Fallstaff himself. He has invested in <a href>Lamark&apos;s parents</a> as patrons, and |</p>",
+      "meta": {
+        "relativePath": "tobit_drake.html",
+        "createdAt": "2022-07-19T04:55:14.959Z",
+        "lastModified": "2022-07-19T04:55:14.959Z",
+        "size": 604,
+        "formattedSize": "604 Bytes"
+      }
+    },
+    {
+      "id": "tyrejere",
+      "contents": "<p>Tyrejere </p>\n<h2 id=\"the-nain-affair\">The <a href=\"/p/nain.md\">Nain</a> Affair.</h2>\n<p>Once he’s warmed to them ahem, knocked them around a bit, or let Bore do it if he’s around. If <a href=\"/p/nate.md\">Nate Hound</a> is around, he will mention that this is a punishment, not a training excercise (he gets that plenty) but a dumping ground for War College shits, which is a total lie. He also complains that his friend, Hatchaxel, has had such a rum go of it. This is not how he feels, he does it to make himself look stupid.</p>\n<p>Tyrejere will tell them about the night in question. Nain had been recruiting for the Edo in this area. He had been working on a young group of newcomers, they had made some headway with some youngbloods.</p>\n<ul>\n<li>Youngbloods call themselves Swamprats</li>\n<li>the Bog Dogs might know them</li>\n</ul>\n<h2 id=\"bog-dogs\">Bog Dogs</h2>\n<p>If the Bog Dogs were involved, things don’t look good for anybody, esp. If Fred is running with them now. They go from two dogs to three dogs at that point, see Changes of the City.</p>\n<h3 id=\"aunt-elisa\">Aunt Elisa</h3>\n<p>If they come looking for information on Lampry Aunt Elisa He first explains pedantically that she is a wizard.</p>\n<h2 id=\"the-danoi-party\">The Danoi Party</h2>\n<h2 id=\"rams-shelf\">Ram&#39;s Shelf</h2>\n",
+      "excerpt": "<p>Tyrejere </p>",
+      "meta": {
+        "relativePath": "tyrejere.html",
+        "createdAt": "2022-06-21T02:25:44.556Z",
+        "lastModified": "2022-06-21T02:25:44.556Z",
+        "size": 1142,
+        "formattedSize": "1.1 KB"
+      }
+    },
+    {
+      "id": "undeth",
+      "contents": "<h1 id=\"undeth-mythros\">Undeth Mythros</h1>\n<p>She serves as enforcer to the <a href=\"/p/king_pyre.md\">General</a>. Together with her captains, she has been able to become the formost arm of the formost army of the Empire. She is obsessed with the truth, paladin of the <a href=\"http://dnd5e.wikidot.com/paladin:crown\">crown</a> she uses her Champion Challege on Pyre, before he heads down the bank.</p>\n<p>The Hadrad Augurs (they often have long horns and glowing eyes). The ancient Pyre, slowly embers into ash-tipped hair. He wears it long and in locks behind his back. These were once very tight braids, but they are a litle chopped, worried or burnt.</p>\n<p>As they approach the lava flow, the greens and the ettercaps will have a conversation, and the players can join in or get killed. The greens will not back down from this one; they are far away from home and they have a mission to fulfill.</p>\n<p>&quot;Oh, now that I&#39;m dead, I&#39;m not afraid of those guys anymore.&quot; He can be resurrected to serve as figurehead of their ship? It might be good to build this guy up. </p>\n<p>Undeth Mythros is a Pricess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson&#39;s help.</p>\n<p>If she isn&#39;t the caulker, she might be a good alternative.</p>\n<p>Her Captains: (Bastards raised from old blood)</p>\n<ul>\n<li>Stalker Oneharm -- Blue, but sent from their side, to keep an eye on Undeth.  His other arm as regrown, but something is wrong with it. He is a Wizard of Alam. He is a zard, but probably a bladesinger.</li>\n<li>Kilsier Frates -- Hexlock</li>\n<li>Athanos Grim -- Grave cleric assassin.</li>\n<li>Gigantus Phriapus -- huge dude from Alam. Seven feet tall before the horns, and he uses the Bow/Crossbow, whatever form is the meanest. He uses all the nastin Fighter, Rogue and Ranger ultimate Assassin.</li>\n</ul>\n<h2 id=\"stalker\">Stalker</h2>\n<p>They will happen upon him in a non-violent scenario, and he will recognise them from someplace <a href=\"/l/rams_shelf.md\">rams shelf</a>. He thinks they are servents of Aunt Agnus and are essentially on a fact-finding missing for the defence of the delta. He will take them to see Undeth. He will pretend to speak broken Eschar, and will try his best to come off as an idiot, perhaps complaining about the food?</p>\n<h2 id=\"the-deal\">The Deal</h2>\n<p>They have started to suspect that they might need to start topple the Empire in order to survive. Undeth has captured a white imperial courier. She is warded by Imperial Seal, which means she is in an antimagic shell. She is a wizard. Aunt Agnus also has emmisaries, if the party aren&#39;t already representing her. Largely, they wish to help the Captain and prevent violence against her. </p>\n<p>Undeth has already attempted to assassinate the Emporer, and he is currently either dead or MIA. But that is only part of her plan. She is also going to unleash King Pyre on his suicidal attempt to rebirth the species. She will try to convince them to jump the Emporer and give them as much weaponry and intelligence as she can.</p>\n<h2 id=\"the-emporer\">The Emporer</h2>\n<p>The most ancient half-dragon</p>\n<h2 id=\"ixasax-red\">Ixasax Red</h2>\n<p>She will play dead.</p>\n<p>While they are inspecting her, she will learn the location of the Emporer. She will offer to guide them to him in exchange for her life. Undeth wants to facilitate this deal, if she thinks the players can get the job done. She warns them about his strengths and gives them some poppers and bangers.</p>\n<p>All they can tell from good sense motives is that she is fantastically overstressed and desperate. This is such a long shot, but if it works, then they all get to live again.</p>\n<p>They have to believe her.</p>\n",
+      "excerpt": "<p>She serves as enforcer to the <a href=\"/p/king_pyre.md\">General</a>. Together with her captains, she has been able to become the formost arm of the formost army of the Empire. She is obsessed with the truth, paladin of the <a href=\"http://dnd5e.wikidot.com/paladin:crown\">crown</a> she uses her Champion Challege on Pyre, before he heads down the bank.</p>",
+      "meta": {
+        "relativePath": "undeth.html",
+        "createdAt": "2022-07-16T00:05:30.771Z",
+        "lastModified": "2022-07-16T00:05:30.771Z",
+        "size": 3707,
+        "formattedSize": "3.6 KB"
+      }
+    },
+    {
+      "id": "vaunne",
+      "contents": "<h1 id=\"duchess-vaunne-julia-lamark\">Duchess Vaunne Julia Lamark</h1>\n<p>President at <a href=\"/l/beowulf_castle.md\">Beowulf Castle</a>. Her residence is <a href=\"/l/the_stables.md\">The Stables</a>. Her housekeeper, Kian Jan has been compromised by <a href=\"/p/tobit_drake.md\">Professor Tobit Drake</a></p>\n<p>She is Lamark&#39;s mother. Her husband is <a href=\"/p/von_der_fluss.md\">Captain Martin von der Fluss</a> -- her first husband was Duke Erin Vaunne.</p>\n<p>During the events of <a href=\"/t/the_stolen_texts.md\">The Stolen Texts</a> she will offer as much help as she can, but her help is ultimately controlled by <a href=\"/p/kian_jan.md\">Kian Jan</a>.</p>\n",
+      "excerpt": "<p>President at <a href=\"/l/beowulf_castle.md\">Beowulf Castle</a>. Her residence is <a href=\"/l/the_stables.md\">The Stables</a>. Her housekeeper, Kian Jan has been compromised by <a href=\"/p/tobit_drake.md\">Professor Tobit Drake</a></p>",
+      "meta": {
+        "relativePath": "vaunne.html",
+        "createdAt": "2022-07-19T03:56:17.993Z",
+        "lastModified": "2022-07-19T03:56:17.993Z",
+        "size": 543,
+        "formattedSize": "543 Bytes"
+      }
+    },
+    {
+      "id": "von_der_fluss",
+      "contents": "<h2 id=\"captain-martin-von-der-fluss\">Captain Martin von der Fluss</h2>\n<p>Retired captain in the Host. Runs a halfway house for old soldiers, and keeps them out of trouble. He is looking to head back home to the Silver Mountain, and will lend aid to them if they mount an expedition to the Orcs.</p>\n",
+      "excerpt": "<p>Retired captain in the Host. Runs a halfway house for old soldiers, and keeps them out of trouble. He is looking to head back home to the Silver Mountain, and will lend aid to them if they mount an expedition to the Orcs.</p>",
+      "meta": {
+        "relativePath": "von_der_fluss.html",
+        "createdAt": "2022-04-08T03:19:11.769Z",
+        "lastModified": "2022-04-08T03:19:11.766Z",
+        "size": 256,
+        "formattedSize": "256 Bytes"
+      }
+    },
+    {
+      "id": "whistle",
+      "contents": "<p> Captain Elara Whistle</p>\n<p>Commander of Beowulf recruits. She serves under Prince Yung and the incoming forces training. She is dragonblooded. She will have something for them to do: clear out bandits on the Iron Road. She suggests they ride with a merchant (roberto? Perhaps Pathrusim the Misrayim) as bodyguards and take the route during this season, before the rains.</p>\n<p>The bandits are digging for treasure and they’ve found some of it. They’ve been raiding for horses and caravans but have just sent some of their number back to town to buy more horses and weapons. Anyway, there is really an intellect devourer running the show. Gloryshield will have sent a group in as well, and they can confer with them or fight them to the death (this should be very deadly indeed).</p>\n<p>What was the original object of the devourer? How did Parson get it? These questions need answered.</p>\n",
+      "excerpt": "<p> Captain Elara Whistle</p>",
+      "meta": {
+        "relativePath": "whistle.html",
+        "createdAt": "2022-04-08T03:19:11.780Z",
+        "lastModified": "2022-04-08T03:19:11.771Z",
+        "size": 881,
+        "formattedSize": "881 Bytes"
+      }
+    },
+    {
+      "id": "yung",
+      "contents": "<h2 id=\"hector-yung\">Hector Yung</h2>\n<p>– Regent</p>\n<h3 id=\"when-they-get-too-close\">When they get too close</h3>\n<p>At this point, the Host will intervene and try to confiscate all of their evidence. If they resist the Tearers, they will be arrested, hopefully for something else they have done. If they allow themselves to be arrested, they can appeal to Bols or Yung, if they know him, and if they manage to get an audience with him, but he’s likely to try to get them to do another  job.</p>\n<blockquote>\n<p>Find the book thief</p>\n</blockquote>\n<h3 id=\"pointing-the-finger\">Pointing the finger</h3>\n<p>If they suspect the Host, they can go back to <a href=\"/l/bards_library.md\">Bard’s Library</a> and use this information to narrow the list down. Meatus tells them that Porter [sic] is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.</p>\n<p>The Mes Rescripted project has begun.</p>\n<h3 id=\"subcommanders\">Subcommanders</h3>\n<ul>\n<li><a href=\"/p/colt.md\">Nielson Colt</a> -- The Host Corps</li>\n<li><a href=\"/p/lord_saxon.md\">Lord Saxon</a> -- The University Guard</li>\n<li><a href=\"/p/holden.md\">Torin Holden</a> -- Beowulf Fleet and Field</li>\n<li><a href=\"/p/lesure.md\">Admiral Lesure</a> -- First Island Admiral</li>\n</ul>\n",
+      "excerpt": "<p>&#x2013; Regent</p>",
+      "meta": {
+        "relativePath": "yung.html",
+        "createdAt": "2022-06-21T23:46:11.073Z",
+        "lastModified": "2022-06-21T23:46:11.073Z",
+        "size": 1262,
+        "formattedSize": "1.2 KB"
+      }
+    }
+  ]
+}

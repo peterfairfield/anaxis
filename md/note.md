@@ -59,3 +59,10 @@ Offhand Damage + 2 + 4 + 1 + 2 + 1 = 9
 Silence.
 
 "I am white supremecist?" Then the thunder rolled, and the fiddles scraped.
+
+
+Oak tree surrounded by 7 oaks
+7 Trees in a row, fallen down
+Hole in the ground
+Tarpits
+8 Spheres of wood on stone pedistals

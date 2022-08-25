@@ -40,3 +40,5 @@ The major texts are taken out by the bulldozers. They only came to smash, not to
 ## Second Reveal's the same as the first
 
 
+## Events
+ * She will show up for a tourney or trial and bet in their favor.
