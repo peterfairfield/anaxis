@@ -18,7 +18,7 @@ Aos in death vs Aos alive. Some things were supposed to happen when Aos returned
 
 The Sun King as Ancestor or Usurper. This is when the Upper Halls become clearly Elven. Maybe the players have noticed all along.
 
-####The Byres
+#### The Byres
 Run by the Kirkhalls – a free funeral service with full burial or cremation. The poorer classes typically choose cremation and the richer, older families burial. It seems a point of pride for each.
 
-
+Post-cremation the ashes are gathered into jars in a dizzying variety of burial variations.

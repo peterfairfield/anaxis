@@ -7,3 +7,7 @@ Arch-lich of the Society
 He is Arch-Lector at Natural College. He has done a lot of things, good and bad, but he is currently obsessed with the Moon and the Sun King and the Gyre. He will also quickly befriend Char if he meets him, and they play a private game that they have made up together. They call it [Tuck Duck](/g/tuck_duck.md).
 
 If they contact him to try break in during the events of [The Stolen Texts](/t/the_stolen_texts.md).
+
+Events:
+ * Askha'hle enjoys coming out cermonies, and usually joins the scholar's walk.
+ * 

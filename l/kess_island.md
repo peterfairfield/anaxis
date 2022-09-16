@@ -17,7 +17,7 @@ They should quickly figure out that the lighthouse used to be a library, but a l
 
 The flagged square is bounded by the lighthoues canal to the east and the counting-houses to the west. The northern side is DeVerre's private residence. The southern domus is keeps a public garden which leads up to the pied-a-terre of [Harper Telman](/p/telman.md). Harper is typically away, but his staff are retired pirates. 
 
-[Siobane](/p/siobane.md) might be washing clothes in the public fountain.
+[Siobane](/p/siobane.md) might be washing clothes in the public fountain. Micah Solen and his friends often come here to enjoy themselves. He is good friends with Fred, and he often stays over the winter months on Kess, while his friends return to [Altir](/l/altir.md).
 
 ## Incoming
 

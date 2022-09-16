@@ -42,7 +42,7 @@ While the Natural College Library is going into an expansion phase, probably tak
 
 Bols has picked up Sarl, who was acting of a go-between for Mushussu, and has found out since the discovery of the forgeries that Mushussu (via Sarl) was using the Broken Leg as a deaddrop location. Sarl also had chalk, vellum and a flask of oil on him. Jobs might be:
 
-1.  Go and asses the viabillity of a defunct keep or tower as a base of operations. A large subterrain space would be great.
+1.  Go and asses the viabillity of a defunct keep or tower as a base of operations. A large subterran space would be great.
 
 ### [Kars Island](/l/kars_island.md)
 
@@ -66,7 +66,7 @@ Showdown between DeVerre and Philos, The Clerk. Bols is trying to prove he has t
     2.  If Ava is part of the prisoners or conflict, she can tell them about the state of the attack that is going on. There are 2 attacks, the big loud one and the quieter one. She knows more about the big loud one and its characteristics.
     3.  A total mistaken identity that is going to cause mayhem.
 
-### [Acceptance Ceremoy](/p/lord_bols.md)
+### [Acceptance Ceremony](/p/askhahale.md)
 
 An Acceptance ceremony, where a poor kid gets their acceptance from Natural College. When the Cursors and sent though, Bols will clear the streets, and if the players succeed in helping him prevent a stampede will get Tearer-points.
 
@@ -79,4 +79,24 @@ They will run into Bors, and after ceding neutral territory. He will tell them t
 3.  A suspect in custody for trial (probably someone like Hatchaxel, Surl, or Porter), but there has been strange security changes.
 4.  The security of Beowulf Castle has been tightened.
 
+[Locations](#locations)
+ * The Iron Gate
+ * 
+
+[People](#people)
+ * Bore is all theory and "new ideas". He isn't going to go very far.
+ * Lord Saxon
+ * 
+
+[Factions](#factions)
+ * The Host
+ * The Tearers
+ * Hospital School
+
 [Events](#events)
+ * Intake
+ * Host Coverup
+ * The Rock
+
+ [Timelines](#timelines)
+  * Operation Werewolf

@@ -1,6 +1,6 @@
-Sargent Horne
+Chuck Horne
 
-He is an old Sargent. Dirty as the day is long, absolutely indispensable, he works for everyone and has a price for anything. He only works for the Ymil more than anyone else because he is afraid of them. He is sweet on Roma and works his tush off to impress her.
+He is an old Chuck, like a stone. Dirty as the day is long, absolutely indispensable, he works for everyone and has a price for anything. He only works for the Ymil more than anyone else because he is afraid of them. He is sweet on Roma and works his tush off to impress her.
 
 Lady Horne and the Painting of the Windfinder
 
