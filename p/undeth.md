@@ -8,7 +8,7 @@ As they approach the lava flow, the greens and the ettercaps will have a convers
 
 "Oh, now that I'm dead, I'm not afraid of those guys anymore." He can be resurrected to serve as figurehead of their ship? It might be good to build this guy up. 
 
-Undeth Mythros is a Pricess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson's help.
+Undeth Mythros is a Princess of the Greens. Her tree has become a ship and has sailed down one river and up the next to find her. If they can pull her off the mountain and to Aunt Agnus, she can save her and the others bodies are prepared for their journey out to sea. They will visit the isles and bring them back, with Parson's help.
 
 If she isn't the caulker, she might be a good alternative.
 

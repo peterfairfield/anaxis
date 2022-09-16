@@ -21,7 +21,7 @@ Eventually, Rian will have to go with the desires of his heart: the transference
 
 They meet these groups in a wild concert of violence, they might be dancing? Posturing?
 
-Jat and his gang of Silverbloods. These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.
+Jet and his gang of Silverbloods. These are lone wolves who have long been tired of the councils and the succession. Jat will deconvene the shrine if he is put into power.
 
 There aren’t a lot of Silverblood family here, but they are quite quick, like weasels.
 The Moska who are coming to pay their respects to their great friend, the spirit of the thing that is going to kill them all.

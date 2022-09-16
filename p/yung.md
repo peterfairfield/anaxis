@@ -10,7 +10,7 @@ At this point, the Host will intervene and try to confiscate all of their eviden
 
 ### Pointing the finger
 
-If they suspect the Host, they can go back to [Bard’s Library](/l/bards_library.md) and use this information to narrow the list down. Meatus tells them that Porter [sic] is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from Kessler’s book gripped in its fist? The floors beneath them are blown up.
+If they suspect the Host, they can go back to [Bard’s Library](/l/bards_library.md) and use this information to narrow the list down. Meatus tells them that Porter [sic] is in the archives at this time, as he was given permission from Roma to investigate. They find a dead librarian, and all hell breaks loose. They find the next step in the bowels of the Library. The librarian has a page from [Kessler’s](/p/kessler.md) book gripped in its fist? The floors beneath them are blown up.
 
 The Mes Rescripted project has begun.
 

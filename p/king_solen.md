@@ -1,7 +1,7 @@
 # King Solen
   + The Black Emporer
  
- He first became a soldier, and fought in the human wars, and later in the Blood Empires. He then became a pirate king and established Lakash. He has never travelled to Eshar, as there is a bitterness there and grief that makes the place unapprochable, all of the lost knowledge of the lost world gathered as if in a tomb. He is too addicated to pain to allow himself to remember where to go. He thinks that what is happening to the greens is an exploitable resource instead of a final skin shedding. "do you think we could hang out in a bar while looking like a giant lizard all the time? Ever seen the seating conditions at the Opera?"
+ He first became a soldier, and fought in the human wars, and later in the Blood Empires. He then became a pirate king and established Lakash. He has never travelled to Eshar, as there is a bitterness there and grief that makes the place unapprochable, all of the lost knowledge of the lost world gathered as if in a tomb. He is too addicted to pain to allow himself to remember where to go. He thinks that what is happening to the greens is an exploitable resource instead of a final skin shedding. "do you think we could hang out in a bar while looking like a giant lizard all the time? Ever seen the seating conditions at the Opera?"
 
  He began to see the changes spread, and he saw the potential in the trapped refugees to build something. -- shit.
 

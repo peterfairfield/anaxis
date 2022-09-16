@@ -20,7 +20,7 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 ## [The Lakoizh](/f/lakoizh.d)
 
-#### Prince Trigan Lakoizh -- The Master, Peacemaker. Died of natural causes, leaving his two sons, Emul and Jet Founder of the Prince's Wolves
+#### Prince Trigan Lakoizh -- The Master, Peacemaker. Dies of natural causes, leaving his two sons, Emul and Jet Founder of the Prince's Wolves
 
 #### Warmaster Sire Jan Thornshield -- elected Master after the Prince's death. He maintains status quo while deciding between Emul and Jet. He eventually coose Emul, who becomes the Master.
 
@@ -28,7 +28,7 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 #### [Emul Mesh](/p/emul_mesh.md) -- Engaged to Sire's daughter, Else Thornshield.
 
-#### [Jet](/p/jet.md) 
+#### [Jet Lakoizh](/p/jet.md) -- Eldest son of Trigan, 
 
 #### [Esme Anani](/p/esme.md) -- Sire's daughter. Bakes it in a pumpkin shell, kept them very well.
 
@@ -40,11 +40,11 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 #### Annani -- 
 
-Sire Jan returns with his army, bringing Undeath and Rian, uniting the Lakoizh and throws a large party. His daughter Esme is betrothed to Emul. After some deliberation period, Jet is declared the Master.
+Sire Jan returns with his army, bringing Undeath Myros, and Rian, uniting the Lakoizh and throws a large party. His daughter Esme is betrothed to Emul. After some deliberation period, Jet is declared the Master of Lagash.
 
 The Plague is travelling through the Silvermen, wiping out about a third of the population. The survivors are often those claiming Hadrad blood.
 
-Jet declares his love for Esme. Sire Jan and Emul argue with him, and Sire Jan denounces them all and heads for the hills. 
+Jet declares his love for Esme. Sire Jan and Emul argue with him, as Emul is already in love with Esme, and had Sire Jan had intended for them to marry. Sire Jan denounces them all and heads for the hills to escape the plague. 
 
 Offended by Sire Jan's self-exile, Jet counter spuns Esme and marries Undeath and crowns her Mistress of Lagash.
 
