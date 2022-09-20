@@ -11,7 +11,8 @@ The Dagger, They Black and White, White and Black, The Stag, The Sun
 The Ten of Chinese
 If they follow up on the Dagger, they will fall afoul of the  
 
- The Bowl, "myriad" (万) 
+The Bowl, "myriad" (万) 
+
 The vessel of Enki, the drinking urn. The naphtha urn. When they see it, they realize it is what it is.
 
 The Staff

@@ -27,7 +27,7 @@
 > A dashing one takes 2 actions
 
 > ***Attack.*** *Rapier:* +7 to hit, reach 5ft. *Hit* 1d8 + 5 Slashing 1d8 Thunder  
-> ***Attack*** *lingshot:*  +7 to hit, reach 10 ft., three attacks. *Hit* : 1d10 force damage.
+> ***Attack*** *slingshot:*  +7 to hit, reach 10 ft., three attacks. *Hit* : 1d10 force damage.
 
 > ### Bonus Actions
 > ***Play.*** Feint. Opponent loses their bonus action.

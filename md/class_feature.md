@@ -10,11 +10,11 @@ ___
 ___
 - **Armor:** None
 - **Weapons:** None
-- **Tools:** Artian's tools, Thieve's tools
+- **Tools:** Artisan's tools, Thieve's tools
 
 
 ___
-- **Saving Throws:** Strength, Dexerity
+- **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose two from Deception, Medicine, Performance, Perception
 
 #### Equipment
