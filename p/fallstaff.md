@@ -8,4 +8,9 @@ If the compromise over text is reached, the Society will allow the elevation of 
 
 ## Introspection
 
-Wherein the mind does examine itself.
+Wherein the mind does examine itself. 
+
+## Caul 
+
+Placing a caul from the jar on your head has several effects. The jars communicate via rebus thoughts, too clever puzzles that only work with a push from your own mind. Perhaps this can be done by only talking while the player is talking, or with drawn notes.
+

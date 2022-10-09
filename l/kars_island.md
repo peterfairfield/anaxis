@@ -12,14 +12,14 @@ Dark and super dangerous.
 
 There is a horrible monster thing that serves as the village protector, and obeys the crones and Captain Buckfest. In the woods is:
 
-The remains of an ancient pact. Who sacrificed whom for what? The powers they gained may be helpful in the upcoming battle with Hiram Naxas
+The remains of an ancient pact. Who sacrificed whom for what? The powers they gained may be helpful in the upcoming battle with Hiram Naxas.
 
 A map to one of the Rods. It may have already been found.
 Perhaps something to do with the experiment, but only vaguely and in a creepy way.
 
 Once they’ve explored a bit, Hiram Naxas will blockade and quarenteen the town, using The Stag, but keeping his other two slower ships out to sea. The party can enter the town with.
 
-Hiram initially wants to quarenteen the town and build palisades around it, courdunning off the Fishspawn. The Crones will discover what has gone wrong with their plans and attack the town. He may find the evidence he’s looking for..The Navy troops he commands are insanely good.
+Hiram initially wants to quarantine the town and build palisades around it, cordoning off the Fishspawn. The Crones will discover what has gone wrong with their plans and attack the town. He may find the evidence he’s looking for..The Navy troops he commands are insanely good.
 
 There is a storm that rolls in at the same time, locking everyone in the bay.
 The real [ghost ship](/) might make an appearance at this time.

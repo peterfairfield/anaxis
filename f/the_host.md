@@ -2,7 +2,7 @@
 
  * Army: Haval Domi
  * Navy: 
- * City
+ * City: Yung
  * Lake & Resevoirs
  * Silver Mountain: the [Erimesh](/f/the_erimesh.md)
  * Cedar River

@@ -20,3 +20,7 @@ The Mes Rescripted project has begun.
  * [Lord Saxon](/p/lord_saxon.md) -- The University Guard
  * [Torin Holden](/p/holden.md) -- Beowulf Fleet and Field
  * [Admiral Lesure](/p/lesure.md) -- First Island Admiral
+
+### Sarl Agab
+
+He has maintained a complicated relationship with Sarl. He is prepared to head off the Erimesh bloodlessly, and is as often keeping tabs on the other Universities as the Erimesh. He has learned that there is much going on in the War College that he likely doesn't want to worry about. He has lost some credibility in the city for his work with the Erimesh, but it is Sarl who is called "The Tarsider". This will be a monicker that he will use later on.

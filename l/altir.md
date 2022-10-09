@@ -27,3 +27,5 @@ Once they are on the island, he will open the jars and climb inside. The jars ca
 "Ok, now he want's me to talk to you. Hi! "
 
 One will be silent, just following your will. This will take some effort to get it to speak, a shyness that it struggles with. Then there might be sudden bouts of control. 
+
+"I am the voice that can only become more bothersome to you the more you listen to it." Wilfred will remain silent until events forge a bond. There are many secrets she knows. She can pierce veils and discover the truth.

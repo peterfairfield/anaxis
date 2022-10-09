@@ -22,13 +22,13 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 #### Prince Trigan Lakoizh -- The Master, Peacemaker. Dies of natural causes, leaving his two sons, Emul and Jet Founder of the Prince's Wolves
 
-#### Warmaster Sire Jan Thornshield -- elected Master after the Prince's death. He maintains status quo while deciding between Emul and Jet. He eventually coose Emul, who becomes the Master.
+#### Warmaster Sire Jan Thornshield -- elected Master after the Prince's death. He remains warleader while deciding between Emul and Jet. He eventually coose Emul, who becomes the Master.
 
 #### Tribune Sarl Agab Thornshield -- elected judge, holds an election and reveals that his brother, Sire Jan is favored as Warmaster.
 
 #### [Emul Mesh](/p/emul_mesh.md) -- Engaged to Sire's daughter, Else Thornshield.
 
-#### [Jet Lakoizh](/p/jet.md) -- Eldest son of Trigan, 
+#### [Jet Lakoizh](/p/jet.md) -- Eldest son of Trigan.
 
 #### [Esme Anani](/p/esme.md) -- Sire's daughter. Bakes it in a pumpkin shell, kept them very well.
 

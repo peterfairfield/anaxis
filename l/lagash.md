@@ -8,7 +8,7 @@ Delegation to Lagash
 
 Characters:
 Coming with them – Bore?
-Edo Rian– Danoi Archeologist, the Warden of Ram’s Shelf
+[Edo Rian](/p/rian.md) – Danoi Archeologist, the Warden of Ram’s Shelf
 Iat Ulmalik – Assassin from Eshar, from the Silvermen’s nobles, but not a real item in the area yet. Bore is here to make sure he takes the throne.
 
 Scenes:
