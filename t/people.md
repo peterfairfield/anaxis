@@ -55,7 +55,7 @@ Elves, there are only a few of them, but in prominemnt positions in the city.
 ### Notable Danoi
  * [Belesys](/p/belesys.md)
  * [Beruni](/p/beruni.md)
- * 
+ * [Donatello](/p/donatello.md) Explorer, captain of the Linnard Expedition. 
  
 ## The Guti
  - Wolves of the wolves. The mountain poeple of the hill people.

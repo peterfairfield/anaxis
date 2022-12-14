@@ -66,3 +66,16 @@ Oak tree surrounded by 7 oaks
 Hole in the ground
 Tarpits
 8 Spheres of wood on stone pedistals
+
+Here are some ideas:
+
+1. We've had a few encounters with 5e demons/devils in the campaign, but given what we've just learned about the origins of the Hunger, I'd have to admit I that haven't been pay close attention as to who they were. We haven't had encounters with them since we've been to Kingsbridge, and got a lot of books on the knackers and some inkling of what their world was like, we've not seen any evidence of Esh'la any whereabouts (unless Despair has abandoned them), but we haven't had a real non-temple-combat encounter with them. Akbeth and Aldeath have been borderline in there... Not sure.  Since the first one back by the stone table when we were level, we have had some conversations, but I do recall that Temper was largely belligerent at time, and didn't really want to talk to them. Since reading the history of Arva, Temper does now wonder, what were the horrors for the next world, what would cause havok like the Unnamed Horror and the Leviathan? The besieged people's resilience and nerve (and the bath) gave Temper a shot to the arm, but their great obsession with the immediate future was probably an exhausting thing for Temper. Since the dwarves only have the past tense, and that only barely --yash, he was astounded at their use of the future tense, which rung around his head and boggled him only slightly less than the open sky. On our reaction to the sky: the world of dwarves is Okma (well ordered). Yash Okma refers to “the other/that ordering”, or to previous orderings. There is no word for infinity, the closet they come is 'without visual horizon'. 
+
+
+2. I do recall an ouroboros cult in the exodus campaign. There were the Fainin snake people we met coming over the swampy forest. They certainly hinted at something that at the time I didn't remark as Hunger-related, but since have reconsidered.
+
+3. Ahashyn. Another thing we learned in Kingsbridge: the soul magic the thinmen were using had broken down in the city, so they weren't able to hold the wards closed, but we didn't stick around long enough to power one up, or see how that whole apparatus worked. There are a lot of ahashtics in gresnek, so along with the demons, we have to wonder who they are. 
+
+In conclusion, I think a good source for JC onboarding would be Esh'la, given our current redemption quest (have a demon wear the robe in the hall of 
+
+Temper: "You all want to know something! Before today 2/3rds of the goblins I've met in my life have been alright. You can lay down arms or just run away! Thank you!" ... "Welcome to Temper's Third"
