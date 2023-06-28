@@ -89,12 +89,7 @@ Before they have to hit the 34, the raven can tell them this:
 
 These guys are a piece of work. Let's do 34 stat blocks now:
 
-
-
-
-
-
-So this was Shawan Fillstorm's plan. Have all of the dragons hatch at the same time and go off to wreck the enemy. She's maybe misjudged the chaos that would ensue. The Dwarfs don't mind killing Dragons, and then there's all those tasty cows. She also knew about how pupa can effect each other. The most worthless elements won't be in a positions to get to the birthing grounds. How does she establish this largely nul-sec no-go-zone of his family's lands. This becomes a neutral ground zone, known as the Flint House. You can tell when you come into the place. No blow has been struck in anger in this room. The walls are made of stone. Three hexjoined pillars of basalt, 60 ft on a side, it has a wide open room and a long bar at the end.
+So this was Parson Fillstorm's plan. Have all of the dragons hatch at the same time and go off to wreck the enemy. She's maybe misjudged the chaos that would ensue. The Dwarfs don't mind killing Dragons, and then there's all those tasty cows. She also knew about how pupa can effect each other. The most worthless elements won't be in a positions to get to the birthing grounds. How does she establish this largely nul-sec no-go-zone of his family's lands. This becomes a neutral ground zone, known as the Flint House. You can tell when you come into the place. No blow has been struck in anger in this room. The walls are made of stone. Three hexjoined pillars of basalt, 60 ft on a side, it has a wide open room and a long bar at the end.
 
 The barmaid will explain: "What's in a word, anyways. I'd imagine that at some point, they sold flint. Then after he left, they missed so bad they called it "Flint's House" and then.... Now we sell beer! Would you like some?"
 

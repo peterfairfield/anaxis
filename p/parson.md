@@ -48,7 +48,7 @@ The Beowulf Bulls coming – they will be attacked. Parson goes on the offensive
 This is how Parson delivers his plea for help to escape the City (hopefully during a riot or some other form of martial law).
  * He insists that they head over the mountains to see the other side and rescue what culture and art they have before it is swept away by the Mes. 
  * This isn't an invasion, it's a cultural rescue mission. He'll want to head straight for the capital?
- * He may start on a run for [Silver Mountain](/l/the_silver_mountain.md), but once he figures out what is going on there, he will want to head for Alam and then [Altir](/f/the_empire.md) itself.
+ * He may start on a run for [Silver Mountain](/l/the_silver_mountain.md), but once he figures out what is going on there, he will want to head for Alam and then [Altir](/f/the_empire.md#altir) itself.
 
  Early on, he will seek them out and berate them about how things are going. He says that the Deep Law cannot be accepted until the seven slots are filled, and the lighthouse is the last slot. This means, if old Deverre dies, the last slot will be filled.
 
