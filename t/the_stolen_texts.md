@@ -17,5 +17,3 @@ The Edo are always searching for a varied, different vintage. Fred's dad would k
 ### The zing of Alphas
 
 What they don't know is that the Pirates carry the Eternal Ones, and they have been serving and watching the Kraken. There are some mutual interests. The Kraken wants knowledge. The Eternal One will try to counterinfect the Kraken, to meet the most pitiful kind of interpersonal squabble to effectively keep the interests of Defense and Offense in mind.
-
-

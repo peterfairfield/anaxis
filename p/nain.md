@@ -1,5 +1,6 @@
 # Edo Nain
  + Beruni
+ + Four of Swords
 
 Link to the past. One of long and confused memory, if memory it could be called. He tells stories. They sometimes go like this:
 
@@ -21,7 +22,7 @@ Whever I've been, whatever I've done. Nothing's quite like that first step back 
 
 Nain attempts to buy passage from the PCs, but Hiram insists that he escort Nain back to the rock. If they appeal they can make a check, but if they mention his debt to them for the boat, which he has probably "impounded" again... 
 
-Naim goes aboard the stag, with the players on board. This is about a munity on board a ship.
+Nain goes aboard the Stag, with the players on board. This is about a munity on board a ship.
 
 That ship was set upon him and mutinied. He was able to make it to shore and hustled into a building along the street. From there, they were set upon by wolves of Beowulf who will take him into custody.
 
