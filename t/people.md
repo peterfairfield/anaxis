@@ -15,7 +15,7 @@
 
 ## The Taresh
 
-The Keepers of the city. Inhabitants of the delta and lowlands. They build with brick and tar, their city was upon the lower sea side. They inhabited the drowned cities beneath the waves.
+The Keepers of the city. Inhabitants of the delta and lowlands. They build with brick and tar, their city was upon the lower sea side. They inhabited the drowned cities beneath the waves. Also called "tars", often in apposition to "rosens"
 
 ### Notable Taresh
  * [Aunt Elsela](/p/aunt_elsela.md)

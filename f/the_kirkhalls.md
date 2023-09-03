@@ -8,7 +8,7 @@ The Hospital University building has been hampered by bad weather
 
 
 ### Shrine of the Sun King
-Depicts the sacrifice and suffering of the Sun King.His final sacrifice and promise of return, on a ship.
+Depicts the sacrifice and suffering of the Sun King. His final sacrifice and promise of return, on a ship.
 
 
 #### Internecine Conflict

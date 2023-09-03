@@ -36,7 +36,7 @@ At this point, the Host will intervene and try to confiscate all of their eviden
 
 ### [The Moveable Library](/s/university_library#moving.md)
 
-While the Natural College Library is going into an expansion phase, probably taking in content from the two other damaged libraries in town. Lord Saxon wants them to help move certain texts securely. Also helping is Bols and Ava Gavin, if she has been reconciled to Saxon, or perhaps Captain Buckfest if they need a boat.
+While the Natural College Library is going into an expansion phase, probably taking in content from the two other damaged libraries in town. Lord Saxon wants them to help move certain texts securely. Also helping is Bols and Ava Gavin, if she has been reconciled to Saxon, or perhaps Captain Buckfest if they need a boat.cd
 
 ### [The Rock](/l/the_rock.md)
 

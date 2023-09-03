@@ -5,7 +5,7 @@
 ## The Five Colleges
 
 The Stigian Society: Merit-based education. Students are appointed Executers of the Inner Colleges. Otherworld relations and communications. “May nobody know you, may no evil approach you!”~4k
-[House Beowulf](/f/): Business, Martial and Magical schools ~30k
+[House Beowulf](/f/house_beowulf.md): Business, Martial and Magical schools ~30k
 Natural College: High arcane school. ~2k
 Monastery of St. Andreas: Elite martial, historical, and materials sciences. ~10k
 University College: The tie that binds. ~15k
@@ -15,13 +15,13 @@ The university is largely where the student body is kept. The upper houses are o
 ## The Fringe Colleges
 
 400 The Pact ~20k
-445 Golem Academy (now part of Forgers)
+445 Golem House (now part of Forgers)
 817 Finder’s College ~1k
 1699 College of Spirits ~10k
 
 ## The Extra Colleges
 
-817 Bolsingers College: Mercator’s officer core
+817 Bard's College: Historical Society
 1300 The Forgers Ring: Science and Technology, Ghouls and Golems
 Goldsmith’s Guild: Fine arts.
 
