@@ -26,6 +26,6 @@ How the process goes:
 
 1. Catalogue all works as they go out. 
 2. Each library will move in serial. This is a lie, Ava plans on moving whatever whereever at any time.
-3. Donations will flow in throughout.
+3. Donations will flow in throughout. Several private collections, in particular of Naval Officers have already been moved, prior to finished construction.
 4. Archives will get presorted in several cases: [Bard's Library](/l/bards_libary.md) archives, as well as several other large collections that resulted from previous overflow, in particular the Golem School archives.
 5. 

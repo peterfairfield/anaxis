@@ -57,14 +57,16 @@ VIII of Wands: Rebecca Horne, Horn O'Roads.
 IV of Wands: Charon, Sirius in it's heliacal risings
 III of Wands: Preparation, Enterprise: Captain Buckfest, [Javier](/p/javier.md)
 II of Wands: Decision Making, Courage, Progress, the Lightening Rod: [Hiram Naxas](/p/hiram.md), could be Saxon or Bore
+I of Wands: Torch of Fire, Invention: Forgers, someone in the Goldsmith's Guild NEW TBD
 
 IV of Swords: Rest, Meditation: Edo Nain, Kisi, Lesure
+III of Swords: 
 
 King of Coins: Ambition, Wisdom, Power: King Pyre
 Queen of Coins:  [Skyre Gowan](/p/skyre_gowan.md). The old witch. The carer for her young, willing to sacrifice all for her little ones. She will try to prevent a full-on infection, but will care deeply for the intellect devourers unleashed upon the city.
 VIII of Coins: Focus, creativity, the sculptor: [Hamfast](/p/hamfast.md)
 VII of Coins: Vision, Reward: [Nadine](/p/nadine.md)
-III of Coins: Collaboration, Learning: 
+III of Coins: Collaboration, Learning: [Emul Mesh](/p/emul_mesh.md)
 II of Coins: Balance, simplicity: [Lord Saxon](/p/lord_saxon.md)
 
 

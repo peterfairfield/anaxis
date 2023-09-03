@@ -1,4 +1,11 @@
-The Archives
+# Bard's Libaray
+
+## Bard's College
+
+The majority of Bard's vast collection isn't going anywhere, but all of the archives are going to begin to flow into University Library. All of the current archives are also moving to the University Library.
+
+## The Archives
+
 Once down in the archives, there in some loot, in the form of smashed open chests and old wizards’ artifacts. They are able to track the route Kessler took by following him or Magnus Freeman (disguised as Porter). 
 
 ## Nice Stacks

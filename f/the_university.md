@@ -21,7 +21,7 @@ The university is largely where the student body is kept. The upper houses are o
 
 ## The Extra Colleges
 
-817 Bolsingers College: Mercator’s officer core
+817 Bard's College: Historical Society
 1300 The Forgers Ring: Science and Technology, Ghouls and Golems
 Goldsmith’s Guild: Fine arts.
 
