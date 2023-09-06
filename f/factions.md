@@ -62,7 +62,7 @@ The Ymil
 Axises: heirarchy, renewal in death, information & insight
 Places; Broadstreet, The Bazar, The Alley
 People:
-Natasha Roma — Dark haired, quick wit, mocks everyone in the room. She keeps hermit’s quarters, while running a network of agents within many areas of banks, merchants, and the university. Helps those who are persecuted by the Host.
+Roma — Dark haired, quick wit, mocks everyone in the room. She keeps hermit’s quarters, while running a network of agents within many areas of banks, merchants, and the university. Helps those who are persecuted by the Host.
 The Ymil are an anti-capital hereditary organization, consolidating power through blood and trust. The joining by marriage to the orgaization is celebrated by burning all of your worldly possessions. They are willing to accept that capital is a tool, but use it to subvert itself.
 
 The University

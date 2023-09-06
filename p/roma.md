@@ -49,7 +49,7 @@ The major texts are taken out by the bulldozers. They only came to smash, not to
 The choice in the city is whether to unite the reactive elements (the [Ymil](/f/ymil.md) vs the Witches, and yes she is working for both), [Bore](/p/bore.md) has just been promoted to President of the [War College](/f/war_college.md), and the boys were feeling punchy and decided to have a Rat Hunt. Bore has court-martialed all of the middle command with extreme vigor and has replaced them from the Society. He has done this with a really old rule of the city, and is expected to be challenged in court. He is also going through a divorce with the Roma.
 
 
-### Hello, I'm Natasha Roma
+### Hello, I'm Numea Roma
 
 The first time the party needs to clean up something pronto, they bring in a pro: She knows a few things, but they are very dangerous. She wields them for maximum carnage. For you:
  * The phases of the Moon corresponds to the ship attacks. The Keepers of the Moon have not been helpful, she could use someone higher up in the Upper Halls, which they might have made contact through their work with Kirkhalls.
