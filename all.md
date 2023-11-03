@@ -33,7 +33,7 @@ First Mate/Doctor: Sara Ava Gladhand Ramiel, the guardian of the abyss. She is t
 
 Quartermaster: Lord Saxon Gabriel. In charge of the market place Kathkul Saxon & his son, the slightly misguided Fred, and he leads the Host, but doesn't seem to mind Tasha. Gabriel. When they catch up with Hatchaxel, he will surrender to Buckfest rather than flee. He will push the dropbox overboard, in the most quiet manner possible. A little rope and a little splash, but the crowsnest will have them, if anyone is up in the rigging at that point. Hiram will jibe to fling them off. Ava seeks a name that will reawaken Parson from his slumber. The eaters of stories can spread the stories they have eaten into the Blood Empires. They know not the dragons awaking there, but someone else might. Their stories awaken rebellion in the Empires, very quickly, as the goblin tribes finally organize. The high-caste Hadrad will need to be sought out and met with, hopefully without anyone dying. They are mostly greens and reds.
 
-Boatswain: The Spider Queen herself. Natasha Roma. She is in charge, and makes a little secret of it. She is also in charge of anchors and rigging. She needs testers for the prototype. They are about to build a shitton of these things, and if they don't get the basics right, they are in deep doo doo. She needs some people put down, so be it, but the Great Fleet must be built. She wants to rollout (as does Lord Saxon) the Society to the orcs, but she plans on using the Kraken to do so, as it carries memory and stories.Ramiel. Once they can weaponize the orcs, they will have to start experiments of the vampirism and lycanthropy they've found effective with the human troops. Lord Saxon will also be very helpful in this, giving her access to weapons and creatures that she needs, until she runs into his son.
+Boatswain: The Spider Queen herself. Roma. She is in charge, and makes a little secret of it. She is also in charge of anchors and rigging. She needs testers for the prototype. They are about to build a shitton of these things, and if they don't get the basics right, they are in deep doo doo. She needs some people put down, so be it, but the Great Fleet must be built. She wants to rollout (as does Lord Saxon) the Society to the orcs, but she plans on using the Kraken to do so, as it carries memory and stories.Ramiel. Once they can weaponize the orcs, they will have to start experiments of the vampirism and lycanthropy they've found effective with the human troops. Lord Saxon will also be very helpful in this, giving her access to weapons and creatures that she needs, until she runs into his son.
 
 Sailing Master: Hiiram Naxas, he is a hostage from the Edo, he will come with the great fleet only if they give him good cause. He is the Pilot that can take them into the Gyre. He also knows that he needs the Silvermen and the Reedmen and the types of ships they will need to survive the Gyre. He is obsessed with bitumen and reeds. He has some kinks to work out, but is trying to debug the asphalt-reed-clay problem too much to pay attention to things like iron. If the players suggest this to him, it will Change the City. Iron of all types is going to get impounded. He is not in the Leaf Game. he does not go to the BFH. He is the pilot, he is the oathtaker. So far he has broken all oaths for his own purposes. He has quicklime and bitumen and volcanic ash and glass foam (pumice). Michael/Asamodias when it concerns Sara. He will be pushing up the rivers with the new boats and he will try to establish as many trade routes, He might also, with Rebecaa Horn's help, actually save Lagash (which stands in the middle of the long lake) from the Gyre.
 
@@ -297,13 +297,13 @@ The Dashing Ones
 There have been a rash of fights at the docks. A group of them were identifiable as being Dashing. They might be connected to murders in Workhall.
 Executor
 Most people know that it's "big shot", but there aren't a lot of famous ones. Seems like a new title. Some project between the naval colleges and Host.
-Natasha Roma
+Roma
 The first time the party needs to clean up something pronto, they bring in a pro: She knows a few things, but they are very dangerous. She wields them for maximum carnage. For you:
 The phases of the Moon corresponds to the ship attacks. The Keepers of the Moon have not been helpful, she could use someone higher up in the Upper Halls, which they might have made contact through their work with Kirkhalls.
 She will not work directly with the Host, as most of her contacts/contracts are directly under Host persecution. She appears to be in love with Allan. She is terrified of Bees.
 She has been studying bones, she has been noticing bones of a people who have lived here before.
 Mal
-Natasha’s handler, kinda Witcher guy. 
+Roma's handler, kinda Witcher guy. 
 Mole’s Hall
 Old druid temple, now used by the University College as a campus. The standing stones, the basilicus, and lake. The entrance to the subterranean lake caught in the rock. It is the reservoir, part of the huge water piping of the city. The place is crawling with Grimlocks, the most terrible and unspeakable things of the deep. They are in the rock.
 The Pattern
@@ -405,7 +405,7 @@ Martin von der Fluss
 Retired captain in the Host. Runs a halfway house for old soldiers, and keeps them out of trouble. He is looking to head back home to the Silver Mountain, and will lend aid to them if they mount an expedition to the Orcs.
 
 The Leaf Game
-This game began on the island of Kars, but now has spread throughout Obaian. They are concerned with the preservation of nature and the use of magic. The sea life in the area, as well as the forest life, meet on the strand for the cojoining of the field forest river and ocean. They also invite Natasha, as their favorite townie rep. When they meet you
+This game began on the island of Kars, but now has spread throughout Obaian. They are concerned with the preservation of nature and the use of magic. The sea life in the area, as well as the forest life, meet on the strand for the cojoining of the field forest river and ocean. They also invite Roma, as their favorite townie rep. When they meet you
 They will want you to stop a crime to nature, or convince you that you’re about to commit one.
 Give you a title, or a “Circle”, each circle is their own axis.
 Protect something from the outside

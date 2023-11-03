@@ -1,10 +1,10 @@
 # The Death Cult
 
-The moiety of the Kirkhalls belong to the Cultha, an organization devoted to the disposal of bodies. These otherwise largely divided denominations have this enormous ecumenical interest and have shared resources and talent through the University of St. Andraes. 
+The moiety of the Kirkhalls belong to the Cutha, an organization devoted to the disposal of bodies. These otherwise largely divided denominations have this enormous ecumenical interest and have shared resources and talent through the University of St. Andraes. 
 
 ## The Necropolis
 
-By far the most common burial method in the city is the Rite of Ba. Their mouth is filled with gold, and their body is taken to the Necropolis.
+By far the most common burial method in the city is the Rite of Ba. Their mouth is filled with gold, and their body is taken to the Necropolis. Other names for this place or parts of it are: Galgalla, Enirra.
 
 # Corpse Burning
 
@@ -14,7 +14,7 @@ Once a quasi-illegal practice in the city, there are many types of people who st
 
 The danoi have a great reverence for the Dead, and they practice funary rites in large, austere processions though the city. There are also public feasts frequently found in the city. Outsiders are always welcome, but the Host always retains the ability to expell you from the city, if they find it required by law. Once you're registered with Bols, you're AOK.
 
-## The Parsons
+## The Cinders
 
 There are many harbor, wood and hill people who deliver their bodies in the Necropolis, but again, about half of them don't, and burn on the top of Tel Iona.
 
