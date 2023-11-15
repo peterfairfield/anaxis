@@ -6,4 +6,18 @@ An Extra College, founded with the Inner Colleges
 
 ### Plasics
 
+Ceramics
+
+Ironmongers
+
 ### Non-plastics
+
+Gemcutters
+
+Glassworkers
+
+# Persona
+
+* [Anbar](/p/anbar_barzil.md) Smith at Ironmongers
+* [Ragh Mesius](p/ragh.md)
+* [Tobit Drake](/p/tobit_drake.md) Fellow at Forgers.

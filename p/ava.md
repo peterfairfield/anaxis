@@ -39,6 +39,14 @@ The major texts are taken out by the bulldozers. They only came to smash, not to
 
 ## Second Reveal's the same as the first
 
+Ava's plan is to find the Finders.
+
+## Nobody Expects The Trascription
+
+What language do they transcribe to? The Black Emporer wants to use Tocharian, and he has strange ways of insisting on it. Ava will want to transcribe into the most commonly used system, but the Emporer may be able to make that Tocharian. Most works she will copy in the original, but she will be happy to make copies of most everythingn in Tocharian.
+
+The witches will be moving to transribe into Deep Writing.
+
 
 ## Events
  * She will show up for a tourney or trial and bet in their favor.
