@@ -19,5 +19,6 @@ Glassworkers
 # Persona
 
 * [Anbar](/p/anbar_barzil.md) Smith at Ironmongers
-* [Ragh Mesius](p/ragh.md)
-* [Tobit Drake](/p/tobit_drake.md) Fellow at Forgers.
+* [Ragh Mesius](p/ragh.md) Kilnmaster Ragh
+* [Tobit Drake](/p/tobit_drake.md) Fellow at Forgers, copper and tin smith.
+* [Philip Deverre](/p/deverre.md) Master Glassworker

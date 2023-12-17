@@ -4,7 +4,7 @@
 He is the Theatre operative in charge of finding out what they know about the missing books. He will give them a lesson in subterfuge if they give him information as well.
 
 ```
-Wide sensual mouth with rich lips. He talks quickly and to the point. Magnus adds gravitas.
+Wide sensual mouth with rich lips. He talks quickly and to the point. Magnus adds gravitas. Tall, with scruby black beard and shaven head.
 ```
 This is what he has to share:
 
