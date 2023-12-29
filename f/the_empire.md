@@ -11,6 +11,8 @@ They wish for battle, and a lot of death. Their first meeting will involve a max
 
 > The [Green](/f/green.md) want a member of theirs out of the Empire.
 
+> The [White](/f/white_hadrad.md) try to hold to the old ways.
+
 > The [BRH](/f/the_beef_rake_hats.md) want to smuge a prisoner on the nose.
 
 ### Altir

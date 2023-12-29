@@ -1,8 +1,5 @@
-___
-The Hagfish
-___
 > ## Bhole
->*Large beast, neutral*
+> *Huge Beast - Enchanter 20*
 > ___
 > - **Armor Class** 20
 > - **Hit Points** 290
@@ -23,7 +20,7 @@ ___
 >
 > ***Caster*** dholes are often powerful castors, and specialize in mind magic. She is a 20th level Enchanter. Spelllist is #TBD.
 >
-> ***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
+> ***Hagfish Slime.*** Any creatures within 5 feet of the Bhole is covered in slime.
 >
 > ***Sassiness.*** When questioned, this creature will talk back instead of answering.
 > ### Actions

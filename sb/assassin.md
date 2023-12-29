@@ -1,8 +1,5 @@
-___
-Kranti, Porter, Josiah Greazy when he gets older.
-___
 > ## Assassin
->*Human, chaotic evil*
+> *Ranger 3 - Rogue 3*
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 10 + 12 + 15 + 12 = 49 HP 
@@ -35,6 +32,6 @@ ___
 
 > ***Shortsword.*** +8 reach 5ft *Hit* 25 (4d6 + 1d8 + 7) force damage
 >
-> ***Shortbow.*** +8 to hit, ragner 80/320ft., one target. *Hit* 25 (4d6 + 1d8 + 7)
+> ***Shortbow.*** +8 to hit, range 80/320ft., one target. *Hit* 25 (4d6 + 1d8 + 7)
 
 
