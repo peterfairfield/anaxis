@@ -32,7 +32,7 @@ Upon returning to [Eshar](/l/the_city.md) from [Tell Kur](/l/tel_kur.md), there 
 
 #### Esme Thornshield 
 
-> sees Lagash as the future of the Silvermen, and she has a plan to make that happen. The caravans must run, no matter what comes.
+> [Esme](/p/esme.md) sees Lagash as the future of the Silvermen, and she has a plan to make that happen. The caravans must run, no matter what comes.
 
 
 #### The Wolves Under Attack

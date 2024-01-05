@@ -20,7 +20,7 @@ They arrive on Glass Island. The Island is used by the wealthy Hadrad families f
 
 There are three guards on level of the lighthouse when they come out. There is likely one around, at least, and they each have 4 mastiffs. 
 
-[White Guard](/sd/white_guard.md)
+[White Guard](/sb/white_guard.md)
 
 [White Sagur](/sb/white_sagur.md)
 
@@ -68,10 +68,10 @@ Also assaulting the island are Black Marine troops, from the ship. [Marines](/sb
 >##### Random Tools Here:
 > | d6 | Item |
 > |:----:|:-------------|
-> | 1  | A lens |
-> | 2 | A drill |
-> | 3 | A calipers |
-> | 4 | A lathe |
+> | 1  | A Gunpowder horn |
+> | 2 | A caliper |
+> | 3 | A lens |
+> | 4 | A small lathe & drill |
 > | 5  | A bullet kit |
 > | 6 | A gun set |
 >___
@@ -84,11 +84,21 @@ Also assaulting the island are Black Marine troops, from the ship. [Marines](/sb
 Map: TBD, locations are Lighthouse, Tower of Aos, Hall of the Pact, and Docks.
 
 Lighthouse: 
+Lower Room, kennels
+Upper Room, Light & Hearth
 
 Tower of Aos:
 
+> Large single hall, there are many [guards](/sb/white_guard.md). They are very likely engaged with either the frigate or the [Givers of Green](/sb/giver_of_green.md).
+
 Hall of the Pact:
 
-Powder Room: Two more White Guards, with Hell Hounds instead of mastiffs. 
+> Powder Room: Two more White Guards, with Hell Hounds instead of mastiffs. 
 
-Gunsmith's Workshop: White Gunsmith with 
+>Gunsmith's Workshop: White Royal working on the cure for Black. 
+
+Pleasure palaces:
+White Place has these areas.
+
+>Watergate, boathouse cellar, main hall: a [Sagur](/sb/white_sagur.md), upper bedroom, entrance to Hall of the Pact.
+
