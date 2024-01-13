@@ -10,11 +10,13 @@ The youngest huckster sweet talks his way into the camp. He has lines, and he us
 
 ## The Ambush
 
-Thugs will thug. They can be very upsetting, but this is a trial force. Some of them seem real interested in the beefier players. What's their position on this shakedown and can they roll or do they need to jet? How much for the big one? Anyway, there are a lot of them and they run if there is trouble. They will come back with more, and with 
+Thugs will thug. They can be very upsetting, but this is a trial force. Some of them seem real interested in the beefier players, which they consider a greater threat. What's their position on this shakedown and can they roll or do they need to jet? They may even try to hire them on as muscle. How much for the big one? Anyway, there are a lot of them and they run if there is trouble. They will come back with more, and with 
+
+The Bandits have recently become [Broken Ones](/f/the_broken_ones.md), a sect of Erimesh who believe in the Danoi stories of the Sun King. The Sister of the Hidden Moon hold their populist tendacies in check enough in the city, but many groups, including the Order of St. Andreas have declared them heretical.
 
 ## The Aftermath
 
-Skyre Gowan will happily purchase whatever weapons or gear that they wish to sell off the bandit's bodies. If things go well, they might even throw a party.
+[Skyre Gowan](/p/skyre_gowan.md) will happily purchase whatever weapons or gear that they wish to sell off the bandit's bodies. If things go well, they might even throw a party.
 
 ## Bore shows up 
 

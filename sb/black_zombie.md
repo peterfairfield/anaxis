@@ -1,6 +1,6 @@
 ___
 > ## Black Zombie
->*Monster 8*
+>*Infected Human 8*
 > ___
 > - **Armor Class** 15 (natual armor)
 > - **Hit Points** 68 (8d8 + 32)
@@ -17,7 +17,7 @@ ___
 > - **Languages** Any language, but the thing is in a lot of pain, so limited.
 > ___
 >
-> ***Regeneration*** Unless damaged by fire or radiant damage, this thing regains 10HP a round.
+> ***Regeneration*** Unless damaged by fire or radiant damage, the zombie regains 10HP a round.
 >
 > ***Legendary Resistance (1/Day).*** If the zombie fails a saving throw, it can choose to succeed instead.
 >
@@ -32,3 +32,5 @@ ___
 > ***Leap.*** Reaction move and Grab or Bite once a round.
 >
 
+>___
+> This human has been infected by Black, and is not technically undead.

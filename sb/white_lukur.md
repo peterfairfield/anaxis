@@ -1,5 +1,5 @@
 > ## WHite Lukur
->*Medium humanoid (any), any allignment*
+>*Sorceror 6*
 > ___
 > - **Armor Class** 16
 > - **Hit Points** 33 (6d6 + 12)
