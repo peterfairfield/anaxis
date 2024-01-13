@@ -14,7 +14,6 @@ Gifts of the Circle King
  * Slays the dragon.
  * Rescues the princess.
 
-
 ### The Secrets
 
 ### Speeches

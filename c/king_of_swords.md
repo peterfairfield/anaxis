@@ -144,10 +144,16 @@
 >***Action d/day*** Attack all adjacent foes.
 
 >### Slay
->***Action d/day*** Melee attack, target makes a con save or dies.
+>***Action d/day*** Melee attack, target makes a con save or attack is a critical hit.
 
 >### Slay Messily
 >***Reaction d/day*** When you drop an opponent, 30ft radius enemies make a will save vs your damage stat or be frightened for 10 rounds.
 
 >### Stagger
 >***Action d/day*** Melee attack, 1d6/1d8/1d10 Dexterify damage.
+
+>### Blind
+>***Action d/day*** Melee attack, damage and blind for 1 round.
+
+>### Blazing Blade
+>***Bonus Action d/day*** 1d6 extra fire damage

@@ -18,7 +18,7 @@ From their basin, the river flows in the opposite direction about 1 every 30 yea
 
 #### [Undeth Mythros](/p/undeath.md)
 
-## [The Lakoizh](/f/lakoizh.d)
+## [The Lakoizh](/f/lakoizh.md)
 
 #### Prince Trigan Lakoizh -- The Master, Peacemaker. Dies of natural causes, leaving his two sons, Emul and Jet Founder of the Prince's Wolves
 

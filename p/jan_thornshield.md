@@ -19,7 +19,7 @@ Spies:
 He gets a fleet of Danoi tall ships to transport his army down the Silver River. He is aided by the Boatwights, and elements within the Mizrayim. 
 
 > ## Sire Jan Thornshield
->*White Hadrad*
+>*Silver Hadrad*
 > ___
 > - **Armor Class** 19 (Plate, Defense)
 > - **Hit Points** 132 (17d10+34)
