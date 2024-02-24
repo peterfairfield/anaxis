@@ -28,6 +28,10 @@ He is spending most of his time arming the army. He likes nothing better than a 
 
 > Ava is worried that her employer, Lord Saxon, is going to use this to force her to accept security (read spies) at the Observatory.
 
+> As they approach the crest of a hill covered in trees at night, there appears to be a hole in the foliage where the stars shine through, but as they approach, they realize it's a man in shining armor, it's Lord Saxon.
+
+> A charcoal furnace in the forest burns with increbible heat.
+
 ___
 > ## Lord Saxon
 >*Medium humanoid (any), any allignment*

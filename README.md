@@ -27,7 +27,17 @@ Places, but you look for it under "l". These still have a lot of events under th
 
  * [Kars Island](/l/kars_island.md)
  * [Halls of Aos](/l/halls_of_aos.md)
- * []
+ * [Tel Kalam](/l/tell_kalam.md)
 
-`npm install`    
-`nodemon app.js`
+#### /p *People*
+
+ * [Ava Gavin](/p/ava.md)
+ * [Alain Bore](/p/bore.md)
+ * [Chuck Parson](/p/parson.md)
+ * [Hector Yung](/p/yung.md)
+
+ #### /sb Statblocks
+
+ * [Aldu](/sb/aldu.md)
+ * [Danoi Hoplite](/sb/danoi_hoplite.md)
+ * [Giver of Green](/sb/giver_of_green.md)

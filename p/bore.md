@@ -70,3 +70,4 @@ The criminals in the city are retrained into the Host.
 People have been disappearing. There appears to be a pattern, and the Givers of Green seem to be really implicated, if he can lead them to their own conclusions, the better.
 He wants to know what the Kracken is looking for.
 He wants to know anything about the Natural College he can find.
+

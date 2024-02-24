@@ -2,6 +2,32 @@
  - The Pen of Eschar
  - 
 
+## At the Party
+
+"I am currently working on an article on the trial."
+
+"The trial of Hatchaxel. It seems to me without a doubt that he was conducting a legitimate rat hunt. There is something horrible in the idea that armed men might charge into our houses and murder us, but the hunt was sanctioned by the givers."
+
+"It took five of them you know, Hatchaxel was the only one who survived."
+
+
+
+"The givers have for many years expired the Kirkhalls liens. Most of the these are small apartments."
+
+I have been reading those laws, and many of them moved to a pur autre vie entailment, and after several houses went through some chaos, they settled on the the Prince of Cats. This very building that we are in will fall into the hands of the Kutha if these documents are made known."
+
+"Here it is."
+
+"Lagash is about to go to war with Eshar. But this is all within your power tonight. The delegation from Lagash is here."
+
+"If they were allowed to reclaim their portions of the Kirkhalls in the city, they would accept citizenship of Eshar and stregthen the cities defenses. King Pyre has sworn he will reopen the Silver Mountian, against the will of his Emporer, who, I believe is also here tonight, incognito."
+
+"What do you make of the entertainment? The story of Babbi Fran and his obedient children? They come in tithes? In some stories, they have the tablets of destiny, on which the future of everything is written. They no more choose to ride the Wave-Finder than not choose. What are laws to such people as they, who know what is to happen? What a convienent place for them to go, but down to Ram's Shelf and remain there, unable to trouble our lives here in Eshar?"
+
+"What does go on in the mind of someone who is breaking the law? This has been what I've studied, in the books and writing books. I don't know if much of our understanding of justice could stand, if we were actually able to inhabit someone else's mind? Then again, we often do things in drunkeness or passion that we regret, regarless of our feelings of justice at the time, and wish that we did not do."
+
+"I am a chronicler of reget, I hope. To bring those regrets to the fore and... forge from them: the law." 
+
 ## Discoverer of the City beneath the waves
 
 ## Archeologist

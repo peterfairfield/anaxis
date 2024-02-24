@@ -20,7 +20,7 @@ ___
 > ***Umbral Sight*** The Ranger is invisible when in darkness.
 > ***Mastiffs*** White guards usually keep 4 mastiffs. They only risk their mastiffs if they have no other choice.
 >
-
+>
 > ### Actions
 > ***Double Barrelled Musket.*** Ranged Weapon Attack: +7 to hit, reach 150/600 ft., one target. (2d8+1d12+3) piercing damage.
 >

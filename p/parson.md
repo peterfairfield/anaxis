@@ -52,4 +52,9 @@ This is how Parson delivers his plea for help to escape the City (hopefully duri
 
  Early on, he will seek them out and berate them about how things are going. He says that the Deep Law cannot be accepted until the seven slots are filled, and the lighthouse is the last slot. This means, if old Deverre dies, the last slot will be filled.
 
- They run a tourney. This can only be the work of some insane connessieur of brains. There are 200 youths chosen each year to be taken as tribute 
+ They run a tourney. This can only be the work of some insane connessieur of brains. There are 200 youths chosen each year to be taken as tribute.
+
+ ### At Horne's Party
+ He will return the bowls he took from them, but with this warning: if they story they tell is allowed to rewrite the city's history, it will bring about the end of the peace with Lagash.
+
+ 

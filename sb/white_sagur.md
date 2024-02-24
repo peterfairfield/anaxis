@@ -22,14 +22,14 @@
 > ***Shortsword*** Melee Weapon Attack: +7 to hit, targets a creature the Sagur has advantage against, or one adjacent to an ally of the Sagur's. Hit: 18 (1d6 + 3d6 + 4) piercing damage.
 >
 > ***Bombard*** Thown Weapon Attack: +7 Attack, 20 foot range, 1d8 fire + 2d8 piercing damage, creatures withing 5 feet make a reflex save DC 14 or take 2d8 piercing
-
+>
 > ### Bonus Actions
 > ***Cunnning Action*** The Sagur dashes, disengages, or hides.
 >
 > ***Steady Aim*** If the Sagur doesn't move for a turn, they can get advantage on their first attack.
 >
 > ***Fast Hands*** Can do a lot of things, but reloading the musket is a good one. Tossing a bombard is also good.
-
+>
 > ### Reactions
 > ***Uncanny Dodge*** The Sagur takes 1/2 damage from an attack.
 >

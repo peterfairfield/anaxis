@@ -14,6 +14,7 @@ Depicts the sacrifice and suffering of the Sun King. His final sacrifice and pro
 #### Internecine Conflict
 Internecine conflict between Kirkhalls and the Host.
 The fundamental issue: has Aos returned, or is this all a lie?
+
 Aos in death vs Aos alive. Some things were supposed to happen when Aos returned. For some, they are obviously happening, but to others, these events seem fake and manufactured to trick the faithful.
 
 The Sun King as Ancestor or Usurper. This is when the Upper Halls become clearly Elven. Maybe the players have noticed all along.
