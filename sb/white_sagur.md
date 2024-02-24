@@ -10,7 +10,7 @@
 >|8 (-1)|18 (+4)|16 (+3)|10 (+0)|12 (+1)|14 (+2)|
 >___
 > - **Saving Throws** DEX +7, INT +3
-> - **Skills** Stealth +10 Perception +7
+> - **Skills** Stealth +10 Perception +7 
 > - **Senses** Passive Perception 17
 > - **Languages** Common
 > ___
@@ -25,7 +25,9 @@
 
 > ### Bonus Actions
 > ***Cunnning Action*** The Sagur dashes, disengages, or hides.
+>
 > ***Steady Aim*** If the Sagur doesn't move for a turn, they can get advantage on their first attack.
+>
 > ***Fast Hands*** Can do a lot of things, but reloading the musket is a good one. Tossing a bombard is also good.
 
 > ### Reactions

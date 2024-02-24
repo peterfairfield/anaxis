@@ -1,6 +1,6 @@
 # The Death Cult
 
-The moiety of the Kirkhalls belong to the Cutha, an organization devoted to the disposal of bodies. These otherwise largely divided denominations have this enormous ecumenical interest and have shared resources and talent through the University of St. Andraes. 
+The moiety of the Kirkhalls belong to the Kutha, an organization devoted to the disposal of bodies. These otherwise largely divided denominations have this enormous ecumenical interest and have shared resources and talent through the University of St. Andraes. 
 
 ## The Necropolis
 

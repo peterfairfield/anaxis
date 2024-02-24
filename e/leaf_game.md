@@ -10,14 +10,16 @@ This game began on the island of Kars, but now has spread throughout [Obaian](/f
     
 4.  Travel to the Green House, the Navy, or something with Wildshape – these will each involve jobs. Jobs should open up, or be determined by the current vertex.
     
+## The Moom
+They believe that the moon will return, and the Sun King will return and unite all of Eschar, Lagash and Ram's Shelf. He will lead them on the conquest of Isin. 
 
 They know a lot about the moon, almost more than anyone.
 
 Within the Elder Circle there are 3 main characters. Moon, Death, chaos Ocean
 
-The Game throws a Party
+### The Game throws a Party
 
-They are invited along with their Rebecca Horn. The Lower Halls may send [Ehren Havelin](https://) and a group to keep things from breaking out in a fight. The Theatre will also be sending [Obel](/p/obel.md) ([Scabb](https://)) or someone like him, along with some Baleheads.
+They are invited along with their Patron. The Lower Halls may send [Ehren Havelin](https://) and a group to keep things from breaking out in a fight. The Theatre will also be sending [Obel](/p/obel.md) ([Scabb](https://)) or someone like him, along with some Baleheads.
 
 The Three Trees
 

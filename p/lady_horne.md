@@ -10,4 +10,11 @@ I am not an expert on rope. But there are people whom I trust that are. I do wan
 
 If asked about the drawing: "That is silly of me, to have mentioned a drawing, without being able to immediately produce it. How about if you provide for a shark-filled evening that doesn't get anyone killed, I'll be sure to get you a copy of that drawing?"
 
+## Masques
+
+She likes masked balls, strange banquets, beauty and the grotesque. 
+
+## The Black Hammer
+
+A Digir shaped from the teeth of some huge lizard. 
 

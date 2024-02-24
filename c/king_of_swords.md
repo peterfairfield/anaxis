@@ -157,3 +157,6 @@
 
 >### Blazing Blade
 >***Bonus Action d/day*** 1d6 extra fire damage
+
+>### Helmed Horrors
+>***Ability*** 1/2/3 Helmed Horrors begin to follow you around.

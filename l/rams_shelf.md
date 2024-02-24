@@ -5,6 +5,21 @@ The Town is largely split into Nir and Emesids, each whole dabble much in the af
 
 In the Light timeline, the Nir have recently exacted revenge on some of the most unpleasant Emesids. The Nir Court has convened and they have abducted prisoners from the Emesid controlled Crannog. The Emesids are bruised and grumpy, they consider the Nir Court an ephemerial and theatrical power.
 
+## Rumors
+* [Outlaws are lurking on the Iron Road](/e/bandit_ambush.md), waylaying groups travelling to Eschar. 
+* A delegation was visiting the Crannog, they were seen leaving for Eschar, but the Records have been infiltrated over the years by the Kutha.
+* The Cartwrights have been up to something strange
+* The quarry has been the scene of some strangeness, lights, drinking and parties?
+* The kitchens at the Black Hammer have recently burned down. They are now cooking out in the yard in makeshift cob ovens and a new firepit.
+* Violent thunderstorms.
+
+### Monestary of St. Andreas
+* About five thousand people live in this agricultural powerhouse. It's about a day and a half from Ram's Shelf
+
+### Ratsicks
+* A pirate town, clinging to the edge of Ram's Shelf
+* Boatwrights 
+
 ### Monah Xeres 
 
 She is a good place for neutral ground between the two. She works for both, in a clerical role for one and a magical one for the other. She adorns the lizard warriors in Frog Parts and enchants them. The frogs believe that they will live forever in this final form.
@@ -31,7 +46,7 @@ They have no idea that the instigators of the jailbreak were the Pyr island dele
 
 The Emeshub is this close to declaring martial law and tossing the Court into the lake. When she hears about Pyr:
 
-> The Game is afoot in Ram's Shelf -- Do you think I'd tell you that if I was a part of it? That sort of thing is strictly forbidden, I've heard. The secrets they keep? Why did they come to the Court? Event: Scouring of Ram's Shelf. Vectors away!
+> The Leaf Game is afoot in Ram's Shelf -- Do you think I'd tell you that if I was a part of it? That sort of thing is strictly forbidden, I've heard. The secrets they keep? Why did they come to the Court? Event: Scouring of Ram's Shelf. Vectors away!
 
 The Emeshub will be less happy when they find out that the jailbreakers allowed Pyr delegates access to the Crannog. She might be convinced that it was her own people who granted Pyr access, but she will have some checking up to do.
 
