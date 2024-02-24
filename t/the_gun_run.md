@@ -2,11 +2,11 @@
 
 ## History
 
-Once, when the Hadrad had long ruled in Eshar and their tounge was spoken in all of the temples, Empress Utosa ordered that a church be made for the Earthly gods and that givers of the green be appointed amoung the people. 
+Once, when the [Hadrad](/f/the_empire.md) had long ruled in Eshar and their tounge was spoken in all of the temples, Empress Utosa ordered that a church be made for the Earthly gods and that givers of the green be appointed amoung the people. 
 
 That winter, the plague had struck Eshar such that the streets of the city were empty and for the first day of the spring festival, there was no one who came but the priests and the givers of the green. On the first day they prayed that they escape the serpents wrath. There was looting and fires throughout the second day. On the third day, Empress Utosa did not come to the Church of the Earthly gods and weep for the city. She sent her tears in a bottle instead.
 
-On the fourth day, the Earthly priests and the givers of the green gathered all of the statues in the city and took them to the Church.
+On the fourth day, the Earthly priests and the [givers of the green](/f/green.md) gathered all of the statues in the city and took them to the Church.
 
 On the fifth day, Namu rose and slew the Empress Utosa and all of the royal guard. All the Hadrad families in the city took flight or were destroyed.
 
@@ -16,7 +16,7 @@ On the seventh day, Namu celebrated and gave the priests and givers the Dragon's
 
 ## Encounters
 
-They arrive on Glass Island. The Island is used by the wealthy Hadrad families for their palaces and to showcase their pleasure yachts. The guns on the island belong to the top brass of the White Hadrad guards and the warship The Ram's Wake.
+They arrive on [Glass Island](/l/the_harbor_light.md). The Island is used by the wealthy Hadrad families for their palaces and to showcase their pleasure yachts. The guns on the island belong to the top brass of the White Hadrad guards and the warship The Ram's Wake.
 
 There are three guards on level of the lighthouse when they come out. There is likely one around, at least, and they each have 4 mastiffs. 
 
