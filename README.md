@@ -41,3 +41,14 @@ Places, but you look for it under "l". These still have a lot of events under th
  * [Aldu](/sb/aldu.md)
  * [Danoi Hoplite](/sb/danoi_hoplite.md)
  * [Giver of Green](/sb/giver_of_green.md)
+
+ #### /s Stories
+
+  * [Founding of the City](/s/the_founding_of_the_city.md)
+
+#### /t Timelines
+
+ * [History](/t/history.md)
+ * [The Funeral](/t/the_funeral.md)
+ * [The Leaf Game](/t/the_leaf_game.md)
+ * [The Moveable Library](/t/the_moveable_library.md)
