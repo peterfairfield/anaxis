@@ -1,13 +1,13 @@
   The Council
-Lord Saxon – The Head of Hospital School, The White Punchers. Master Of Ceremonies of Darker Faire. Patron of the Theatre.
-Rebecca Horn – Master of Darker Faire (Harpers), also a noble Finder
-Josriel Gladhand – The Right hand of the Upper Halls. She will oppose any strange magics from expedition or experiments that the Natural College has been undertaking. She is also concerned about what is going on in the Necropolis, and the lack of security there. She is very wary of Stigian encroachments, and is almost obsessed with things Stigian.
-Regent Hector Yung: Regent of the City Garrison	
-Executor Bore – Executor of the University, in command of university forces and of all the forces in general. Up for his fellowship in the Stigian Society.
-Chuck Fillstorm: Liaison to the Game via BRH. Healer and keeper of the refugee. He will advocate for social policies. This is kinda his meeting.
-Archmage Nigel: He is from the Natural College
+[Lord Saxon](/p/lord_saxon.md) – The Head of Hospital School, The White Punchers. Master Of Ceremonies of Darker Faire. Patron of the Theatre.
+[Rebecca Horn](/p/lady_horne.md) – Master of Darker Faire (Harpers), also a noble Finder
+[Josriel Gladhand](/p/josriel.md) – The Right hand of the Upper Halls. She will oppose any strange magics from expedition or experiments that the Natural College has been undertaking. She is also concerned about what is going on in the Necropolis, and the lack of security there. She is very wary of Stigian encroachments, and is almost obsessed with things Stigian.
+[Regent Hector Yung](/p/yung.md): Regent of the City Garrison	
+[Executor Bore](/p/bore.md) – Executor of the University, in command of university forces and of all the forces in general. Up for his fellowship in the Stigian Society.
+[Chuck Fillstorm](/p/parson.md): Liaison to the Game via BRH. Healer and keeper of the refugee. He will advocate for social policies. This is kinda his meeting.
+[Archmage Nigel](/p/nigel.md): He is from the Natural College
 
-Musshussu: "do you see that [sic Cat]? Cats make themselves small" scratches chin. "Whenever I see a dead cat, it's bigger than it looked in life, much longer, and it's legs dangle far. They hunch themselves when they walk and can think while they talk. Some in the city say: no matter where you go, at cat is watching"
+[Musshussu](/p/mushussu.md): "do you see that [sic Cat]? Cats make themselves small" scratches chin. "Whenever I see a dead cat, it's bigger than it looked in life, much longer, and it's legs dangle far. They hunch themselves when they walk and can think while they talk. Some in the city say: no matter where you go, at cat is watching"
 
 The Lords:
 Queen Hazad: Of the Silver Mountain, owners of largest parts of the City, by population.
