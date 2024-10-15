@@ -2,7 +2,7 @@ The magic of conciousness is faith. The thing that asserts that what is happenin
 
 Alain Bore to DD
 
-When you pick up a book, you want to know all about it, where it came from, who wrote it when. But the other person doesn't have that luxury, but how much do you believe? How do you know what is true <and how much do you think you do> The future is more obscure, pleads the hopeful. How do I wish to believe, I do believe what I know to be true. But that is not all I wish to believe. My Faith is kept with an open mind, for things I might immediately dismiss. This is why the truth, in it's smaller, petty form is now so important to me. 
+When you pick up a book, you want to know all about it, where it came from, who wrote it when. But the other person doesn't have that luxury, but how much do you believe? How do you know what is true <and how much do you think you do>. The future is more obscure, pleads the hopeful. How do I wish to believe, I do believe what I know to be true. But that is not all I wish to believe. My Faith is kept with an open mind, for things I might immediately dismiss. This is why the truth, in it's smaller, petty form is now so important to me. 
 
 This man, this Edo Hiraam he is not styling himself. I beg you, keep your eyes about you. ... He is about to become very important to the city. He is to intercept Undeath and keep her from leaving the city. Either that or a messenger from The Warden of Wolf's Shelf Edo Rian come to pick her up.
 
@@ -34,3 +34,37 @@ He pleads with them to see his point of view: "Just yesterday, I was suspecting 
 When consipiericy theorists work to hard at texts, when they have deciphered what knowledge they have and dig past the bone into numerology, this is the story of the demons as they manifest themselves into the digital age. They are waking now in the era of the net, but they will begin to walk the earth.
 
 The stories of our past, what we take infrom them, and what we build of them. This is the core story we are here dealing with, I feel it will be long lived.
+
+
+What if every time you used a number with another number, they traded tokens?
+
+Notice how humans teach each other things with 3 to understand induction. https://www.youtube.com/watch?v=WyoH_vgiqXM 
+
+Build the Caveat system, where people are introduced to information as they demonstrate expertise.
+
+Conversation With The Holder Fungus: 
+
+The Assault on Spider's Hill
+
+One their way in, they meet with the Holder Uum and she tells them basically nothing about what they are going into. She is bubbly and sweet, and covered in moss.
+
+"Hello, you look like meeee!?! Well, if they wanted to have told me that, I would have known." 
+---
+"What I do? Well, between what you don't know what I can remember, if we (they) know something that is hopeful about what's about to happen here, they didn't tell me!"
+---
+"So I'm going, call me a coward, fine! I am a coward!"
+---
+"Doooo you remember what we weren't supposed to do?
+---
+
+She will tell them about mossbags and how to shield themselves. She is very pro free will, or so she says. She will give them some moss, if they wish to use it to shield themselves from the mind fungus.
+
+She will tell them of the bug wars, and the time that she was sent into a bug city with a team of Resurrectionists, handing out moss and causing a revolt.
+
+If it was good enough for those poor sods, it's good enough for you, I reckon.
+---
+
+When they enter, they sense some magical effects in the area. If they cast detect magic, they can speak with Muus, who will ask them what they want. She will start by planning out the evening. Would they like some food?
+
+Oh, would you like some chocolate? Maybe 
+----

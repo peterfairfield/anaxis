@@ -12,3 +12,8 @@ The Army. People for whom it is a job to fight. They will take your children. Th
 
 IMPORTANT The party will be the ones who reinstate the rat-hunt. The warrant that 
 
+The End of Time
+
+--
+
+-- Is this your first rodeo? How many times have you faced me before?
